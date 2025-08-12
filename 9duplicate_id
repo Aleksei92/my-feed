@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Флоувоу магазин</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Флоувоу категория</category>
+        </categories>
+        <offers>
+            <offer id="0123">
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Первый товар</name> <!-- form['name'] -->
+                <description>Описание первого товара</description> <!-- form['description'] -->
+                <picture>https://flowwow.loc/img1.jpg</picture>
+                <available>true</available>
+            </offer>
+            
+            <offer id="0123"> <!-- ДУБЛИКАТ - будет отклонен валидатором -->
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <price>200</price>
+                <name>Второй товар</name>
+                <description>Описание второго товара</description>
+                <picture>https://flowwow.loc/img2.jpg</picture>
+                <available>true</available>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
