@@ -63,8 +63,6 @@
 <name>цветок без размеров</name>
 <description>Красивая красная роза</description>
 <picture>https://flowwow.loc/rose.jpg</picture>
-<param name="Высота, мм">80</param>
-<param name="Ширина, мм">50</param>
 <consist name="роза" unit="шт">1</consist>
 			</offer>
 		</offers>
