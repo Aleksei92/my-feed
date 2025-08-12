@@ -11,7 +11,7 @@
             <category id="1">Флоувоу категория</category>
         </categories>
         <offers>
-            <offer id="0123">
+            <offer id="123">
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
@@ -21,7 +21,7 @@
                 <available>true</available>
             </offer>
             
-            <offer id="0123"> <!-- ДУБЛИКАТ - будет отклонен валидатором -->
+            <offer id="123"> <!-- ДУБЛИКАТ - будет отклонен валидатором -->
                 <currencyId>RUR</currencyId>
                 <categoryId>1</categoryId>
                 <price>200</price>
