@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <!-- <name> ОТСУТСТВУЕТ → FeedBasicValidator ошибка -->
+        <company>ООО Флоувоу</company>
+        <!-- <url> ОТСУТСТВУЕТ → FeedBasicValidator ошибка -->
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <!-- <categories> ОТСУТСТВУЕТ → FeedCategoryValidator ошибка -->
+        <offers>
+            <offer id="4001">
+                <categoryId>999</categoryId> <!-- Несуществующая категория -->
+                <description>Описание без названия</description>
+                <!-- <name> и <price> ОТСУТСТВУЮТ -->
+                <!-- <picture> ОТСУТСТВУЕТ -->
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
