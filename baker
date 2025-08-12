@@ -23,7 +23,6 @@
                 <consist name="Дрожжи" unit="г">5</consist>
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
-<param name="Длина, см">12</param>
 
             </offer>
             
@@ -37,9 +36,8 @@
                 <available>true</available>
                 <count>25</count> <!-- form['availability_count'] -->
                 <weight>0.1</weight> <!-- form['volume'] = 100г -->
-                <param name="Высота, см">6</param>
-                <param name="Ширина, см">12</param>
-                <param name="Длина, см">12</param>
+                <param name="Высота, мм">80</param><!--  form['height'] = 8см  -->
+                <param name="Ширина, мм">50</param><!--  form['width'] = 5см  -->
 
             </offer>
         </offers>
