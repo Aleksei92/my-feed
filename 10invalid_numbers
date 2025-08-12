@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Тест числовых значений</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Тест</category>
+        </categories>
+        <offers>
+            <offer id="1001">
+                <categoryId>1</categoryId>
+                <price>-100</price> <!-- ОШИБКА: отрицательная цена -->
+                <name>Товар с отрицательной ценой</name>
+                <description>Тест</description>
+                <picture>https://flowwow.loc/test.jpg</picture>
+                <count>-5</count> <!-- ОШИБКА: отрицательный остаток -->
+            </offer>
+            
+            <offer id="1002">
+                <categoryId>1</categoryId>
+                <price>abc</price> <!-- ОШИБКА: нечисловое значение -->
+                <name>Товар с текстом в цене</name>
+                <description>Тест</description>
+                <picture>https://flowwow.loc/test.jpg</picture>
+            </offer>
+            
+            <offer id="1003">
+                <categoryId>1</categoryId>
+                <price>0</price> <!-- ОШИБКА: нулевая цена -->
+                <name>Товар с нулевой ценой</name>
+                <description>Тест</description>
+                <picture>https://flowwow.loc/test.jpg</picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
