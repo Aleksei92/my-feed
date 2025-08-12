@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Хлебная лавка</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Хлебобулочные изделия</category>
+        </categories>
+        <offers>
+            <!-- Товар с тегами consist - приоритет над description -->
+            <offer id="2001">
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>150</price> <!-- form['cost'] -->
+                <name>Хлеб белый</name> <!-- form['name'] -->
+                <description>Мука пшеничная высшего сорта, вода, дрожжи, соль, сахар</description> <!-- form['description'] (остается) -->
+                <picture>https://flowwow.loc/white-bread.jpg</picture>
+                <available>true</available>
+                <count>50</count> <!-- form['availability_count'] -->
+                <weight>0.4</weight> <!-- form['volume'] = 400г -->
+                <consist name="Мука пшеничная" unit="г">300</consist> <!-- form['consist'] -->
+                <consist name="Вода" unit="мл">180</consist>
+                <consist name="Дрожжи" unit="г">5</consist>
+                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
+            </offer>
+            
+            <!-- Товар без consist - description переносится в composition -->
+            <offer id="2002">
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>180</price> <!-- form['cost'] -->
+                <name>Булочка с маком</name> <!-- form['name'] -->
+                <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description> <!-- form['composition'], form['description'] = '' -->
+                <picture>https://flowwow.loc/poppy-bun.jpg</picture>
+                <available>true</available>
+                <count>25</count> <!-- form['availability_count'] -->
+                <weight>0.1</weight> <!-- form['volume'] = 100г -->
+                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
