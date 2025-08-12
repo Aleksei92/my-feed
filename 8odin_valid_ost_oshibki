@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+	<shop>
+		<name>Магазин с частичными данными</name>
+		<company>ООО Ромашка</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="1">Цветы</category>
+		</categories>
+		<offers>
+			<offer id="8001">
+				<categoryId>1</categoryId>
+				<price>1500</price>
+				<name></name>
+				<description>Букет из пяти красных роз.</description>
+				<picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+			</offer>
+			<offer id="8002">
+				<categoryId>1</categoryId>
+				<price></price>
+				<name>Букет из белых тюльпанов без цены</name>
+				<description>Пять тюльпанов в крафтовой упаковке.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+			</offer>
+			<offer id="8003">
+				<categoryId>1</categoryId>
+				<price>1200</price>
+				<name>Букет из сирени без картинки</name>
+				<description>Ароматный букет сирени.</description>
+				<picture></picture>
+				<consist name="роза" unit="шт">1</consist>
+			</offer>
+			<offer id="8005">
+				<categoryId>1</categoryId>
+				<price>2000</price>
+				<name>Букет из пионов</name>
+				<description>Пышный букет розовых пионов.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+			</offer>
+			<offer id="8004">
+				<categoryId>1</categoryId>
+				<price>1800</price>
+				<name>Букет из пионов (с пустым составом)</name>
+				<description>Пышный букет розовых пионов для тестирования.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
