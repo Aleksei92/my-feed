@@ -18,7 +18,7 @@
             
             <offer id="5004">
                 <categoryId>34</categoryId> <price>350</price>
-                <name>Шар фольгированный настоящий</name>
+                <name>Шар фольгированный настоящий1</name>
                 <description>Фольгированный шар в форме сердца. Отлично подходит для Дня Святого Валентина.</description>
                 <picture>https://cdn.pixabay.com/photo/2017/02/10/18/31/balloons-2056073_1280.jpg</picture>
                 <param name="Материал">фольга</param>
