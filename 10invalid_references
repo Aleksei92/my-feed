@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+    <shop>
+        <name>Магазин с неверными ссылками</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+            <currency id="EUR" rate="1.1"/>
+        </currencies>
+        <categories>
+            <category id="1">Большие цветы и цветочки</category>
+        </categories>
+        <offers>
+            <offer id="11001">
+                <categoryId>9999</categoryId> <price>1500</price>
+                <name>Букет-призрак</name>
+                <description>Букет, который не может быть импортирован из-за неверной категории.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+            </offer>
+
+            <offer id="11002">
+                <categoryId>1</categoryId>
+                <currencyId>USD</currencyId> <price>20</price>
+                <name>Цветы в долларах</name>
+                <description>Цена указана в USD, но валюта не объявлена.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+            </offer>
+            
+            <offer id="11003">
+                <categoryId>1</categoryId>
+                <currencyId>RUR</currencyId>
+                <price>2500</price>
+                <name>Корректный букет</name>
+                <description>Этот товар должен быть импортирован успешно.</description>
+                <picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
