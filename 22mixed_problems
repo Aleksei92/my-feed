@@ -9,10 +9,10 @@
             <category id="5">Лучшая категория</category>
         </categories>
         <offers>
-            <offer id="22001">
+            <offer id="23001">
                 <categoryId>1</categoryId>
                 <price>1500</price>
-                <name>Букет "Успех"</name>
+                <name>Букет Успех</name>
                 <description>Этот товар должен быть импортирован без проблем.</description>
                 <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
                 <consist name="роза" unit="шт">5</consist>
@@ -35,10 +35,10 @@
                 <picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
             </offer>
 
-            <offer id="22004">
+            <offer id="23004">
                 <categoryId>1</categoryId>
                 <price>250</price>
-                <name>Вкусная выпечка</name>
+                <name>Вкусная букет</name>
                 <description>Этот товар также должен быть импортирован.</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/23/06/bread-3482163_1280.jpg</picture>
 				<consist name="роза" unit="шт">5</consist>
@@ -62,7 +62,7 @@
                 <picture>https://cdn.pixabay.com/photo/2017/01/16/16/00/white-1984242_1280.jpg</picture>
             </offer>
 
-            <offer id="22007">
+            <offer id="23007">
                 <categoryId>1</categoryId>
                 <price>450</price>
                 <name>Сцпер букет</name>
