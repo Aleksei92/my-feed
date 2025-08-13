@@ -80,6 +80,7 @@
                 <downloadable>false</downloadable>
                 <param name="Type of delivery">material media</param>
                 <param name="Номинал">2000 руб</param>
+<qty>200</qty>
             </offer>
 
             <!-- Смешанный тип - и электронный, и физический -->
@@ -94,6 +95,7 @@
                 <param name="Вид поставки">электронный ключ</param>
                 <param name="Вид поставки">материальный носитель</param>
                 <param name="Номинал">1500 руб</param>
+<qty>200</qty>
             </offer>
 
             <!-- Только downloadable=true (без дополнительных параметров) -->
@@ -106,6 +108,7 @@
                 <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Номинал">500 руб</param>
+<qty>200</qty>
             </offer>
 
             <!-- Только downloadable=false (без дополнительных параметров) -->
@@ -118,6 +121,7 @@
                 <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>false</downloadable>
                 <param name="Номинал">800 руб</param>
+<qty>200</qty>
             </offer>
         </offers>
     </shop>
