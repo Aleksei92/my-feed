@@ -14,7 +14,7 @@
         </categories>
 
         <offers>
-            <!-- Только электронный (через downloadable=true) -->
+            <!-- Только электронный (через downloadable=true + param) -->
             <offer id="5001">
                 <name>Электронный сертификат 1000</name>
                 <price>1000</price>
@@ -22,10 +22,11 @@
                 <categoryId>1</categoryId>
                 <description>Электронный подарочный сертификат</description>
                 <downloadable>true</downloadable>
+                <param name="Вид поставки">электронный ключ</param>
                 <param name="Номинал">1000 руб</param>
             </offer>
 
-            <!-- Только физический (через downloadable=false) -->
+            <!-- Только физический (через downloadable=false + param) -->
             <offer id="5002">
                 <name>Физический сертификат 5000</name>
                 <price>5000</price>
@@ -33,10 +34,11 @@
                 <categoryId>1</categoryId>
                 <description>Подарочный сертификат на пластиковой карте</description>
                 <downloadable>false</downloadable>
+                <param name="Вид поставки">материальный носитель</param>
                 <param name="Номинал">5000 руб</param>
             </offer>
 
-            <!-- Физический через параметр "Вид поставки" -->
+            <!-- Физический только через параметр "Вид поставки" -->
             <offer id="5003">
                 <name>Сертификат с доставкой 3000</name>
                 <price>3000</price>
@@ -54,8 +56,56 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Electronic gift card</description>
+                <downloadable>true</downloadable>
                 <param name="Type of delivery">electronic key</param>
                 <param name="Amount">$100</param>
+            </offer>
+
+            <!-- Физический через "Type of delivery" = "material media" -->
+            <offer id="5005">
+                <name>Premium Gift Card 2000</name>
+                <price>2000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Premium physical gift card</description>
+                <downloadable>false</downloadable>
+                <param name="Type of delivery">material media</param>
+                <param name="Номинал">2000 руб</param>
+            </offer>
+
+            <!-- Смешанный тип - и электронный, и физический -->
+            <offer id="5006">
+                <name>Универсальный сертификат 1500</name>
+                <price>1500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Сертификат с выбором способа доставки</description>
+                <downloadable>true</downloadable>
+                <param name="Вид поставки">электронный ключ</param>
+                <param name="Вид поставки">материальный носитель</param>
+                <param name="Номинал">1500 руб</param>
+            </offer>
+
+            <!-- Только downloadable=true (без дополнительных параметров) -->
+            <offer id="5007">
+                <name>Простой электронный сертификат</name>
+                <price>500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Базовый электронный сертификат</description>
+                <downloadable>true</downloadable>
+                <param name="Номинал">500 руб</param>
+            </offer>
+
+            <!-- Только downloadable=false (без дополнительных параметров) -->
+            <offer id="5008">
+                <name>Простой физический сертификат</name>
+                <price>800</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Базовый физический сертификат</description>
+                <downloadable>false</downloadable>
+                <param name="Номинал">800 руб</param>
             </offer>
         </offers>
     </shop>
