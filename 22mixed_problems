@@ -65,7 +65,7 @@
             <offer id="23007">
                 <categoryId>1</categoryId>
                 <price>450</price>
-                <name>Сцпер букет</name>
+                <name>Супер букет</name>
                 <description>Специализированный товар. Должен импортироваться.</description>
                 <picture>https://cdn.pixabay.com/photo/2021/04/09/16/09/strawberry-6165203_1280.jpg</picture>
 				<consist name="роза" unit="шт">5</consist>
