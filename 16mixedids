@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Флоувоу с разными ID</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Категория</category>
+        </categories>
+        <offers>
+            <offer id="12345"> <!-- Числовой ID - остается 12345 -->
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Товар с числовым ID</name> <!-- form['name'] -->
+                <description>Обычный числовой идентификатор</description> <!-- form['description'] -->
+                <picture>https://flowwow.loc/numeric.jpg</picture>
+                <available>true</available> <!-- form['status'] -->
+            </offer>
+            
+            <offer id="PROD_ABC123"> <!-- Строковый ID - хешируется через crc32 функцию -->
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>200</price> <!-- form['cost'] -->
+                <name>Товар с буквенным ID</name> <!-- form['name'] -->
+                <description>Буквенно-цифровой идентификатор</description> <!-- form['description'] -->
+                <picture>https://flowwow.loc/alphanumeric.jpg</picture>
+                <available>true</available> <!-- form['status'] -->
+            </offer>
+            
+            <offer id="ITEM-2024/001"> <!-- ID с символами - хешируется -->
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>300</price> <!-- form['cost'] -->
+                <name>Товар с символами в ID</name> <!-- form['name'] -->
+                <description>ID содержит дефис и слеш</description> <!-- form['description'] -->
+                <picture>https://flowwow.loc/special.jpg</picture>
+                <available>true</available> <!-- form['status'] -->
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
