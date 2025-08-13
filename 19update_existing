@@ -8,7 +8,7 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="19001">
+            <offer id="19001" available="true">
                 <categoryId>1</categoryId>
                 <price>1500</price>
                 <name>Букет из роз</name>
@@ -20,7 +20,7 @@
 <qty>10</qty>
             </offer>
 
-            <offer id="19003">
+            <offer id="19003" available="true">
                 <categoryId>1</categoryId>
 <price>500</price>
 <name>Роза красная попытка </name>
