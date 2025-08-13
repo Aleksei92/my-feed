@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root date="2025-08-05T12:00:00+03:00">
+    <catalog>
+        <company_info>
+            <company_name>Магазин с нестандартным фидом</company_name>
+            <url_address>https://flowwow.loc</url_address>
+        </company_info>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <items>
+            <item id="21001">
+                <category_id>1</category_id>
+                <product_title>Букет для тестирования</product_title> <product_price>2000</product_price> <product_description>Описание товара для проверки нестандартного фида.</product_description>
+                <photo>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</photo>
+            </item>
+        </items>
+    </catalog>
+</root>
