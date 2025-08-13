@@ -25,6 +25,7 @@
                 <downloadable>true</downloadable>
                 <param name="Вид поставки">электронный ключ</param>
                 <param name="Номинал">1000 руб</param>
+                <qty>100</qty>
             </offer>
 
             <!-- Только физический (через downloadable=false + param) -->
@@ -38,6 +39,7 @@
                 <downloadable>false</downloadable>
                 <param name="Вид поставки">материальный носитель</param>
                 <param name="Номинал">5000 руб</param>
+                <qty>50</qty>
             </offer>
 
             <!-- Физический только через параметр "Вид поставки" -->
@@ -50,6 +52,7 @@
                 <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <param name="Вид поставки">материальный носитель</param>
                 <param name="Номинал">3000 руб</param>
+                <qty>75</qty>
             </offer>
 
             <!-- Электронный через параметр "Type of delivery" -->
@@ -63,6 +66,7 @@
                 <downloadable>true</downloadable>
                 <param name="Type of delivery">electronic key</param>
                 <param name="Amount">$100</param>
+                <qty>200</qty>
             </offer>
 
             <!-- Физический через "Type of delivery" = "material media" -->
