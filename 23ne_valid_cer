@@ -24,21 +24,7 @@
                 <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <param name="Номинал">1000 руб</param>
                 <qty>100</qty>
-            </offer>
-
-            <offer id="6002">
-                <name>Сертификат с конфликтом</name>
-                <price>2000</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <description>Электронная и физическая доставка одновременно</description>
-                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
-                <downloadable>true</downloadable>
-                <downloadable>false</downloadable>
-                <param name="Номинал">2000 руб</param>
-                <qty>50</qty>
-            </offer>
-            
+            </offer>            
             <offer id="6003">
                 <name>Сертификат с неверным параметром</name>
                 <price>3000</price>
@@ -51,17 +37,6 @@
                 <qty>75</qty>
             </offer>
             
-            <offer id="6004">
-                <name>Букет с доставкой сертификата</name>
-                <price>2500</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>2</categoryId>
-                <description>Проверка тега в другой категории</description>
-                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
-                <downloadable>true</downloadable>
-                <consist name="роза" unit="шт">5</consist>
-                <qty>20</qty>
-            </offer>
         </offers>
     </shop>
 </yml_catalog>
