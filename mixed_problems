@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+    <shop>
+        <name>Магазин с множеством проблем</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+            <category id="5">Лучшая категория</category>
+        </categories>
+        <offers>
+            <offer id="22001">
+                <categoryId>1</categoryId>
+                <price>1500</price>
+                <name>Букет "Успех"</name>
+                <description>Этот товар должен быть импортирован без проблем.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+                <consist name="роза" unit="шт">5</consist>
+                <param name="Ширина, мм">250</param>
+                <param name="Высота, мм">300</param>
+            </offer>
+
+            <offer id="22002">
+                <categoryId>1</categoryId>
+                <name>Товар без цены</name>
+                <description>Ожидается ошибка "Цена должна быть положительной".</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+            </offer>
+            
+            <offer id="22003">
+                <categoryId>1</categoryId>
+                <price>-100</price>
+                <name>Товар с отрицательной ценой</name>
+                <description>Ожидается ошибка "Цена должна быть положительной".</description>
+                <picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
+            </offer>
+
+            <offer id="22004">
+                <categoryId>1</categoryId>
+                <price>250</price>
+                <name>Вкусная выпечка</name>
+                <description>Этот товар также должен быть импортирован.</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/23/06/bread-3482163_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+                <param name="Ширина, мм">250</param>
+                <param name="Высота, мм">300</param>
+            </offer>
+            
+            <offer id="22005">
+                <categoryId>999</categoryId>
+                <price>3000</price>
+                <name>Букет из несуществующей категории</name>
+                <description>Ожидается ошибка "Категория не найдена".</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/11/14/06/wedding-1509995_1280.jpg</picture>
+            </offer>
+            
+            <offer id="22006220062200622006220062200622006220062200622006">
+                <categoryId>1</categoryId>
+                <price>1900</price>
+                <name>Букет с очень длинным ID</name>
+                <description>ID превышает лимит.</description>
+                <picture>https://cdn.pixabay.com/photo/2017/01/16/16/00/white-1984242_1280.jpg</picture>
+            </offer>
+
+            <offer id="22007">
+                <categoryId>1</categoryId>
+                <price>450</price>
+                <name>Сцпер букет</name>
+                <description>Специализированный товар. Должен импортироваться.</description>
+                <picture>https://cdn.pixabay.com/photo/2021/04/09/16/09/strawberry-6165203_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+                <param name="Ширина, мм">250</param>
+                <param name="Высота, мм">300</param>
+            </offer>
+
+            <offer id="22008">
+                <categoryId>1</categoryId>
+                <price>1200</price>
+                <name>Букет с неверной ссылкой на фото</name>
+                <description>Ожидается ошибка валидации URL.</description>
+                <picture>not-a-valid-url</picture>
+            </offer>
+            
+            <offer id="22009">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name></name>
+                <description>Ожидается ошибка "Название товара обязательно".</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+            </offer>
+
+            <offer id="22010">
+                <categoryId>1</categoryId>
+                <name></name>
+                <price></price>
+                <description>Ожидается несколько ошибок валидации.</description>
+                <picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
