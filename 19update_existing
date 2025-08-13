@@ -17,9 +17,7 @@
 <param name="Высота, мм">80</param>
 <param name="Ширина, мм">50</param>
 <consist name="роза" unit="шт">1</consist>
-<qty>10</qty>
             </offer>
-
             <offer id="19003" available="true">
                 <categoryId>1</categoryId>
 <price>500</price>
@@ -29,7 +27,6 @@
 <param name="Высота, мм">80</param>
 <param name="Ширина, мм">50</param>
 <consist name="роза" unit="шт">1</consist>
-<qty>5</qty>
             </offer>
         </offers>
     </shop>
