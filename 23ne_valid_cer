@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-15">
+    <shop>
+        <name>Negative Test Shop</name>
+        <company>Test Company</company>
+        <url>https://test-shop.com</url>
+
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+
+        <categories>
+            <category id="1">Подарочные сертификаты</category>
+            <category id="2">Цветы</category>
+        </categories>
+
+        <offers>
+            <offer id="6001">
+                <name>Сертификат без доставки</name>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>У этого сертификата нет типа доставки</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <param name="Номинал">1000 руб</param>
+                <qty>100</qty>
+            </offer>
+
+            <offer id="6002">
+                <name>Сертификат с конфликтом</name>
+                <price>2000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Электронная и физическая доставка одновременно</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <downloadable>false</downloadable>
+                <param name="Номинал">2000 руб</param>
+                <qty>50</qty>
+            </offer>
+            
+            <offer id="6003">
+                <name>Сертификат с неверным параметром</name>
+                <price>3000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Неверное значение для доставки</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <param name="Вид поставки">несуществующий тип</param>
+                <param name="Номинал">3000 руб</param>
+                <qty>75</qty>
+            </offer>
+            
+            <offer id="6004">
+                <name>Букет с доставкой сертификата</name>
+                <price>2500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>2</categoryId>
+                <description>Проверка тега в другой категории</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <consist name="роза" unit="шт">5</consist>
+                <qty>20</qty>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
