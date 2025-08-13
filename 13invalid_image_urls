@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+    <shop>
+        <name>Магазин с некорректными изображениями</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="13001">
+                <categoryId>1</categoryId>
+                <price>1500</price>
+                <name>Букет с невалидной ссылкой</name>
+                <description>Букет, который должен быть отклонен из-за неверного формата URL.</description>
+                <picture>not-a-valid-url</picture>
+            </offer>
+
+            <offer id="13002">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Букет с неверным протоколом</name>
+                <description>Должен быть отклонен из-за протокола FTP.</description>
+                <picture>ftp://wrong-protocol.com/image.jpg</picture>
+            </offer>
+            
+            <offer id="13003">
+                <categoryId>1</categoryId>
+                <price>1200</price>
+                <name>Букет без фото</name>
+                <description>Товар без изображения. Должен быть отклонен, так как требуется минимум одно фото.</description>
+                <picture></picture>
+            </offer>
+            
+            <offer id="13004">
+                <categoryId>1</categoryId>
+                <price>2500</price>
+                <name>Букет с корректным фото</name>
+                <description>Этот товар должен быть импортирован успешно.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
