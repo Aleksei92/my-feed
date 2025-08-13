@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+    <shop>
+        <name>Магазин с неизвестными тегами</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        
+        <custom_info>
+            <test_data>Данные, которые должны быть проигнорированы</test_data>
+        </custom_info>
+        
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="18001">
+                <categoryId>1</categoryId>
+                <price>1500</price>
+                <name>Букет с неизвестным тегом</name>
+                <description>Этот товар должен быть импортирован, а дополнительный тег — проигнорирован.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+                
+                <internal_note>Это внутренняя заметка, которая не должна попасть в БД.</internal_note>
+            </offer>
+            
+            <offer id="18002" custom-attribute="some_value">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Букет с неизвестными атрибутами</name>
+                <description>Товар с неизвестными атрибутами и тегами.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <another_tag>Неизвестный тег</another_tag>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
