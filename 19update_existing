@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+    <shop>
+        <name>Магазин для обновления</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="19001">
+                <categoryId>1</categoryId>
+                <price>1500</price>
+                <name>Букет из роз</name>
+                <description>Классический букет из 5 красных роз.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+<consist name="роза" unit="шт">1</consist>
+<qty>10</qty>
+            </offer>
+
+            <offer id="19003">
+                <categoryId>1</categoryId>
+<price>500</price>
+<name>Роза красная попытка </name>
+<description>второй букет из роз</description>
+<picture>https://flowwow.loc/rose.jpg</picture>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+<consist name="роза" unit="шт">1</consist>
+<qty>5</qty>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
