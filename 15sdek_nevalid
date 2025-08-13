@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-08T12:00:00+03:00">
+    <shop>
+        <name>Магазин для СДЭК-лимиты</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+			<category id="8">Мягкие игрушки</category>
+        </categories>
+        <offers>
+            <offer id="6061">
+                <categoryId>1</categoryId>
+                <price>1000</price>
+                <name>Медведь без веса (Тест СДЭК)</name>
+                <description>Товар, у которого отсутствует вес. Ожидается ошибка.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
+                <param name="Высота, мм">150</param>
+                <param name="Ширина, мм">100</param>
+                <param name="Длина, мм">50</param>
+                <delivery>true</delivery>
+            </offer>
+
+            <offer id="6062">
+                <categoryId>1</categoryId>
+                <price>1200</price>
+                <name>Зайчик без размеров (Тест СДЭК)</name>
+                <description>Товар, у которого не заполнены размеры. Ожидается ошибка.</description>
+                <picture>https://cdn.pixabay.com/photo/2014/12/10/18/33/bunny-563574_1280.jpg</picture>
+                <weight>0.1</weight>
+                <delivery>true</delivery>
+            </offer>
+            
+            <offer id="6063">
+                <categoryId>1</categoryId>
+                <price>50000</price>
+                <name>Гигантский медведь (Тест СДЭК)</name>
+                <description>Товар с размерами, превышающими допустимые лимиты.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
+                <weight>5.0</weight>
+                <param name="Высота, см">200</param>
+                <param name="Ширина, см">150</param>
+                <param name="Длина, см">100</param>
+                <delivery>true</delivery>
+            </offer>
+            
+            <offer id="6064">
+                <categoryId>1</categoryId>
+                <price>30000</price>
+                <name>Свинцовый заяц (Тест СДЭК)</name>
+                <description>Товар, вес которого превышает 30 кг. Ожидается ошибка.</description>
+                <picture>https://cdn.pixabay.com/photo/2014/12/10/18/33/bunny-563574_1280.jpg</picture>
+                <weight>30.1</weight>
+                <param name="Высота, мм">100</param>
+                <param name="Ширина, мм">80</param>
+                <param name="Длина, мм">40</param>
+                <delivery>true</delivery>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
