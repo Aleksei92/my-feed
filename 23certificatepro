@@ -21,6 +21,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Электронный подарочный сертификат</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Вид поставки">электронный ключ</param>
                 <param name="Номинал">1000 руб</param>
@@ -33,6 +34,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Подарочный сертификат на пластиковой карте</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>false</downloadable>
                 <param name="Вид поставки">материальный носитель</param>
                 <param name="Номинал">5000 руб</param>
@@ -45,6 +47,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Подарочный сертификат с курьерской доставкой</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <param name="Вид поставки">материальный носитель</param>
                 <param name="Номинал">3000 руб</param>
             </offer>
@@ -56,6 +59,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Electronic gift card</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Type of delivery">electronic key</param>
                 <param name="Amount">$100</param>
@@ -68,6 +72,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Premium physical gift card</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>false</downloadable>
                 <param name="Type of delivery">material media</param>
                 <param name="Номинал">2000 руб</param>
@@ -80,6 +85,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Сертификат с выбором способа доставки</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Вид поставки">электронный ключ</param>
                 <param name="Вид поставки">материальный носитель</param>
@@ -93,6 +99,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Базовый электронный сертификат</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Номинал">500 руб</param>
             </offer>
@@ -104,6 +111,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Базовый физический сертификат</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>false</downloadable>
                 <param name="Номинал">800 руб</param>
             </offer>
