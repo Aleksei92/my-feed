@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-15">
+    <shop>
+        <name>Gift Certificate Shop</name>
+        <company>Gift Company</company>
+        <url>https://gift-shop.com</url>
+
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+
+        <categories>
+            <category id="1">Подарочные сертификаты</category>
+        </categories>
+
+        <offers>
+            <!-- Только электронный (через downloadable=true) -->
+            <offer id="5001">
+                <name>Электронный сертификат 1000</name>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Электронный подарочный сертификат</description>
+                <downloadable>true</downloadable>
+                <param name="Номинал">1000 руб</param>
+            </offer>
+
+            <!-- Только физический (через downloadable=false) -->
+            <offer id="5002">
+                <name>Физический сертификат 5000</name>
+                <price>5000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Подарочный сертификат на пластиковой карте</description>
+                <downloadable>false</downloadable>
+                <param name="Номинал">5000 руб</param>
+            </offer>
+
+            <!-- Физический через параметр "Вид поставки" -->
+            <offer id="5003">
+                <name>Сертификат с доставкой 3000</name>
+                <price>3000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Подарочный сертификат с курьерской доставкой</description>
+                <param name="Вид поставки">материальный носитель</param>
+                <param name="Номинал">3000 руб</param>
+            </offer>
+
+            <!-- Электронный через параметр "Type of delivery" -->
+            <offer id="5004">
+                <name>E-Gift Card 100</name>
+                <price>7500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Electronic gift card</description>
+                <param name="Type of delivery">electronic key</param>
+                <param name="Amount">$100</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
