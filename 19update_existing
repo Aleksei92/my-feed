@@ -10,22 +10,22 @@
         <offers>
             <offer id="19001" available="true">
                 <categoryId>1</categoryId>
-                <price>1700</price>
+                <price>1050</price>
                 <name>Букет из роз</name>
-                <description>Классический букет из 5 красных роз. Обновлённый</description>
+                <description>Новый букет + 1 роза. Классический букет из 5 красных роз. Обновлённый</description>
                 <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
-<param name="Высота, мм">100</param>
-<param name="Ширина, мм">50</param>
-<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">115</param>
+<param name="Ширина, мм">55</param>
+<consist name="роза" unit="шт">6</consist>
             </offer>
             <offer id="19003" available="true">
                 <categoryId>1</categoryId>
 <price>2500</price>
-<name>Роза красная попытка </name>
-<description>Пышный и яркий сборный букет. Это новый товар</description>
+<name>Прекрасный новый букет</name>
+<description>Очень крутой. Пышный и яркий сборный букет. Это новый товар</description>
 <picture>https://flowwow.loc/rose.jpg</picture>
-<param name="Высота, мм">80</param>
-<param name="Ширина, мм">50</param>
+<param name="Высота, мм">100</param>
+<param name="Ширина, мм">75</param>
 <consist name="роза" unit="шт">1</consist>
             </offer>
         </offers>
