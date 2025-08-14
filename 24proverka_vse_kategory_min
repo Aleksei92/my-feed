@@ -421,13 +421,12 @@
             </offer>
             <offer id="37">
                 <categoryId>37</categoryId>
-                <name>Универсальный сертификат<name>
+                <name>Сертификат электронный<name>
                 <price>1000</price>
-                <description>Сертификат с выбором способа доставки</description>
+                <description>Сертификат с</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Вид поставки">электронный ключ</param>
-<param name="Вид поставки">материальный носитель</param>
 <param name="Номинал">1500 руб</param>
 <qty>100</qty>
             </offer>
