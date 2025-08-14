@@ -158,15 +158,14 @@
                 <categoryId>11</categoryId>
                 <name>Кондитерские и пекарни</name>
                 <price>1800</price>
-                <description>Маленький торт для одного Состав: Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description>
+                <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description>
                 <picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
                 <weight>0.5</weight>
                 <available>true</available>
                 <consist name="бисквит" unit="г">200</consist>
-                <param name="Ширина, мм">100</param>
-                <param name="Высота, мм">80</param>
-<consist name="Вода" unit="мл">180</consist>
-<consist name="Дрожжи" unit="г">5</consist>
+                <param name="Высота, см">6</param>
+<param name="Ширина, см">12</param>
+<param name="Длина, см">12</param>
             </offer>
             <offer id="12">
                 <categoryId>12</categoryId>
