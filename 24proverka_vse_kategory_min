@@ -162,8 +162,6 @@
                 <picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
                 <weight>0.5</weight>
                 <available>true</available>
-                <consist name="бисквит" unit="г">200</consist>
-<consist name="хлопок" unit="шт">3</consist>
                 <param name="Высота, см">6</param>
 <param name="Ширина, см">12</param>
 <param name="Длина, см">12</param>
