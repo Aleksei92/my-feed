@@ -421,6 +421,7 @@
             </offer>
             <offer id="37">
                 <categoryId>37</categoryId>
+ <currencyId>RUB</currencyId>
                 <name>Сертификат электронный<name>
                 <price>1000</price>
                 <description>Сертификат с</description>
