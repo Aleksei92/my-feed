@@ -1,0 +1,48 @@
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+<shop>
+<name>Магазин где есть все товары</name>
+<company>ООО Тест</company>
+<url>https://flowwow.loc</url>
+<categories>
+<category id="1">Цветы 1</category>
+<category id="2">Цветы 44 сухоцвет</category>
+<category id="3">Цветы 10 подарочные наборы</category>
+<category id="4">Цветы 8 мгкие игр</category>
+<category id="5">Цветы 118 цветы поштучно</category>
+<category id="6">Цветы 208 букет из мыла</category>
+<category id="7">Цветы 43 стабилизированные</category>
+<category id="8">Цветы 89 другое</category>
+<category id="9">Съедобные букеты 22</category>
+<category id="10">Съедобные букеты 112 из клубники</category>
+<category id="11">Кондитерские и пекарни</category>
+<category id="12">Воздушные шары</category>
+<category id="13">Комнатные растения 14</category>
+<category id="14">Комнатные растения 20 саженцы и рассада</category>
+<category id="15">Комнатные растения 140 Кашпо и горшки для цветов</category>
+<category id="16">Косметика и Парфюмерия 34</category>
+<category id="17">Косметика и Парфюмерия 198 мыло ручной работы</category>
+<category id="18">Магазины чая и кофе 29 чай</category>
+<category id="19">Магазины чая и кофе 90 наборы</category>
+<category id="20">Магазины чая и кофе 213 аксессуары</category>
+<category id="21">Украшения</category>
+<category id="22">Вкусные наборы</category>
+<category id="23">Декор</category>
+<category id="24">Посуда</category>
+<category id="25">Аксессуары</category>
+<category id="26">Обувь</category>
+<category id="27">Одежда</category>
+<category id="28">Одежда 356 шорты</category>
+<category id="29">Хендмейд и хобби</category>
+<category id="30">Одежда для детей</category>
+<category id="31">Товары для праздника 127 Ёлки</category>
+<category id="32">Товары для праздника 232 Оформление цветами</category>
+<category id="33">Товары для праздника</category>
+<category id="34">Книги</category>
+<category id="35">Картины</category>
+<category id="36">Зоотовары</category>
+<category id="37">Подарочные сертификаты</category>
+<category id="38">Для дома</category>
+<category id="39">Канцелярские товары</category>
+<category id="40">Другое</category>
+<category id="41">Sexual wellness</category>
+</categories>
