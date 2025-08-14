@@ -155,17 +155,19 @@
                 <param name="Время изготовления">60</param>
             </offer>
             <offer id="11">
-                <categoryId>11</categoryId>
-                <name>Кондитерские и пекарни</name>
-                <price>1800</price>
-                <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description>
-                <picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
-                <weight>0.5</weight>
-                <available>true</available>
-                <param name="Высота, см">6</param>
-<param name="Ширина, см">12</param>
-<param name="Длина, см">12</param>
-            </offer>
+    <categoryId>11</categoryId>
+    <name>Кондитерские и пекарни</name>
+    <price>1800</price>
+    <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description>
+    <picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
+    <weight>0.5</weight>
+    <available>true</available>
+    <param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
+    <param name="Объем, мл">500</param> <!-- Добавлено -->
+    <param name="Высота, см">6</param>
+    <param name="Ширина, см">12</param>
+    <param name="Длина, см">12</param>
+</offer>
             <offer id="12">
                 <categoryId>12</categoryId>
                 <name>Воздушные шары</name>
