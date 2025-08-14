@@ -1,48 +1,454 @@
-<yml_catalog date="2025-08-05T12:00:00+03:00">
-<shop>
-<name>Магазин где есть все товары</name>
-<company>ООО Тест</company>
-<url>https://flowwow.loc</url>
-<categories>
-<category id="1">Цветы 1</category>
-<category id="2">Цветы 44 сухоцвет</category>
-<category id="3">Цветы 10 подарочные наборы</category>
-<category id="4">Цветы 8 мгкие игр</category>
-<category id="5">Цветы 118 цветы поштучно</category>
-<category id="6">Цветы 208 букет из мыла</category>
-<category id="7">Цветы 43 стабилизированные</category>
-<category id="8">Цветы 89 другое</category>
-<category id="9">Съедобные букеты 22</category>
-<category id="10">Съедобные букеты 112 из клубники</category>
-<category id="11">Кондитерские и пекарни</category>
-<category id="12">Воздушные шары</category>
-<category id="13">Комнатные растения 14</category>
-<category id="14">Комнатные растения 20 саженцы и рассада</category>
-<category id="15">Комнатные растения 140 Кашпо и горшки для цветов</category>
-<category id="16">Косметика и Парфюмерия 34</category>
-<category id="17">Косметика и Парфюмерия 198 мыло ручной работы</category>
-<category id="18">Магазины чая и кофе 29 чай</category>
-<category id="19">Магазины чая и кофе 90 наборы</category>
-<category id="20">Магазины чая и кофе 213 аксессуары</category>
-<category id="21">Украшения</category>
-<category id="22">Вкусные наборы</category>
-<category id="23">Декор</category>
-<category id="24">Посуда</category>
-<category id="25">Аксессуары</category>
-<category id="26">Обувь</category>
-<category id="27">Одежда</category>
-<category id="28">Одежда 356 шорты</category>
-<category id="29">Хендмейд и хобби</category>
-<category id="30">Одежда для детей</category>
-<category id="31">Товары для праздника 127 Ёлки</category>
-<category id="32">Товары для праздника 232 Оформление цветами</category>
-<category id="33">Товары для праздника</category>
-<category id="34">Книги</category>
-<category id="35">Картины</category>
-<category id="36">Зоотовары</category>
-<category id="37">Подарочные сертификаты</category>
-<category id="38">Для дома</category>
-<category id="39">Канцелярские товары</category>
-<category id="40">Другое</category>
-<category id="41">Sexual wellness</category>
-</categories>
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-14T12:00:00+03:00">
+    <shop>
+        <name>Мастер-фид для всех категорий</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы 1</category>
+            <category id="2">Цветы 44 сухоцвет</category>
+            <category id="3">Цветы 10 подарочные наборы</category>
+            <category id="4">Цветы 8 мягкие игр</category>
+            <category id="5">Цветы 118 цветы поштучно</category>
+            <category id="6">Цветы 208 букет из мыла</category>
+            <category id="7">Цветы 43 стабилизированные</category>
+            <category id="8">Цветы 89 другое</category>
+            <category id="9">Съедобные букеты 22</category>
+            <category id="10">Съедобные букеты 112 из клубники</category>
+            <category id="11">Кондитерские и пекарни</category>
+            <category id="12">Воздушные шары</category>
+            <category id="13">Комнатные растения 14</category>
+            <category id="14">Комнатные растения 20 саженцы и рассада</category>
+            <category id="15">Комнатные растения 140 Кашпо и горшки для цветов</category>
+            <category id="16">Косметика и Парфюмерия 34</category>
+            <category id="17">Косметика и Парфюмерия 198 мыло ручной работы</category>
+            <category id="18">Магазины чая и кофе 29 чай</category>
+            <category id="19">Магазины чая и кофе 90 наборы</category>
+            <category id="20">Магазины чая и кофе 213 аксессуары</category>
+            <category id="21">Украшения</category>
+            <category id="22">Вкусные наборы</category>
+            <category id="23">Декор</category>
+            <category id="24">Посуда</category>
+            <category id="25">Аксессуары</category>
+            <category id="26">Обувь</category>
+            <category id="27">Одежда</category>
+            <category id="28">Одежда 356 шорты</category>
+            <category id="29">Хендмейд и хобби</category>
+            <category id="30">Одежда для детей</category>
+            <category id="31">Товары для праздника 127 Ёлки</category>
+            <category id="32">Товары для праздника 232 Оформление цветами</category>
+            <category id="33">Товары для праздника</category>
+            <category id="34">Книги</category>
+            <category id="35">Картины</category>
+            <category id="36">Зоотовары</category>
+            <category id="37">Подарочные сертификаты</category>
+            <category id="38">Для дома</category>
+            <category id="39">Канцелярские товары</category>
+            <category id="40">Другое</category>
+            <category id="41">Sexual wellness</category>
+        </categories>
+        <offers>
+            <offer id="1">
+                <categoryId>1</categoryId>
+                <price>1500</price>
+                <name>Цветы 1</name>
+                <description>Классический букет из 5 роз</description>
+                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+                <consist name="роза" unit="шт">5</consist>
+                <param name="Высота, мм">400</param>
+                <param name="Ширина, мм">250</param>
+                <param name="Время изготовления">60</param>
+            </offer>
+            <offer id="2">
+                <categoryId>2</categoryId>
+                <name>Цветы 44 сухоцвет</name>
+                <price>1200</price>
+                <description>Букет из лаванды и хлопка</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">200</param>
+                <available>true</available>
+            </offer>
+            <offer id="3">
+                <categoryId>3</categoryId>
+                <name>Цветы 10 подарочные наборы</name>
+                <price>2500</price>
+                <description>Набор с цветами и сладостями</description>
+                <picture>https://cdn.pixabay.com/photo/2017/08/06/15/34/bag-2594611_1280.jpg</picture>
+                <available>true</available>
+                <consist name="роза" unit="шт">3</consist>
+                <param name="Высота, мм">250</param>
+                <param name="Ширина, мм">200</param>
+            </offer>
+            <offer id="4">
+                <categoryId>4</categoryId>
+                <name>Цветы 8 мягкие игр</name>
+                <price>1800</price>
+                <description>Мишка, сделанный из роз</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">250</param>
+            </offer>
+            <offer id="5">
+                <categoryId>5</categoryId>
+                <name>Цветы 118 цветы поштучно</name>
+                <price>150</price>
+                <description>Одна красная роза</description>
+                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+                <available>true</available>
+                <count>10</count>
+                <param name="Высота, мм">500</param>
+            </offer>
+            <offer id="6">
+                <categoryId>6</categoryId>
+                <name>Цветы 208 букет из мыла</name>
+                <price>800</price>
+                <description>Букет, имитирующий цветы</description>
+                <picture>https://cdn.pixabay.com/photo/2017/02/15/15/15/cinnamon-rolls-2069275_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">250</param>
+                <param name="Ширина, мм">150</param>
+            </offer>
+            <offer id="7">
+                <categoryId>7</categoryId>
+                <name>Цветы 43 стабилизированные</name>
+                <price>2000</price>
+                <description>Неувядающая роза в колбе</description>
+                <picture>https://cdn.pixabay.com/photo/2017/05/27/11/41/cup-of-coffee-2348981_1280.jpg</picture>
+                <available>true</available>
+                <consist name="роза" unit="шт">1</consist>
+                <param name="Высота, мм">150</param>
+                <param name="Ширина, мм">100</param>
+            </offer>
+            <offer id="8">
+                <categoryId>8</categoryId>
+                <name>Цветы 89 другое</name>
+                <price>300</price>
+                <description>Упаковочная бумага</description>
+                <picture>https://cdn.pixabay.com/photo/2017/07/28/22/02/tote-bag-2550186_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">500</param>
+                <param name="Ширина, мм">300</param>
+            </offer>
+            <offer id="9">
+                <categoryId>9</categoryId>
+                <name>Съедобные букеты 22</name>
+                <price>2500</price>
+                <description>Букет из свежих фруктов</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/29/18/25/running-shoes-1871261_1280.jpg</picture>
+                <consist name="клубника" unit="шт">10</consist>
+                <consist name="яблоко" unit="шт">2</consist>
+                <param name="Высота">300</param>
+                <param name="Ширина">250</param>
+                <param name="Время изготовления">90</param>
+            </offer>
+            <offer id="10">
+                <categoryId>10</categoryId>
+                <name>Съедобные букеты 112 из клубники</name>
+                <price>3000</price>
+                <description>Букет из клубники в шоколаде</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/23/06/57/t-shirt-1853676_1280.jpg</picture>
+                <consist name="клубника" unit="шт">15</consist>
+                <param name="Высота, мм">250</param>
+                <param name="Ширина, мм">200</param>
+                <param name="Время изготовления">60</param>
+            </offer>
+            <offer id="11">
+                <categoryId>11</categoryId>
+                <name>Кондитерские и пекарни</name>
+                <price>1800</price>
+                <description>Маленький торт для одного</description>
+                <picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
+                <weight>0.5</weight>
+                <available>true</available>
+                <consist name="бисквит" unit="г">200</consist>
+                <param name="Ширина, мм">100</param>
+                <param name="Высота, мм">80</param>
+            </offer>
+            <offer id="12">
+                <categoryId>12</categoryId>
+                <name>Воздушные шары</name>
+                <price>800</price>
+                <description>Набор из 5 шаров</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/29/05/45/balloons-1867902_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">500</param>
+                <param name="Ширина, мм">500</param>
+                <param name="Тип">SETS</param>
+            </offer>
+            <offer id="13">
+                <categoryId>13</categoryId>
+                <name>Комнатные растения 14</name>
+                <price>600</price>
+                <description>Цветок в горшке</description>
+                <picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">200</param>
+                <param name="Ширина, мм">150</param>
+            </offer>
+            <offer id="14">
+                <categoryId>14</categoryId>
+                <name>Комнатные растения 20 саженцы и рассада</name>
+                <price>50</price>
+                <description>Рассада для огорода</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота">100</param>
+                <param name="Ширина">50</param>
+            </offer>
+            <offer id="15">
+                <categoryId>15</categoryId>
+                <name>Комнатные растения 140 Кашпо и горшки для цветов</name>
+                <price>250</price>
+                <description>Керамический горшок для цветов</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">150</param>
+                <param name="Ширина, мм">150</param>
+                <param name="Материал">Глина</param>
+            </offer>
+            <offer id="16">
+                <categoryId>16</categoryId>
+                <name>Косметика и Парфюмерия 34</name>
+                <price>2000</price>
+                <description>Парфюм для женщин</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Объем">50 мл</param>
+                <param name="Бренд">Бренд1</param>
+                <param name="Состав">Спирт, вода, ароматизаторы</param>
+            </offer>
+            <offer id="17">
+                <categoryId>17</categoryId>
+                <name>Косметика и Парфюмерия 198 мыло ручной работы</name>
+                <price>350</price>
+                <description>Ароматное мыло</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">60</param>
+                <param name="Ширина, мм">80</param>
+                <param name="Материал">Глицерин</param>
+            </offer>
+            <offer id="18">
+                <categoryId>18</categoryId>
+                <name>Магазины чая и кофе 29 чай</name>
+                <price>400</price>
+                <description>Чай в пакетиках</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <weight>0.2</weight>
+            </offer>
+            <offer id="19">
+                <categoryId>19</categoryId>
+                <name>Магазины чая и кофе 90 наборы</name>
+                <price>1500</price>
+                <description>Набор из 5 сортов чая</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <consist name="чай" unit="шт">5</consist>
+            </offer>
+            <offer id="20">
+                <categoryId>20</categoryId>
+                <name>Магазины чая и кофе 213 аксессуары</name>
+                <price>300</price>
+                <description>Ситечко для чая</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">100</param>
+                <param name="Ширина, мм">50</param>
+            </offer>
+            <offer id="21">
+                <categoryId>21</categoryId>
+                <name>Украшения</name>
+                <price>10000</price>
+                <description>Кольцо с бриллиантом</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">10</param>
+                <param name="Ширина, мм">10</param>
+                <param name="Материал">Золото</param>
+            </offer>
+            <offer id="22">
+                <categoryId>22</categoryId>
+                <name>Вкусные наборы</name>
+                <price>2500</price>
+                <description>Корзина со свежими фруктами</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <consist name="яблоко" unit="шт">2</consist>
+                <consist name="апельсин" unit="шт">3</consist>
+            </offer>
+            <offer id="23">
+                <categoryId>23</categoryId>
+                <name>Декор</name>
+                <price>1500</price>
+                <description>Часы в стиле лофт</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+            </offer>
+            <offer id="24">
+                <categoryId>24</categoryId>
+                <name>Посуда</name>
+                <price>500</price>
+                <description>Тарелка ручной работы</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">20</param>
+                <param name="Ширина, мм">200</param>
+            </offer>
+            <offer id="25">
+                <categoryId>25</categoryId>
+                <name>Аксессуары</name>
+                <price>2000</price>
+                <description>Ремень из натуральной кожи</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота">1200</param>
+                <param name="Ширина">30</param>
+            </offer>
+            <offer id="26">
+                <categoryId>26</categoryId>
+                <name>Обувь</name>
+                <price>4500</price>
+                <description>Спортивные белые кроссовки</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="27">
+                <categoryId>27</categoryId>
+                <name>Одежда</name>
+                <price>800</price>
+                <description>Хлопковая футболка</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="28">
+                <categoryId>28</categoryId>
+                <name>Одежда 356 шорты</name>
+                <price>1200</price>
+                <description>Шорты для лета</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота">400</param>
+            </offer>
+            <offer id="29">
+                <categoryId>29</categoryId>
+                <name>Хендмейд и хобби</name>
+                <price>600</price>
+                <description>Набор для создания украшений</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">150</param>
+                <param name="Ширина, мм">100</param>
+            </offer>
+            <offer id="30">
+                <categoryId>30</categoryId>
+                <name>Одежда для детей</name>
+                <price>1000</price>
+                <description>Праздничное платье для девочки</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Для кого">Девочка</param>
+            </offer>
+            <offer id="31">
+                <categoryId>31</categoryId>
+                <name>Товары для праздника 127 Ёлки</name>
+                <price>5000</price>
+                <description>Большая искусственная ёлка</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <param name="Высота, мм">1500</param>
+                <param name="Ширина, мм">800</param>
+                <param name="Время изготовления">120</param>
+            </offer>
+            <offer id="32">
+                <categoryId>32</categoryId>
+                <name>Товары для праздника 232 Оформление цветами</name>
+                <price>20000</price>
+                <description>Декор цветами для свадьбы</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <consist name="розы" unit="шт">50</consist>
+                <param name="Высота, мм">2000</param>
+                <param name="Ширина, мм">3000</param>
+                <param name="Время изготовления">240</param>
+            </offer>
+            <offer id="33">
+                <categoryId>33</categoryId>
+                <name>Товары для праздника</name>
+                <price>150</price>
+                <description>Свечи в виде цифр</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">50</param>
+                <param name="Ширина, мм">20</param>
+            </offer>
+            <offer id="34">
+                <categoryId>34</categoryId>
+                <name>Книги</name>
+                <price>800</price>
+                <description>Энциклопедия цветов</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="35">
+                <categoryId>35</categoryId>
+                <name>Картины</name>
+                <price>15000</price>
+                <description>Натюрморт</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="36">
+                <categoryId>36</categoryId>
+                <name>Зоотовары</name>
+                <price>400</price>
+                <description>Сухой корм</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="37">
+                <categoryId>37</categoryId>
+                <name>Подарочные сертификаты</name>
+                <price>1000</price>
+                <description>Электронный сертификат</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <param name="Вид поставки">электронный ключ</param>
+            </offer>
+            <offer id="38">
+                <categoryId>38</categoryId>
+                <name>Для дома</name>
+                <price>800</price>
+                <description>Стеклянная ваза</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="39">
+                <categoryId>39</categoryId>
+                <name>Канцелярские товары</name>
+                <price>250</price>
+                <description>Блокнот в клеточку</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="40">
+                <categoryId>40</categoryId>
+                <name>Другое</name>
+                <price>100</price>
+                <description>Товар из категории "Другое"</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+            <offer id="41">
+                <categoryId>41</categoryId>
+                <name>Sexual wellness</name>
+                <price>1500</price>
+                <description>Масло для расслабления</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
