@@ -239,7 +239,7 @@
                 <description>Чай в пакетиках</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
-                <weight>0.2</weight>
+                <param name="Вес, грамм">100</param>
             </offer>
             <offer id="19">
                 <categoryId>19</categoryId>
@@ -248,6 +248,7 @@
                 <description>Набор из 5 сортов чая</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
+<param name="Вес, грамм">100</param>
                 <consist name="чай" unit="шт">5</consist>
             </offer>
             <offer id="20">
@@ -280,6 +281,8 @@
                 <available>true</available>
                 <consist name="яблоко" unit="шт">2</consist>
                 <consist name="апельсин" unit="шт">3</consist>
+<param name="Высота, мм">100</param>
+                <param name="Ширина, мм">100</param>
             </offer>
             <offer id="23">
                 <categoryId>23</categoryId>
@@ -308,8 +311,8 @@
                 <description>Ремень из натуральной кожи</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
-                <param name="Высота">1200</param>
-                <param name="Ширина">30</param>
+                <param name="Высота, мм">20</param>
+                <param name="Ширина, мм">200</param>
             </offer>
             <offer id="26">
                 <categoryId>26</categoryId>
@@ -334,7 +337,9 @@
                 <description>Шорты для лета</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
-                <param name="Высота">400</param>
+                <param name="Высота, cм">150</param>
+                <param name="Ширина, cм">100</param>
+<qty>100</qty>
             </offer>
             <offer id="29">
                 <categoryId>29</categoryId>
@@ -394,14 +399,18 @@
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
             </offer>
-            <offer id="35">
-                <categoryId>35</categoryId>
-                <name>Картины</name>
-                <price>15000</price>
-                <description>Натюрморт</description>
-                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
-                <available>true</available>
-            </offer>
+<offer id="35">
+    <categoryId>35</categoryId>
+    <name>Картины</name>
+    <price>15000</price>
+    <description>Натюрморт</description>
+    <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+    <available>true</available>
+    <param name="Материал">Холст</param>
+    <param name="Оригинал/Репродукция">Репродукция</param>
+    <param name="Высота, мм">500</param>
+    <param name="Ширина, мм">700</param>
+</offer>
             <offer id="36">
                 <categoryId>36</categoryId>
                 <name>Зоотовары</name>
@@ -412,12 +421,15 @@
             </offer>
             <offer id="37">
                 <categoryId>37</categoryId>
-                <name>Подарочные сертификаты</name>
+                <name>Универсальный сертификат<name>
                 <price>1000</price>
-                <description>Электронный сертификат</description>
+                <description>Сертификат с выбором способа доставки</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Вид поставки">электронный ключ</param>
+<param name="Вид поставки">материальный носитель</param>
+<param name="Номинал">1500 руб</param>
+<qty>100</qty>
             </offer>
             <offer id="38">
                 <categoryId>38</categoryId>
@@ -426,6 +438,8 @@
                 <description>Стеклянная ваза</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
+<param name="Высота, мм">500</param>
+    <param name="Ширина, мм">700</param>
             </offer>
             <offer id="39">
                 <categoryId>39</categoryId>
@@ -434,6 +448,10 @@
                 <description>Блокнот в клеточку</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
+<param name="Высота, мм">500</param>
+    <param name="Ширина, мм">700</param>
+<param name="Высота, мм">500</param>
+    <param name="Ширина, мм">700</param>
             </offer>
             <offer id="40">
                 <categoryId>40</categoryId>
@@ -442,6 +460,8 @@
                 <description>Товар из категории "Другое"</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
+<param name="Высота, мм">500</param>
+    <param name="Ширина, мм">700</param>
             </offer>
             <offer id="41">
                 <categoryId>41</categoryId>
@@ -450,6 +470,7 @@
                 <description>Масло для расслабления</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
+<weight>0</weight>
             </offer>
         </offers>
     </shop>
