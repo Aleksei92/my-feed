@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-14T12:00:00+03:00">
+    <shop>
+        <name>Магазин для проверки конкретных ошибок</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="11">Кондитерские и пекарни</category>
+            <category id="25">Аксессуары</category>
+            <category id="28">Одежда 356 шорты</category>
+            <category id="35">Картины</category>
+        </categories>
+        <offers>
+            <offer id="11">
+                <categoryId>11</categoryId>
+                <name>Кондитерские и пекарни</name>
+                <price>1800</price>
+                <description>Маленький торт для одного</description>
+                <picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
+                <weight>0.5</weight>
+                <available>true</available>
+                <param name="Ширина, мм">100</param>
+                <param name="Высота, мм">80</param>
+            </offer>
+            <offer id="25">
+                <categoryId>25</categoryId>
+                <name>Аксессуары</name>
+                <price>2000</price>
+                <description>Ремень из натуральной кожи</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, мм">20</param>
+                <param name="Ширина, мм">200</param>
+            </offer>
+            <offer id="28">
+                <categoryId>28</categoryId>
+                <name>Одежда 356 шорты</name>
+                <price>1200</price>
+                <description>Шорты для лета</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+                <param name="Высота, см">400</param>
+                <param name="Ширина, см">250</param>
+            </offer>
+            <offer id="35">
+                <categoryId>35</categoryId>
+                <name>Картины</name>
+                <price>15000</price>
+                <description>Натюрморт</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+                <available>true</available>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
