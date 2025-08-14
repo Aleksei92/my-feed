@@ -165,6 +165,8 @@
                 <consist name="бисквит" unit="г">200</consist>
                 <param name="Ширина, мм">100</param>
                 <param name="Высота, мм">80</param>
+<consist name="Вода" unit="мл">180</consist>
+<consist name="Дрожжи" unit="г">5</consist>
             </offer>
             <offer id="12">
                 <categoryId>12</categoryId>
@@ -215,7 +217,7 @@
                 <description>Парфюм для женщин</description>
                 <picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
                 <available>true</available>
-                <param name="Объем">50 мл</param>
+                <param name="Объём, мл">6</param>
                 <param name="Бренд">Бренд1</param>
                 <param name="Состав">Спирт, вода, ароматизаторы</param>
             </offer>
