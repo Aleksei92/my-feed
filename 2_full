@@ -23,7 +23,7 @@
                 <currencyId>RUR</currencyId>
                 <categoryId>75</categoryId> <!-- form['range_type_id'] -->
                 <price>289.99</price> <!-- form['cost'] -->
-                <name>Кондитерские и пекарни</name> <!-- form['name'] -->
+                <name>Комнатные растенияФлорариум</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <url>https://flowwow.loc/goods/4441</url>
                 <picture>https://flowwow.loc/cactus1.jpg</picture>
