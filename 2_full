@@ -10,7 +10,7 @@
             <currency id="RUR" rate="1"/>
         </currencies>
         <categories>
-            <category id="75">Цветымонобукеты</category>
+            <category id="75">Кондитерские и пекарни</category>
             <category id="6">Комнатные растенияФлорариум</category>
         </categories>
         <delivery-options>
@@ -23,18 +23,17 @@
                 <currencyId>RUR</currencyId>
                 <categoryId>75</categoryId> <!-- form['range_type_id'] -->
                 <price>289.99</price> <!-- form['cost'] -->
-                <name>Цветымонобукеты</name> <!-- form['name'] -->
+                <name>Кондитерские и пекарни</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <url>https://flowwow.loc/goods/4441</url>
                 <picture>https://flowwow.loc/cactus1.jpg</picture>
                 <picture>https://flowwow.loc/cactus2.jpg</picture>
-                <description>Красивый кактус для дома</description> <!-- form['description'] -->
+                <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description> <!-- form['description'] -->
                 <available>true</available>
                 <count>10</count> <!-- form['availability_count'] -->
                 <weight>0.5</weight> <!-- form['volume'] = 500г -->
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
-<consist name="Роза 50 см" unit="шт">3</consist>
             </offer>
             
             <!-- Товар со скидкой и составом -->
