@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-12T12:30:00+03:00">
+    <shop>
+        <name>Магазин с разными товарами</name>
+        <company>ООО Ромашка</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="141">Сумки, рюкзаки</category>
+            <category id="27">Выпечка</category>
+        </categories>
+        <offers>
+            <offer id="6001">
+                <categoryId>141</categoryId>
+                <price>2500</price>
+                <name>Женская сумка</name>
+                <description>Стильная сумка-тоут из экокожи. Идеальна для повседневного использования.</description>
+                <picture>https://cdn.pixabay.com/photo/2017/08/06/15/34/bag-2594611_1280.jpg</picture>
+                <param name="Ширина, мм">300</param>
+                <param name="Высота, мм">250</param>
+            </offer>
+            
+            <offer id="6002">
+                <categoryId>141</categoryId>
+                <price>1500</price>
+                <name>Рюкзак городской</name>
+                <description></description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/22/23/40/backpack-1851221_1280.jpg</picture>
+                <param name="Ширина, мм">300</param>
+                <param name="Высота, мм">400</param>
+            </offer>
+
+            <offer id="6003">
+                <categoryId>27</categoryId>
+                <price>120</price>
+                <name>Хлеб Бородинский 150 гр.</name>
+                <description>Хлепь</description>
+                <picture>https://cdn.pixabay.com/photo/2018/06/17/23/06/bread-3482163_1280.jpg</picture>
+                <param name="Ширина, мм">300</param>
+                <param name="Высота, мм">400</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
