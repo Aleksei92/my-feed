@@ -10,7 +10,7 @@
             <currency id="RUR" rate="1"/>
         </currencies>
         <categories>
-            <category id="75">Кондитерские и пекарни</category>
+            <category id="75">Цветы монобукеты</category>
             <category id="6">Комнатные растенияФлорариум</category>
         </categories>
         <delivery-options>
@@ -34,8 +34,8 @@
                 <weight>0.5</weight> <!-- form['volume'] = 500г -->
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
-            </offer>
-            
+<consist name="клубника" unit="шт">10</consist>
+            </offer>            
             <!-- Товар со скидкой и составом -->
             <offer id="5259">
                 <currencyId>RUR</currencyId>
