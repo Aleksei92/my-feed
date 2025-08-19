@@ -29,8 +29,7 @@
                 <picture>https://flowwow.loc/cactus1.jpg</picture>
                 <picture>https://flowwow.loc/cactus2.jpg</picture>
                 <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description> <!-- form['description'] -->
-                <available>true</available>
-                <count>10</count> <!-- form['availability_count'] -->
+                <available>true</available><!-- form['availability_count'] -->
                 <weight>0.5</weight> <!-- form['volume'] = 500г -->
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
