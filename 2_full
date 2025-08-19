@@ -23,7 +23,7 @@
                 <currencyId>RUR</currencyId>
                 <categoryId>75</categoryId> <!-- form['range_type_id'] -->
                 <price>289.99</price> <!-- form['cost'] -->
-                <name>Комнатные растенияФлорариум</name> <!-- form['name'] -->
+                <name>Цветы монобукеты</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <url>https://flowwow.loc/goods/4441</url>
                 <picture>https://flowwow.loc/cactus1.jpg</picture>
@@ -41,7 +41,7 @@
                 <categoryId>6</categoryId> <!-- form['range_type_id'] -->
                 <price>4693.65</price>
                 <oldprice>5200.00</oldprice> <!-- form['cost'] = 5200, form['old_price'] = 5200, form['discount'] = 10% -->
-                <name>Комнатные растения</name> <!-- form['name'] -->
+                <name>Комнатные растения (сдэк)</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <picture>https://flowwow.loc/bouquet1.jpg</picture>
                 <description>Шикарный букет с гелиантусом</description> <!-- form['description'] -->
