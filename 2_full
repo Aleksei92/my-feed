@@ -19,11 +19,11 @@
         </delivery-options>
         <offers>
             <!-- Товар с размерами и весом -->
-            <offer id="4440">
+            <offer id="4438">
                 <currencyId>RUR</currencyId>
                 <categoryId>75</categoryId> <!-- form['range_type_id'] -->
                 <price>289.99</price> <!-- form['cost'] -->
-                <name>Кактус в ассортименте 8 см 1</name> <!-- form['name'] -->
+                <name>Кактус в ассортименте 8 см 3</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <url>https://flowwow.loc/goods/4441</url>
                 <picture>https://flowwow.loc/cactus1.jpg</picture>
@@ -37,20 +37,22 @@
             </offer>
             
             <!-- Товар со скидкой и составом -->
-            <offer id="5261">
+            <offer id="5259">
                 <currencyId>RUR</currencyId>
                 <categoryId>6</categoryId> <!-- form['range_type_id'] -->
                 <price>4693.65</price>
                 <oldprice>5200.00</oldprice> <!-- form['cost'] = 5200, form['old_price'] = 5200, form['discount'] = 10% -->
-                <name>Букет из гелиантуса с розами 1</name> <!-- form['name'] -->
+                <name>Букет из гелиантуса с розами 3</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <picture>https://flowwow.loc/bouquet1.jpg</picture>
                 <description>Шикарный букет с гелиантусом</description> <!-- form['description'] -->
                 <available>true</available>
                 <count>5</count> <!-- form['availability_count'] -->
                 <delivery>true</delivery> <!-- form['is_post_delivery'] = 1 -->
-                <param name="Высота, мм">500</param> <!-- form['height'] = 50см -->
-                <param name="Ширина, мм">450</param> <!-- form['width'] = 45см -->
+                <weight>0.5</weight>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">450</param>
+				<param name="Длина, мм">450</param> <!-- form['width'] = 45см -->
                 <consist name="Роза 50 см" unit="шт">3</consist> <!-- form['consist'] -->
                 <consist name="Гелиантус" unit="шт">5</consist>
                 <consist name="Лента атлас" unit="шт">1</consist>
