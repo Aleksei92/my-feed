@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Флоувоу расширенный магазин</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="1005">
+                <categoryId>1</categoryId>
+                <price>1999</price>
+                <name>Букет "Роскошная коллекция роз"</name>
+                <description>Элегантный букет из красных роз премиум класса. Идеальный подарок для особых случаев.</description>
+                <picture>https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=800</picture>
+                <picture>https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=800</picture>
+                <picture>https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=800</picture>
+                <picture>https://images.unsplash.com/photo-1455659817273-f96807779a8a?w=800</picture>
+                <picture>https://images.unsplash.com/photo-1487070183336-b863922373d4?w=800</picture>
+                <picture>https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800</picture>
+                <param name="Высота, мм">120</param>
+                <param name="Ширина, мм">90</param>
+                <consist name="роза премиум" unit="шт">11</consist>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
