@@ -11,7 +11,7 @@
             <offer id="1004">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>999</price> <!-- form['cost'] -->
-                <name>Роза красная попытка окончательная </name> <!-- form['name'] -->
+                <name>Роза красная одно фото </name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
                 <picture>https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=800</picture>
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
