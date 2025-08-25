@@ -29,7 +29,7 @@
                 <delivery>true</delivery>
                 <param name="ширина, cm">45</param>
                 <param name="высота, cm">67</param>
-                <param name="length, cm">43</param>
+                <param name="длина, cm">43</param>
             </offer>
         </offers>
     </shop>
