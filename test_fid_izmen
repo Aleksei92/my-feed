@@ -27,7 +27,7 @@
                 <currencyId>EUR</currencyId>
                 <pickup>false</pickup>
                 <delivery>true</delivery>
-                <param name="width, cm">45</param>
+                <param name="ширина, cm">45</param>
                 <param name="высота, cm">67</param>
                 <param name="length, cm">43</param>
             </offer>
