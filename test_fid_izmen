@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-08-25T12:00:00+03:00">
+    <shop>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="38138" available="true">
+                <id>38138</id>
+                <url>https://artfloral-bremen.de/product/blumenstrauss-himmel-rein/</url>
+                <name>Blumenstrauß "Himmel &amp; Rein"</name>
+                <shop-sku>AF77691</shop-sku>
+                <store>true</store>
+                <price>145.00</price>
+                <consist name="Rose" unit="Stk">5</consist>
+                <consist name="Grün" unit="Stk">3</consist>
+                <param name="Size">45 x 67 x 43 cm</param>
+                <param name="Color">red</param>
+                <picture>https://artfloral-bremen.de/wp-content/uploads/2025/05/Blumenstrauss_Himmel_Rein_1.jpg</picture>
+                <picture>https://artfloral-bremen.de/wp-content/uploads/2025/05/Blumenstrauss_Himmel_Rein_2.jpg</picture>
+                <picture>https://artfloral-bremen.de/wp-content/uploads/2025/05/Blumenstrauss_Himmel_Rein_3.jpg</picture>
+                <picture>https://artfloral-bremen.de/wp-content/uploads/2025/05/Blumenstrauss_Himmel_Rein_4.jpg</picture>
+                <picture>https://artfloral-bremen.de/wp-content/uploads/2025/05/Blumenstrauss_Himmel_Rein_5.jpg</picture>
+                <description>Blumenstrauß "Himmel &amp; Rein" Dieser elegante Blumenstrauß kombiniert zarte weiße Rosen mit beeindruckenden blauen Hortensien zu einem harmonischen Farbspiel. Die samtigen Blütenblätter der Hortensien strahlen in tiefem Blau, während die klassischen weißen Rosen Reinheit und Anmut verkörpern. Zusammen schaffen sie einen stilvollen und zugleich frischen Look, der jeden Raum oder Anlass mit zeitloser Schönheit erfüllt. Handgebunden und perfekt für besondere Momente, bringt dieser Strauß eine edle, beruhigende Atmosphäre in Ihr Zuhause oder als Geschenk für einen lieben Menschen. Wir achten ständig auf die letzten Trends im Bereich des Floristikdesigns und unsere Bouquets sind die Reflexion davon. Bei der Zusammenstellung verwenden wir nur ganz frische Blumen und die modernsten Materialien. Unser Team steckt besondere Liebe zum Detail in jedes Arrangement, deshalb finden Sie immer einen Sticker mit unserem Logo und ein Firmen Bändchen als Qualitätssiegel an jedem Strauß. Dem Blumenstrauß legen wir eine Anleitung zur Pflege und ein Mittel zur Verlängerung der Lebensdauer der Blumen bei. Jetzt ganz bequem bestellen und Ihre Blumen an Ihre Wunschadresse liefern lassen.</description>
+                <category>Mono Bouquet</category>
+                <categoryId>1</categoryId>
+                <currencyId>EUR</currencyId>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <param name="width, cm">45</param>
+                <param name="height, cm">67</param>
+                <param name="length, cm">43</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
