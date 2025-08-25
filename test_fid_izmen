@@ -12,8 +12,8 @@
                 <shop-sku>AF77691</shop-sku>
                 <store>true</store>
                 <price>145.00</price>
-                <consist name="Rose" unit="St">5</consist>
-                <consist name="Grün" unit="St">3</consist>
+                <consist name="Rose" unit="шт">5</consist>
+                <consist name="Grün" unit="шт">3</consist>
                 <param name="Size">45 x 67 x 43 cm</param>
                 <param name="Color">red</param>
                 <picture>https://artfloral-bremen.de/wp-content/uploads/2025/05/Blumenstrauss_Himmel_Rein_1.jpg</picture>
