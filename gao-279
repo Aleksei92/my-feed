@@ -7,34 +7,30 @@
             <currency id="RUR" rate="1"/>
         </currencies>
         <categories>
-            <category id="6">Готовые букеты</category>
-            <category id="70" parentId="6">Сборные букеты</category>
-            <category id="71" parentId="6">Моно-букеты</category>
-            <category id="72" parentId="6">Цветочные композиции</category>
-            <category id="73" parentId="6">Весенние букеты</category>
-            <category id="79" parentId="6">Букеты из пионов</category>
-            <category id="89" parentId="6">Новогодние композиции</category>
-            <category id="1">Срезанные цветы</category>
-            <category id="2">Комнатные растения</category>
-            <category id="3">Сопутствующие товары</category>
-            <category id="6">Готовые букеты</category>
-            <category id="7">Ароматы для дома</category>
-            <category id="90" parentId="1">Розы</category>
-            <category id="43" parentId="1">Гвоздика</category>
-            <category id="48" parentId="1">Хризантемы</category>
-            <category id="59" parentId="2">Горшечные растения</category>
-            <category id="68" parentId="3">Сопутствующие товары</category>
-            <category id="70" parentId="6">Сборные букеты</category>
-            <category id="71" parentId="6">Моно-букеты</category>
-            <category id="72" parentId="6">Цветочные композиции</category>
-            <category id="74" parentId="2">Цветущие растения</category>
-            <category id="75" parentId="2">Кактусы</category>
-            <category id="76" parentId="2">Нецветущие растения</category>
-            <category id="80" parentId="3">Мягкие игрушки</category>
-            <category id="83" parentId="3">Корзины</category>
-            <category id="84" parentId="7">Ароматы для дома</category>
-            <category id="87" parentId="3">Открытки</category>
-        </categories>
+    <category id="1">Срезанные цветы</category>
+    <category id="2">Комнатные растения</category>
+    <category id="3">Сопутствующие товары</category>
+    <category id="6">Готовые букеты</category>
+    <category id="7">Ароматы для дома</category>
+    <category id="90" parentId="1">Розы</category>
+    <category id="43" parentId="1">Гвоздика</category>
+    <category id="48" parentId="1">Хризантемы</category>
+    <category id="59" parentId="2">Горшечные растения</category>
+    <category id="74" parentId="2">Цветущие растения</category>
+    <category id="75" parentId="2">Кактусы</category>
+    <category id="76" parentId="2">Нецветущие растения</category>
+    <category id="68" parentId="3">Сопутствующие товары</category>
+    <category id="80" parentId="3">Мягкие игрушки</category>
+    <category id="83" parentId="3">Корзины</category>
+    <category id="87" parentId="3">Открытки</category>
+    <category id="70" parentId="6">Сборные букеты</category>
+    <category id="71" parentId="6">Моно-букеты</category>
+    <category id="72" parentId="6">Цветочные композиции</category>
+    <category id="73" parentId="6">Весенние букеты</category>
+    <category id="79" parentId="6">Букеты из пионов</category>
+    <category id="89" parentId="6">Новогодние композиции</category>
+    <category id="84" parentId="7">Ароматы для дома</category>
+</categories>
         <url>https://klumba.ru</url>
         <agency>ProfyCode</agency>
         <email>mail@profycode.pro</email>
