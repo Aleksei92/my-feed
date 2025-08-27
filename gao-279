@@ -29,7 +29,7 @@
     <category id="73" parentId="6">Весенние букеты</category>
     <category id="79" parentId="6">Букеты из пионов</category>
     <category id="89" parentId="6">Новогодние композиции</category>
-    <category id="84" parentId="7">Ароматы для дома</category>
+    <category id="84" parentId="4">Ароматы для дома</category>
 </categories>
         <url>https://klumba.ru</url>
         <agency>ProfyCode</agency>
