@@ -19,28 +19,6 @@
 				<consist name="роза" unit="шт">5</consist>
 <available>true</available>
             </offer>
-<offer id="105">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>100</price> <!-- form['cost'] -->
-                <name>Роза красная уберём доступность</name> <!-- form['name'] -->
-                <description>Красивая красная роза</description> <!-- form['description'] -->
-                <picture>https://flowwow.loc/rose.jpg</picture>
-                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-<available>false</available>
-            </offer>
-<offer id="107">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>100</price> <!-- form['cost'] -->
-                <name>Роза красная это новый товар</name> <!-- form['name'] -->
-                <description>Красивая красная роза</description> <!-- form['description'] -->
-                <picture>https://flowwow.loc/rose.jpg</picture>
-                <param name="Высота, мм">500</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">500</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-<available>true</available>
-            </offer>
         </offers>
     </shop>
 </yml_catalog>
