@@ -8,7 +8,7 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="104" available="false">
+            <offer id="104" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>1111</price> <!-- form['cost'] -->
                 <name>Роза красная обновим все поля</name> <!-- form['name'] -->
