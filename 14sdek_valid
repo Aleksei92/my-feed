@@ -8,7 +8,7 @@
             <category id="13">Подарки и сувениры</category>
         </categories>
         <offers>
-            <offer id="111222">
+            <offer id="111222" available="true">
                 <categoryId>13</categoryId>
                 <price>25</price>
                 <name>Медведь узник любви, белый (Тест СДЭК-1)</name>
@@ -20,7 +20,7 @@
                 <param name="Длина, мм">50</param>
                 <delivery>true</delivery>
             </offer>
-            <offer id="222333">
+            <offer id="222333" available="true">
                 <categoryId>13</categoryId>
                 <price>12</price>
                 <name>Зайчик Мимимишка, розовый (Тест СДЭК-2)</name>
