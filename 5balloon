@@ -8,7 +8,7 @@
             <category id="34">Воздушные шары</category>
         </categories>
         <offers>
-            <offer id="5003">
+            <offer id="5003" available="true">
                 <categoryId>34</categoryId> <price>1500</price>
                 <name>Набор шаров для праздника</name>
                 <description>Большой набор из 20 гелиевых шаров разного цвета.</description>
@@ -16,7 +16,7 @@
                 <param name="baloon_type">SETS</param>
             </offer>
             
-            <offer id="5004">
+            <offer id="5004" available="true">
                 <categoryId>34</categoryId> <price>350</price>
                 <name>Шар фольгированный настоящий1</name>
                 <description>Фольгированный шар в форме сердца. Отлично подходит для Дня Святого Валентина.</description>
