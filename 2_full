@@ -19,7 +19,7 @@
         </delivery-options>
         <offers>
             <!-- Товар с размерами и весом -->
-            <offer id="4438">
+            <offer id="4438" available="true">
                 <currencyId>RUR</currencyId>
                 <categoryId>75</categoryId> <!-- form['range_type_id'] -->
                 <price>289.99</price> <!-- form['cost'] -->
@@ -29,14 +29,13 @@
                 <picture>https://flowwow.loc/cactus1.jpg</picture>
                 <picture>https://flowwow.loc/cactus2.jpg</picture>
                 <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description> <!-- form['description'] -->
-                <available>true</available><!-- form['availability_count'] -->
                 <weight>0.5</weight> <!-- form['volume'] = 500г -->
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
 <consist name="клубника" unit="шт">10</consist>
             </offer>            
             <!-- Товар со скидкой и составом -->
-            <offer id="5259">
+            <offer id="5259" available="true">
                 <currencyId>RUR</currencyId>
                 <categoryId>6</categoryId> <!-- form['range_type_id'] -->
                 <price>4693.65</price>
@@ -45,7 +44,6 @@
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <picture>https://flowwow.loc/bouquet1.jpg</picture>
                 <description>Шикарный букет с гелиантусом</description> <!-- form['description'] -->
-                <available>true</available>
                 <count>5</count> <!-- form['availability_count'] -->
                 <delivery>true</delivery> <!-- form['is_post_delivery'] = 1 -->
                 <weight>0.5</weight>
