@@ -15,7 +15,6 @@
                 <name>Хлеб белый</name> <!-- form['name'] -->
                 <description>Мука пшеничная высшего сорта, вода, дрожжи, соль, сахар</description> <!-- form['description'] (остается) -->
                 <picture>https://flowwow.loc/white-bread.jpg</picture>
-                <available>true</available>
                 <count>50</count> <!-- form['availability_count'] -->
                 <weight>0.4</weight> <!-- form['volume'] = 400г -->
                 <consist name="Мука пшеничная" unit="г">300</consist> <!-- form['consist'] -->
@@ -31,7 +30,6 @@
                 <name>Булочка с маком</name> <!-- form['name'] -->
                 <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description> <!-- form['composition'], form['description'] = '' -->
                 <picture>https://flowwow.loc/poppy-bun.jpg</picture>
-                <available>true</available>
                 <count>25</count> <!-- form['availability_count'] -->
                 <weight>0.1</weight> <!-- form['volume'] = 100г -->
                 <param name="Высота, мм">80</param><!--  form['height'] = 8см  -->
