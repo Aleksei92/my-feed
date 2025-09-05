@@ -11,25 +11,26 @@
             <category id="1">Флоувоу категория</category>
         </categories>
         <offers>
-            <offer id="123">
-                <currencyId>RUR</currencyId>
+            <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
-                <name>Первый товар</name> <!-- form['name'] -->
-                <description>Описание первого товара</description> <!-- form['description'] -->
-                <picture>https://flowwow.loc/img1.jpg</picture>
-                <available>true</available>
+                <name>Роза красная мимниальный фид</name> <!-- form['name'] -->
+                <description>Красивая красная роза</description> <!-- form['description'] -->
+                <picture>https://flowwow.loc/rose.jpg</picture>
+                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
+				<consist name="роза" unit="шт">1</consist>
             </offer>
             
-            <offer id="123"> <!-- ДУБЛИКАТ - будет отклонен валидатором -->
-                <currencyId>RUR</currencyId>
-                <categoryId>1</categoryId>
-                <price>200</price>
-                <name>Второй товар</name>
-                <description>Описание второго товара</description>
-                <picture>https://flowwow.loc/img2.jpg</picture>
-                <available>true</available>
-            </offer>
+            <offer id="1004" available="true">
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Роза красная мимниальный фид</name> <!-- form['name'] -->
+                <description>Красивая красная роза второй товар</description> <!-- form['description'] -->
+                <picture>https://flowwow.loc/rose.jpg</picture>
+                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
+				<consist name="роза" unit="шт">1</consist>
         </offers>
     </shop>
 </yml_catalog>
