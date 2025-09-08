@@ -14,7 +14,7 @@
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
-                <name>Роза красная мимниальный фид</name> <!-- form['name'] -->
+                <name>Первый товар</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
                 <picture>https://flowwow.loc/rose.jpg</picture>
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
@@ -25,7 +25,7 @@
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
-                <name>Роза красная мимниальный фид</name> <!-- form['name'] -->
+                <name>Ыторой товар</name> <!-- form['name'] -->
                 <description>Красивая красная роза второй товар</description> <!-- form['description'] -->
                 <picture>https://flowwow.loc/rose.jpg</picture>
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
