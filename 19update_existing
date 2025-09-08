@@ -12,11 +12,21 @@
                 <categoryId>1</categoryId>
                 <price>1050</price>
                 <name>Букет из роз</name>
-                <description>Новый букет + 1 роза. Классический букет из 5 красных роз.</description>
+                <description>Новый букет + 1 роза. Классический букет из 5 красных роз с новыми данными.</description>
                 <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
-<param name="Высота, мм">120</param>
-<param name="Ширина, мм">60</param>
-<consist name="роза" unit="шт">6</consist>
+<param name="Высота, мм">150</param>
+<param name="Ширина, мм">100</param>
+<consist name="роза" unit="шт">10</consist>
+</offer>
+<offer id="19003" available="true">
+                <categoryId>1</categoryId>
+<price>2500</price>
+<name>Прекрасный новый букет</name>
+<description>Очень крутой. Пышный и яркий сборный букет. Это новый товар</description>
+<picture>https://flowwow.loc/rose.jpg</picture>
+<param name="Высота, мм">100</param>
+<param name="Ширина, мм">75</param>
+<consist name="роза" unit="шт">1</consist>            
             </offer>
         </offers>
     </shop>
