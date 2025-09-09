@@ -21,7 +21,6 @@
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
             </offer>
-            
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
@@ -31,6 +30,7 @@
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
+</offer>
         </offers>
     </shop>
 </yml_catalog>
