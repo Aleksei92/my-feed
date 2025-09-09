@@ -8,17 +8,17 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="201" available="true">
+            <offer id="203" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
-                <name>Букет из красных роз (галерея)</name>
-                <description>Роскошный букет из свежих красных роз. В галерее представлены различные ракурсы и варианты цветов, чтобы вы могли оценить всю их красоту.</description>                
-                <picture>https://images.pexels.com/photos/39517/rose-flower-blossom-bloom-39517.jpeg</picture>
-                <picture>https://images.pexels.com/photos/41484/rose-flower-blossom-bloom-41484.jpeg</picture>
-                <picture>https://images.pexels.com/photos/593655/pexels-photo-593655.jpeg</picture>
-                <picture>https://images.pexels.com/photos/5637645/pexels-photo-5637645.jpeg</picture>
-                <picture>https://images.pexels.com/photos/15239/flower-roses-red-roses-bloom.jpg</picture>
-                <picture>https://images.pexels.com/photos/1233406/pexels-photo-1233406.jpeg</picture>                
+                <name>Букет из красных роз (фото 1024x1024)</name>
+                <description>Роскошный букет из свежих красных роз. Все изображения в галерее представлены в высоком разрешении 1024х1024 пикселя.</description>                
+                <picture>https://images.pexels.com/photos/593655/pexels-photo-593655.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
+                <picture>https://images.pexels.com/photos/15239/flower-roses-red-roses-bloom.jpg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
+                <picture>https://images.pexels.com/photos/39517/rose-flower-blossom-bloom-39517.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
+                <picture>https://images.pexels.com/photos/46216/flower-rose-drop-of-water-wet-46216.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
+                <picture>https://images.pexels.com/photos/634063/pexels-photo-634063.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
+                <picture>https://images.pexels.com/photos/359993/pexels-photo-359993.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>                
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
