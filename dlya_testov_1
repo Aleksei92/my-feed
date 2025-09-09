@@ -12,13 +12,13 @@
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Букет из красных роз (фото 1024x1024)</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее представлены в высоком разрешении 1024х1024 пикселя.</description>                
-                <picture>https://images.pexels.com/photos/593655/pexels-photo-593655.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
-                <picture>https://images.pexels.com/photos/15239/flower-roses-red-roses-bloom.jpg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
-                <picture>https://images.pexels.com/photos/39517/rose-flower-blossom-bloom-39517.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
-                <picture>https://images.pexels.com/photos/46216/flower-rose-drop-of-water-wet-46216.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
-                <picture>https://images.pexels.com/photos/634063/pexels-photo-634063.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>
-                <picture>https://images.pexels.com/photos/359993/pexels-photo-359993.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1024&amp;h=1024&amp;fit=crop</picture>                
+                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>                
+                <picture>https://www.prostocvet.ru/upload/iblock/184/5xkbguidlh7h6kbqnddgi4g8ivvdqz8d.jpeg</picture>
+                <picture>https://www.prostocvet.ru/upload/iblock/683/0fy4tfc33f67rl6k39smeq1bcunjyq7m.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6ff/mx5ja53boet12ojru93a4kjmg3qe2vcv.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6fd/2qw6wvzc7d0gccda44fe85hsikqae6ja.jpeg</picture>
+                <picture>https://content3.flowwow-images.com/data/flowers/524x524/54/1701528755_60514954.jpg</picture>
+<picture>https://content2.flowwow-images.com/data/flowers/524x524/30/1701469012_35577830.jpg</picture>               
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
