@@ -14,7 +14,6 @@
                 <name>Букет из красных роз (фото 1024x1024)</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>                
                 <picture>https://storage.yandexcloud.net/bm-images/B4600_1.jpeg</picture> 
-<picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
