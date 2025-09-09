@@ -13,7 +13,8 @@
                 <price>6500</price>
                 <name>Букет из красных роз (фото 1024x1024)</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>                
-                <picture>https://storage.yandexcloud.net/bm-images/B4600_1.jpeg</picture>          
+                <picture>https://storage.yandexcloud.net/bm-images/B4600_1.jpeg</picture> 
+<picture>https://flowwow.loc/rose.jpg</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
