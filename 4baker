@@ -20,6 +20,7 @@
                 <consist name="Мука пшеничная" unit="г">300</consist> <!-- form['consist'] -->
                 <consist name="Вода" unit="мл">180</consist>
                 <consist name="Дрожжи" unit="г">5</consist>
+<param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
                 <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
             </offer>            
