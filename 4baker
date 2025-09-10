@@ -25,7 +25,7 @@
                 <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
             </offer>            
             <!-- Товар без consist - description переносится в composition -->
-            <offer id="2002" available="false">
+            <offer id="2002" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>180</price> <!-- form['cost'] -->
                 <name>Булочка с маком</name> <!-- form['name'] -->
