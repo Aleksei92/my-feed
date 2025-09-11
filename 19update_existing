@@ -13,7 +13,7 @@
                 <price>1000</price>
                 <name>Букет из роз новое название</name>
                 <description>Новый букет + 1 роза. Классический букет из 5 красных роз с новыми данными.</description>
-                <picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+                <picture>https://waksoft.susu.ru/wp-content/uploads/2015/09/click-top.jpg</picture>
 <param name="Высота, мм">150</param>
 <param name="Ширина, мм">100</param>
 <consist name="роза" unit="шт">10</consist>
