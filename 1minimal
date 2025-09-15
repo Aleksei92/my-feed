@@ -8,7 +8,7 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="1004" available="false">
+            <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
                 <name>Роза красная мимниальный фид</name> <!-- form['name'] -->
