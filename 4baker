@@ -11,28 +11,28 @@
             <!-- Товар с тегами consist - приоритет над description -->
             <offer id="2001" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>150</price> <!-- form['cost'] -->
-                <name>Хлеб белый</name> <!-- form['name'] -->
-                <description>Мука пшеничная высшего сорта, вода, дрожжи, соль, сахар</description> <!-- form['description'] (остается) -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Хлеб белый новый</name> <!-- form['name'] -->
+                <description>Мука пшеничная высшего сорта, вода, дрожжи, соль, сахар и любовь</description> <!-- form['description'] (остается) -->
                 <picture>https://flowwow.loc/white-bread.jpg</picture>
-                <count>50</count> <!-- form['availability_count'] -->
-                <weight>0.4</weight> <!-- form['volume'] = 400г -->
-                <consist name="Мука пшеничная" unit="г">300</consist> <!-- form['consist'] -->
-                <consist name="Вода" unit="мл">180</consist>
-                <consist name="Дрожжи" unit="г">5</consist>
-                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
+                <count>40</count> <!-- form['availability_count'] -->
+                <weight>0.3</weight> <!-- form['volume'] = 400г -->
+                <consist name="Мука пшеничная и ржаная" unit="г">200</consist> <!-- form['consist'] -->
+                <consist name="Вода солёная" unit="мл">200</consist>
+                <consist name="Дрожжи живые" unit="г">10</consist>
+                <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
             </offer>            
             <!-- Товар без consist - description переносится в composition -->
             <offer id="2002" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>180</price> <!-- form['cost'] -->
-                <name>Булочка с маком</name> <!-- form['name'] -->
-                <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description> <!-- form['composition'], form['description'] = '' -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Булочка с маком новая</name> <!-- form['name'] -->
+                <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи и злой пекарь</description> <!-- form['composition'], form['description'] = '' -->
                 <picture>https://flowwow.loc/poppy-bun.jpg</picture>
-                <count>25</count> <!-- form['availability_count'] -->
-                <weight>0.1</weight> <!-- form['volume'] = 100г -->
-                <param name="Высота, мм">80</param><!--  form['height'] = 8см  -->
+                <count>20</count> <!-- form['availability_count'] -->
+                <weight>0.2</weight> <!-- form['volume'] = 100г -->
+                <param name="Высота, мм">50</param><!--  form['height'] = 8см  -->
                 <param name="Ширина, мм">50</param><!--  form['width'] = 5см  -->
             </offer>
         </offers>
