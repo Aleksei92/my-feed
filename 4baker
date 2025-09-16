@@ -30,7 +30,6 @@
                 <name>Булочка с маком новая</name> <!-- form['name'] -->
                 <description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи и злой пекарь</description> <!-- form['composition'], form['description'] = '' -->
                 <picture>https://flowwow.loc/poppy-bun.jpg</picture>
-                <count>20</count> <!-- form['availability_count'] -->
                 <weight>0.2</weight> <!-- form['volume'] = 100г -->
                 <param name="Высота, мм">50</param><!--  form['height'] = 8см  -->
                 <param name="Ширина, мм">50</param><!--  form['width'] = 5см  -->
