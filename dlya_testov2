@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-01-20T12:00:00+03:00">
+<yml_catalog date="2025-09-16T12:00:00+03:00">
     <shop>
         <name>Флоувоу минимальный магазин</name>
         <company>ООО Флоувоу</company>
@@ -8,92 +8,92 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="203" available="true">
+            <offer id="103" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Букет из красных роз добавили фото</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
                 <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
                 <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
+                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
             </offer>
-            <offer id="204" available="true">
+            <offer id="104" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Элегантный букет 'Кармен'</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
                 <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
+                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
+                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
             </offer>
-            <offer id="205" available="true">
+            <offer id="105" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Композиция 'Алая страсть'</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
                 <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
                 <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
                 <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
                 <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
             </offer>
-            <offer id="206" available="true">
+            <offer id="106" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Букет 'Сердце розы'</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
                 <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
                 <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
+                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
+                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
             </offer>
-            <offer id="207" available="true">
+            <offer id="107" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Классический букет из 15 роз</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
+                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
+                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
+                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
                 <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
                 <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
             </offer>
-            <offer id="208" available="true">
+            <offer id="108" available="true">
                 <categoryId>1</categoryId>
                 <price>6500</price>
                 <name>Авторский букет 'Красный бархат'</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
                 <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
+                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
+                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
+                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
                 <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
                 <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
