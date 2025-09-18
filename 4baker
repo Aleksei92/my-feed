@@ -9,7 +9,7 @@
         </categories>
         <offers>
             <!-- Товар с тегами consist - приоритет над description -->
-            <offer id="2001" available="true">
+            <offer id="2001" available="false">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
                 <name>Хлеб белый новый</name> <!-- form['name'] -->
