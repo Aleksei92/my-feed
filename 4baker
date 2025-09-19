@@ -15,7 +15,7 @@
                 <name>Хлеб белый новый</name> <!-- form['name'] -->
                 <description>Мука пшеничная высшего сорта, вода, дрожжи, соль, сахар и любовь</description> <!-- form['description'] (остается) -->
                 <picture>https://flowwow.loc/white-bread.jpg</picture>
-                <count>40</count> <!-- form['availability_count'] -->
+                <count>0</count> <!-- form['availability_count'] -->
                 <weight>0.3</weight> <!-- form['volume'] = 400г -->
                 <consist name="Мука пшеничная и ржаная" unit="г">200</consist> <!-- form['consist'] -->
                 <consist name="Вода солёная" unit="мл">200</consist>
