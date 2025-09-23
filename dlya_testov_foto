@@ -14,11 +14,6 @@
                 <name>Букет для тестов фото</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
 <picture>https://lh3.googleusercontent.com/d/1zMGtk4tOICCkJENgkC63FCP7PbbgE2rX</picture>
-<picture>https://lh3.googleusercontent.com/d/1c9qaRcIz3nHCwue8RiTMqA6Pt0GTKosC</picture>
-<picture>https://lh3.googleusercontent.com/d/1cZsdb4Ka2KhmydVTtI8Wbqeja2EgWE7X</picture>
-<picture>https://lh3.googleusercontent.com/d/1OXviIQTrJkJCf3UOAtEy_k46cdKiKN_E</picture>
-<picture>https://lh3.googleusercontent.com/d/1vNUpk2JN9oYxiY-oAFSBbqzGRhPPIQvf</picture>
-<picture>https://lh3.googleusercontent.com/d/1ZK1_fKAynNuE49LdtfoCqTPx9Y9flgCs</picture>
                 <param name="Высота, мм">600</param>
                 <param name="Ширина, мм">450</param>
                 <consist name="роза" unit="шт">15</consist>
