@@ -8,10 +8,10 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="523" available="true">
+            <offer id="623" available="true">
                 <categoryId>1</categoryId>
                 <price>5000</price>
-                <name>Букет из красных роз название</name>
+                <name>Букет для тестов фото</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
 <picture>https://lh3.googleusercontent.com/d/10HBq0tSaNiF20RPWHxFhBLbxpLaBFwLi</picture>
 <picture>https://lh3.googleusercontent.com/d/1_CtCSbzhL9quTfNf-5yC3c-9CtbPqdfi</picture>
