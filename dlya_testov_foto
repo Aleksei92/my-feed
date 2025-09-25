@@ -10,7 +10,7 @@
         <offers>
             <offer id="623" available="true">
                 <categoryId>1</categoryId>
-                <price>5000</price>
+                <price>500</price>
                 <name>Букет для тестов фото</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
@@ -18,9 +18,9 @@
 				<picture>https://lh3.googleusercontent.com/d/1gRbnF3J5bWtz_PH-6QfLA_vWFI-9AdKz</picture>
 				<picture>https://lh3.googleusercontent.com/d/1FQpCW_aNsE0NZNYj1zVQrpbQdw9XfxDs</picture>
 				<picture>https://lh3.googleusercontent.com/d/1_i8_JRQgReaL1-CoYoIvnlDWY20XFmSG</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
+                <param name="Высота, мм">500</param>
+                <param name="Ширина, мм">500</param>
+                <consist name="роза" unit="шт">20</consist>
             </offer>
         </offers>
     </shop>
