@@ -10,12 +10,12 @@
         <offers>
             <offer id="1004" available="false">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>100</price> <!-- form['cost'] -->
-                <name>Роза красная мимниальный фид</name> <!-- form['name'] -->
+                <price>1000</price> <!-- form['cost'] -->
+                <name>Роза красная мимниальный фид1</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
                 <picture>https://flowwow.loc/rose.jpg</picture>
-                <param name="Высота, мм">80</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">50</param> <!-- form['width'] = 5см -->
+                <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
             </offer>
         </offers>
