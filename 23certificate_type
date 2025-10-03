@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-03">
+    <shop>
+        <name>Gift Certificate Shop</name>
+        <company>Gift Company</company>
+        <url>https://gift-shop.com</url>
+
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+
+        <categories>
+            <category id="1">Подарочные сертификаты</category>
+        </categories>
+
+        <offers>
+            <!-- Русский тег: На услугу или товары -->
+            <offer id="6001">
+                <name>Сертификат на услуги 2000</name>
+                <price>2000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Сертификат, который можно обменять на услуги или товары</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <param name="Вид сертификата">На услугу или товары</param>
+                <qty>100</qty>
+            </offer>
+
+            <!-- Русский тег: На конкретную сумму -->
+            <offer id="6002">
+                <name>Сертификат на сумму 5000</name>
+                <price>5000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Сертификат с фиксированной денежной суммой</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>false</downloadable>
+                <param name="Вид сертификата">На конкретную сумму</param>
+                <qty>50</qty>
+            </offer>
+
+            <!-- Английский тег: For services or goods -->
+            <offer id="6003">
+                <name>Gift Card For Services 100</name>
+                <price>100</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Gift card applicable for services or goods</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <param name="Type of certificate">For services or goods</param>
+                <qty>120</qty>
+            </offer>
+
+            <!-- Английский тег: For a specific amount -->
+            <offer id="6004">
+                <name>Gift Card Fixed 200</name>
+                <price>200</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Gift card for a specific amount</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>false</downloadable>
+                <param name="Type of certificate">For a specific amount</param>
+                <qty>80</qty>
+            </offer>
+
+            <!-- Негативный тест: два значения русского тега -->
+            <offer id="6005">
+                <name>Неверный сертификат</name>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Тестовый сертификат с ошибочной разметкой (2 значения)</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <param name="Вид сертификата">На услугу или товары</param>
+                <param name="Вид сертификата">На конкретную сумму</param>
+                <qty>10</qty>
+            </offer>
+
+            <!-- Смешанный тест: рус и англ вместе -->
+            <offer id="6006">
+                <name>Международный сертификат</name>
+                <price>3000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <description>Gift certificate with both Russian and English tags</description>
+                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+                <downloadable>true</downloadable>
+                <param name="Вид сертификата">На услугу или товары</param>
+                <param name="Type of certificate">For services or goods</param>
+                <qty>60</qty>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
