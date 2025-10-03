@@ -1,0 +1,1523 @@
+<yml_catalog date="2025-10-03T17:30:03+03:00">
+<shop>
+<name>ПРОСТОЦВЕТЫ</name>
+<company>ПРОСТОЦВЕТЫ</company>
+<url>https://www.prostocvet.ru</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="157">Букеты</category>
+<category id="265" parentId="157">Флористические букеты</category>
+<category id="263" parentId="157">Композиции</category>
+</categories>
+<offers>
+<offer id="123244" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/barkhatnyy_sezon/</url>
+<price>4740</price>
+<currencyId>RUR</currencyId>
+<name>Букет Бархатный сезон S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/c00/owrs1bcg9s1kk9ib31rtzyyxynamotlh.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/de9/3dwkizxzfe7qxv9gt3ou4jp34iaq96va.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/45c/3v2sn2nug874pggducwyxp4fg4t97444.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/427/cmum8jnwc39m0e7d1majq6gsfhhl3s1c.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гладиолус" unit="шт">2</consist>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Роза" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">2</consist>
+</offer>
+<offer id="123247" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/sirenevye_gryezy_s/</url>
+<price>6000</price>
+<currencyId>RUR</currencyId>
+<name>Букет Сиреневые грёзы S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/af1/pns4eyly6fpkw99trrba67zr4oefd6zh.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/361/bp11ubtfomqbqjp7g53fjgdeda3jzwph.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1eb/rp6it6ec45gwrqw5rbruzfblx8iuxajl.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/79a/pqou4xwt3zs9mgcnyv13zkrrja7qv3ou.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гладиолус" unit="шт">2</consist>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Роза" unit="шт">1</consist>
+<consist name="Эустома" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">3</consist>
+</offer>
+<offer id="1338726" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_krasnye_25_stebley/</url>
+<price>4380</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, красные, 25 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/b20/3g6mobrlef3uy3o74tewdl050qmf71iq.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ec8/o9v36wcjgcmtwnk6a16n3zqhk5qtpsg8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/653/5aaqe2n26g6h5ezddopc045nv2jdtoj7.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/072/crexl0desthuvfb4ae39gyi5ggarss09.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">25</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="1338728" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_rozovye_25_stebley/</url>
+<price>4200</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, розовые, 25 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/d88/l5vrudfsw1a745bvobp2rgd3va0v9133.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ba7/fmdap7cbcdsgcxrq1w9ndb2ven6b0oyy.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/3e0/wltg4fp4nbxouy2eruwt4y2n1pf5avxr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/12f/4ib0qu7t0rb929m7iirnxr2hgl9e75ub.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">25</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="15964" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/ledi/</url>
+<price>6120</price>
+<currencyId>RUR</currencyId>
+<name>Букет Леди L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/e4d/gbsj720uvu44mhh5skmw35pzrlaeb84c.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/67c/qv4n36v0gswrvxcvvi5ne18bbko50q1w.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/5d6/mxyj6stw3zjkoujiw49zbmbwbiivjhmk.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/0c4/awyq6i93o869qnwohyfynlaaqo6l84x3.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза кустовая" unit="шт">9</consist>
+<consist name="Гипсофила" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="16545" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nebraska/</url>
+<price>6180</price>
+<currencyId>RUR</currencyId>
+<name>Букет Небраска</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/a6d/5ju07g60rnzeixbam7hh1tbex4vwx1dv.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c31/wb4o7psc013ocmkklssf7ki3k013r0j2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1ed/t4q4ou5nprpxnwkd5w806nx21lsjcpn9.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/173/qqls567xn2r0vqf6iex5vid1z91ei5tw.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ромашка" unit="шт">4</consist>
+<consist name="Хризантема кустовая" unit="шт">6</consist>
+<consist name="Солидаго" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">8</consist>
+</offer>
+<offer id="2071757" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/pshenichnaya_kosa_m/</url>
+<price>4680</price>
+<currencyId>RUR</currencyId>
+<name>Букет Пшеничная коса М</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/e45/ph11x6edaswa037auxjxnxgfeehlh1i3.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b5e/4ax62f9zjbhwqp06bvbt77262h17d695.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/9a9/sbm3z8mers3wpf1setcipcu1zmw8nm2a.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/218/cq9s9m8t5fh44b1y4tofduvefz0yfqbe.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Лаванда" unit="шт">10</consist>
+<consist name="Хризантема кустовая" unit="шт">7</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="2071758" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/pshenichnaya_kosa_s/</url>
+<price>3720</price>
+<currencyId>RUR</currencyId>
+<name>Букет Пшеничная коса S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/46c/v3jggijdp0uzbm0scs1ln5ry04kw9iq8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c79/50sxde7zlzdxulitfx6iovuso7kxeylb.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/9e1/k1vos4333x3esuzm865f9l0orjsvkbx7.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/054/2qq7nncqrci6aiuyzll5rcc9y05f7yjc.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Лаванда" unit="шт">10</consist>
+<consist name="Хризантема кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="24788" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnost/</url>
+<price>2580</price>
+<currencyId>RUR</currencyId>
+<name>Букет из розовой гортензии и гвоздик "Нежность"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/889/z8jw2nnzz76itslbew9473fy5d93mn6c.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/170/dc8qe5eb5rwhbgfgeszyy79bqal8sx16.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/0c4/scpoa5cvrnppmg0s7x6h2fob1fukk1wu.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/346/4gz7d9gvvi3bk7bt66rqiyj8wrlypqa8.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="25099" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/miledi/</url>
+<price>6840</price>
+<currencyId>RUR</currencyId>
+<name>Букет Миледи</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/874/1m9c9bu1596ws9tfm78bu0gpxwq1458r.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/f05/kt8pjzl4kasdpgtmkhx88lpj91c4casl.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bc8/pf2l8u9kdilgy02pn78bnly9rzdjwkc7.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/82e/br5e3qou2pfj01y2f1i8ief2iiw3ut55.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза кустовая" unit="шт">15</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="25950" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/shlyapnaya_korobka_raduzhnaya/</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Шляпная коробка "Радужная"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/4f6/v4u8tv0jcxschd1uyazwh8n8aulzdrbh.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/898/orwg6pgqaajr0nju1qxttyo0aumh8kx2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/809/rua25z22hsiigyzme0ipw1fue68fntxm.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/446/2py0hr8b6pnr6kn9prihqtf6kkbbvv7m.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гипсофила" unit="шт">5</consist>
+</offer>
+<offer id="2666089" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/malenkoe_schaste/</url>
+<price>3420</price>
+<currencyId>RUR</currencyId>
+<name>Букет Маленькое счастье S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/fec/0e0ctk3er6uo495arqapma1heig2ngpj.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/5ea/inom1gwhd4roqv2eep7bgm9089a6cox5.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/a5b/2b9uh52i3l1y2qj3vr87aysxapauc3jd.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/622/6hhay6l9byd6ww4v86t2i8lxs1iiq8p1.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">3</consist>
+<consist name="Маттиола" unit="шт">2</consist>
+<consist name="Гермини" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="26746" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/ayskrim_s/</url>
+<price>2820</price>
+<currencyId>RUR</currencyId>
+<name>Букет из голубой гортензии и кустовых роз "Айскрим S"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/a6c/th4gf7zzgo8qq59cv7suhkdqsqfjed3v.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/79c/ylyqo82bmzpf5liukkxi57hu2swuw1p1.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/8ab/h17mnu4d7l4fgeu0ta483alcm1hevop0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/758/ri26ffh1g5krbm3tqkmmrv5bqwu94h1n.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="27075" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/51_krasnaya_roza_fridom_50sm/</url>
+<price>8580</price>
+<currencyId>RUR</currencyId>
+<name>Букет 51 красная роза, Кения, 50см</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/f84/v8l8i349a6l0hn0ye9cdzwhw72gqeh90.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/19e/j7iidvstgqa0dmn8vo7w8iq2dsempner.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b90/ta8wmzim09mrs62mqmjl5oa0svh63c6l.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/8fc/mldnkwtcegkshcb4qf3rbymcsn03tix2.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">51</consist>
+</offer>
+<offer id="30091" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_miks_15_stebley/</url>
+<price>2340</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, разноцветные, 15 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/12f/ym0ovotbmotoxpi93fgfzbh3ljt63p9k.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/4bb/1sfidt4xh55e3hhk15h2saq8el3pruv5.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/cc2/w363wf1o6xdpugsrl2jjsvt9a6dfxjvd.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/18f/4oj7qimfbkjplw6neeys3n86vfefar3i.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">15</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="3482017" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/sumochka_sirenevaya/</url>
+<price>3720</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Сумочка сиреневая</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/199/0tv0elvcp97b9l2h3rc1nkq0bi7iruua.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/98d/ubvyxcabd2i4s8z8m2zfwz3yv6ni25y0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/be3/gdi0xq18eow2v901t0cnycmzqylnqd8n.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/923/rn3u5u4m5s53mpn0tx6myiss5g5w7fjw.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Эустома" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">1</consist>
+</offer>
+<offer id="3586262" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/zhaklin/</url>
+<price>5832</price>
+<currencyId>RUR</currencyId>
+<name>Букет Жаклин</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/560/b02taw32igrxrpdwo1vuluku5812auvu.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6a9/hv12eezn1j72enyeqndmvkejsn5fo48q.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/048/b3uv13evzwp6kbrl0izuv68al7sfupqm.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/38a/vvyniyt1ywthrncyaalyqrc3aocsxxp2.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема кустовая" unit="шт">7</consist>
+<consist name="Оксипеталум" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="3720112" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_miks_25_stebley/</url>
+<price>3900</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, разноцветные, 25 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/45b/c8w5cf5hwc9fqsi2a0276q03u19plnzr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c07/7buhtn1j5ugsh3311k3gknvkmydcz7mx.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/672/6nzwn1ar0jdjyp6p5sqvb88xm2b5pez6.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/74c/uwrdyfbqhagze0jpqzwoj9wqb63prv82.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">25</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="3747230" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_rozovoy_gortenzii_i_romashki/</url>
+<price>4920</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из розовой гортензии и ромашки</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/222/rv687pdc603k3jgeaa7ti1kymh2a6lqg.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/864/yqvw65lyko9nvchms5hivdyjyp2x1nnr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1f8/zs5qwjgvykuhp315hye6ecli9w75dske.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/5be/uclsf551xalc8b6ve0dah8sfoiakkpys.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гортензия" unit="шт">3</consist>
+<consist name="Ромашка" unit="шт">6</consist>
+<consist name="Листья фисташки" unit="шт">1</consist>
+</offer>
+<offer id="3747232" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_podsolnukha_i_romashki/</url>
+<price>4500</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из подсолнуха и ромашки</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/856/qk6cbhcnehcf5sgd1nte6uq2qpp9a1w2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/7bd/908bpqsqt8gnff6a1xxn6m8qno1gpocj.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/68f/tc0zbv28unim31rf96cwzmvri1svqkwz.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/cd4/rtkelv3j39fct94tvoo03zw4ieq8d8gw.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Подсолнух" unit="шт">3</consist>
+<consist name="Ромашка" unit="шт">6</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3776974" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_krasnoy_rozy_i_sinego_irisa/</url>
+<price>3660</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из красной розы и синего ириса</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/9b6/141xot1sv006stqbsob3k6olocv7v1pr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/4d4/sg0gwg5g2fk0enuco2a75lfplsthlgqm.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/990/xwpojnd0cnq8to8ab6c5td5lg0z8jaal.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ea4/41x9znuq08z28gsuwaxjaqssnhlglpyk.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ирис" unit="шт">15</consist>
+<consist name="Роза" unit="шт">19</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3812430" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_goluboy_gortenzii_i_sirenevykh_diantusov/</url>
+<price>2820</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из голубой гортензии и сиреневых диантусов</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/5d9/sos7z7s3kabu5n723ob0g2xl036kkcri.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c33/kj5mh7p9vipb13fazuhfyoxctmkslwdg.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/25c/nkzgvn8vxtztec04aghyrxhc43ozznhr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c38/55jzp9gtace9lct3s6io5dis4le7ju7l.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">7</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3812433" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_beloy_pionovidnoy_rozy_i_romashki/</url>
+<price>3180</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из желтой кустовой хризантемы и ромашки</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/bf3/4ajqofrg4t2l7eelt765ps7scs1v3eek.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/fc8/zvyj09peeni1vtcefwreu5hgrejwfzko.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/671/agcyac6op70kr2meotas26t5b0g8xvap.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c94/wfnw0293c6n1sas9wtsnjrbe49lvfse5.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ромашка" unit="шт">3</consist>
+<consist name="Хризантема" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3843868" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_rozovoy_gortenzii_i_kustovoy_rozy/</url>
+<price>3780</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из розовой гортензии и кустовой розы</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/eb0/0vpfl1pdxplj08quzkyn1033qekf2kjc.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/0d2/fuqqx4iusxpivrozxjqs8l8hckfagzr2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/28a/hqhwc31ils61zfbewcc8genjanlt71te.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/420/95sy1rl1hq896eq8e1ha6o93bp660dc4.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гортензия" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3856492" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_shlyapnaya_korobka_iz_raznotsvetnykh_roz_s/</url>
+<price>3540</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Шляпная коробка из разноцветных роз S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/2d3/q4j0o0l5mghxrm49xlt9wcdgfs3adb0t.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6cb/pizmqmrdxfdd4gyrp7c2om7vdhwbxut3.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/225/lhgqkhizmv40valpcg6hxbfqlf6x465u.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ded/lwl5nqcmy4kejnwbyn3mi1vfzmcc14r7.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">15</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="3856493" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_shlyapnaya_korobka_iz_raznotsvetnykh_roz_m/</url>
+<price>5100</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Шляпная коробка из разноцветных роз M</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/482/z20cxiit4q5sckpmiso6chwztg32jz6n.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/3cc/c8d5r1lp5ubko7nl1dsgkdmuor2i2r8g.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b2f/9apqd7dv9yhvxlc5kkfssveh7xzmsfvt.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/211/qhrocdff7gvt413kgm4fin6gvq5kjurm.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">29</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3856494" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_shlyapnaya_korobka_iz_raznotsvetnykh_roz_l/</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Шляпная коробка из разноцветных роз L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/d8c/78b36neg4atr519e626dqyvwaoxvdomp.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/517/tmt1fr5c85z0n24z7nfqqb0yaqd8b8co.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/130/mtqyu0rumtx31s0b46rj4yclowbugls9.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2b6/n0dk2nprxj9fxp4ieeo94u5cterjg74k.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">35</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="3856495" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_korzina_iz_raznotsvetnykh_roz_l/</url>
+<price>9060</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Корзина из разноцветных роз L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/822/u4010ijj53jlmjbysx3c9x82mmwuh29u.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/830/tkseiv4vj8eqkfnhb74y2smzztf17mef.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/731/os17bpv3g3mzd4tggwez3i4lkud73kia.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/226/v9ja079cdntrxvp54iajlfi8hktz0l74.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">51</consist>
+<consist name="Листья фисташки" unit="шт">10</consist>
+</offer>
+<offer id="3856496" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_korzina_iz_raznotsvetnykh_roz_m/</url>
+<price>8280</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Корзина из разноцветных роз M</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/40c/wcrzjxkwp70a3uas6kz1a6e28mqlb6i0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/adb/ro5sba1jsuhx96lxmf4flqjogee81cxc.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/aae/bu473r48awra3h7tw242as4ajisr0if0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/913/7pxzairg6pvddmkjvd5dlrnp6s499355.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">41</consist>
+<consist name="Листья фисташки" unit="шт">6</consist>
+</offer>
+<offer id="3856497" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_korzina_iz_raznotsvetnykh_roz_s/</url>
+<price>6480</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Корзина из разноцветных роз S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/6cb/dwggigjolhmdmzsr7zng0wfmypr34sl1.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ef7/6qwgb3hmwiyvnkw2qh1hxslmmgchlp0v.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/3d8/h023yw5x2ms1n64izt5tzvuxdsj4j1h8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/378/2w96cnnxswdt6p6rpa9ghoyc4dhvoahv.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">31</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="3856978" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/barkhatnyy_sezon_m/</url>
+<price>5700</price>
+<currencyId>RUR</currencyId>
+<name>Букет Бархатный сезон M</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/1c9/45ofnpcrfraowm5s5dkpbg8k3bgcsqh0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/498/28w2598i3y20r5k896xe6b6r9owy7xs7.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2a8/fe1gyzdvn1ukv8iiqotgf795g219e1t4.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/110/d8iafvsi3tvk1me8cdj5jf5jmb32xx65.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гладиолус" unit="шт">2</consist>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Роза" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+<consist name="Листья эвкалипта" unit="шт">3</consist>
+</offer>
+<offer id="38835" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovye_diantusy/</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розовые Диантусы</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/34c/nuqlz2qfmgkz89sup4zhpfc2frdc2u40.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/108/xcwx9eu1fx8zintedi01vgnaq1yatu7t.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/52e/ub3auxx2cam8sntcs0mptzle7txj2b55.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/a09/w037psqo7vmpjenw6dk5ycrsdq7zug0a.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">19</consist>
+<consist name="Листья фисташки" unit="шт">4</consist>
+<consist name="Листья эвкалипта" unit="шт">2</consist>
+</offer>
+<offer id="38836" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnye_diantusy/</url>
+<price>3780</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежные Диантусы</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/b87/3fxvc075pkfg504o5cknr6wgm6s2fmja.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6d1/r4ap93cfffowdcf6cjeip0njd4wmjmq2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/109/329yb2054u4g6i844h1vzoxyntkh94iw.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/985/hu4eggiyu0jf2y8dhcvlzv510nrkdo37.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">17</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="3889181" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/kompozitsiya_sumochka_belaya/</url>
+<price>2340</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Сумочка зеленая с белой хризантемой</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/abf/22nty8ehftumnjy8kabd3nebr1fj0e0e.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d31/iypwk14lwq89kwptog20ikcg2bt39x7s.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6de/bbctm2w8kyns7pcxoz77liv48id8g74f.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="3889476" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnyy/</url>
+<price>3900</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежный S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/eea/7o3ncss2mw136pm5d5m483ur3l6gt605.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1c3/wx9xmu70332k37vw4y2ee7t8rhvesfq3.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/7b1/xewmirv0u9u3udvofc4y1acdxqmoc70g.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2aa/z2ijxhb6lusxv23rd9ilci641703ctqo.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ромашка" unit="шт">3</consist>
+<consist name="Гермини" unit="шт">7</consist>
+<consist name="Листья аспидистры" unit="шт">7</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="4012711" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_beloy_eustomy_i_kremovoy_kustovoy_rozy/</url>
+<price>3540</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из белой эустомы и кремовой кустовой розы</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/c30/gvhescx8ozui1rcu34k9yfb1i3jp4f4a.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/dae/ut7klj2vshh8j4qi09xx9222t0wql73m.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/02c/oxz9exfikdz19c8su3hwzwfb2axmibm5.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/628/i64mnuqd7bfbbrazokwe39cwucgaeccw.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Эустома" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4012729" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/triobuket_iz_kremovoy_kustovoy_rozy_eustomy_i_romashki/</url>
+<price>5700</price>
+<currencyId>RUR</currencyId>
+<name>Триобукет из кремовой кустовой розы, эустомы и ромашки</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/61a/h7qp8arp5wlprzt1ooc4elqted838917.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bff/32pab4c0a3phiwp4amm552bd4hnyrpn9.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d4c/0lo1c7y8fhdk11of3mes4lf6uh2gjfhy.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d44/8cg1mnnk2nahp0kbvvxvubgtw286t90i.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ромашка" unit="шт">4</consist>
+<consist name="Эустома" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="4014450" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/yashchik_2_s_rozovoy_rozoy_gladiolusom_i_diantusom/</url>
+<price>6480</price>
+<currencyId>RUR</currencyId>
+<name>Композиция "Ящик №2" с розовой розой, гладиолусом и диантусом.</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/4a1/6i038x833weju14s96q32cg0y7c3y42g.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b0d/w8pwjgqfqlg3m1o4jg4hatzc73nvw3pz.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e50/zlcakmqygsg0x59s8xdxjhvhsdlz2c8x.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6e2/msmo11uvksb3y166b9h3fk6bgfnw3f2o.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гладиолус" unit="шт">2</consist>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Роза" unit="шт">5</consist>
+<consist name="Маттиола" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">2</consist>
+</offer>
+<offer id="40387" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_rozovye_15_stebley/</url>
+<price>2940</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, розовые, 15 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/547/kkge340sv6iwxi5d9n0trq69suotr71u.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/24b/re5vb62jnxfp1et1dcnlkikocorxxzrg.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1ff/xw73nmmuxmm6yjg42soalpx7lkajceaf.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d01/9r7zna65owni3p2vc5k6z7scmw2cewhc.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">15</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="40389" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_krasnye_15_stebley/</url>
+<price>2940</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, красные, 15 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/aa7/1mqqz61ye18lj0wfevxbpoq1639spzat.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/138/r3gvg48afksb3u3n3yxhavqt65wo3thj.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d74/zieqsvwjqypsqemoz5l485icytfaon19.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/40f/0u7ix8td1juysbcwdkmtl64vv6v6z3cx.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">15</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4040538" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovoe_schaste/</url>
+<price>6720</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розовое счастье L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/1cd/1lbrx2aucpu6lvr9537z84zt5o0b9cuo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2e0/qd5plbg25jyu38a40jj0rk1qi5f5qkp0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/3d0/x8262gfn113lrc8xkaamp2oxysx2l8t0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/be5/gr9zfqqh4l0srmh3rx8u66b7wc0k4r55.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+<consist name="Хризантема кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">8</consist>
+</offer>
+<offer id="4059064" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/101_krasnaya_roza/</url>
+<price>11400</price>
+<currencyId>RUR</currencyId>
+<name>Букет 101 красная роза, Кения, 40 см</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/e9e/vzujb0tdoj32gubbihp37hm1xghxw16x.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2b0/byt3vyld5xtxxquo8kpr9altogngc4mc.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bbb/n6oyv0mygauh41rkvt3ksda4jrbve2k8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/074/t1z8p8ubgyudxpgbj9yb4zzqzca48cg1.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">101</consist>
+</offer>
+<offer id="4059066" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/101_belaya_roza/</url>
+<price>13800</price>
+<currencyId>RUR</currencyId>
+<name>Букет 101 белая роза, Кения, 40 см</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/cba/lmzpkv8qmrlxnui7ajvj1gdrsceb5ess.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ae6/x73w08247p5oq894h67x2zkmhw9pumpl.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/3d4/1lc4015ix4vinn3swfz0h93yp5mdb1w9.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/712/g7jamfaymw67regra8mi7rghdlsat13v.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">101</consist>
+</offer>
+<offer id="4059068" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/51_raznotsvetnaya_roza/</url>
+<price>6540</price>
+<currencyId>RUR</currencyId>
+<name>Букет 51 разноцветная роза, Кения, 40 см</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/d74/9scwak024nazng54ng0jvh39fh0o2jgr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/990/3eq93nwjyy6pu4teosxrlnu1rn8izvmg.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/143/5n7ix2exmnpiygoew4ciikpbukdipjow.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/21d/udblzpnj9e1gv5p7lw5d1u9bkg3tj9zc.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">51</consist>
+</offer>
+<offer id="4059069" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/51_belaya_roza/</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<name>Букет 51 белая роза, Кения, 40 см</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/c89/iyv1o2ypha7n3pkal2xuvqmr38ag1200.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/73b/36wust159ydiwt41p06moj061jb3dlzt.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d1d/2xie2eckq9m83txn4qi6v3qzao3n74wu.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/63d/ueakjrrtteumbjrugoht32xutp071df1.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">51</consist>
+</offer>
+<offer id="4062775" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nebesnoe_schaste/</url>
+<price>4980</price>
+<currencyId>RUR</currencyId>
+<name>Букет Небесное счастье М</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/c95/ebmkea917qmq76qgbevwimvepn10gj7r.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/0f7/golz5kflaotvabol83bf36ydwqsrwynb.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/9b1/mhb6dj5b1a9c4mmib7v789vhgitb2ezf.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/335/8ghf9va0tcf7x3uhgxz3umgq0pl34h0g.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Хризантема кустовая" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="4130375" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/101_malinovaya_roza_ekvador_70_sm/</url>
+<price>15800</price>
+<currencyId>RUR</currencyId>
+<name>Букет 101 малиновая роза</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/0be/p77iuuvr1nrujmb7s0lu9bmn14z7xzt7.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c0c/90slnsaeqmc3zxx8drf8scnjzwe1bwdr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/3ae/5xf9gz3wlf2w7uchjtuwn7r35ndgcyvy.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/eda/oez1pjc37ocv1gffr67rofqust62lu17.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">101</consist>
+</offer>
+<offer id="4213149" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/bezmyatezhnost_xs/</url>
+<price>3420</price>
+<currencyId>RUR</currencyId>
+<name>Букет Безмятежность XS</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/6f6/64gfpt5lkkz1hre3dtmow11kdxk7rnf8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bff/9zknwzslaxi7jw1vh9wmwj2fs7nzv9cc.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/a19/ch1qs7gz7c49w5115u9rfcesm2t8l1ob.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/91e/04w0z6ysy3vt98y6yja6q9lsim8t1bpo.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">2</consist>
+<consist name="Роза" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Гвоздика кустовая" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+<consist name="Листья эвкалипта" unit="шт">1</consist>
+</offer>
+<offer id="4213150" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovoe_schast_xs/</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розовое счастье XS</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/4e5/x2q6g0bg7ys31ema25y2oiywqqi4l5eg.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/8fc/89af6wr6caf22phcfohxr5wwtj03gb4o.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/156/n3vywt326lind60yg7zp3z4uyw91datm.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/4c9/1u5jz7u3jwbm2wbcwuqjaz81x1jde7ev.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">1</consist>
+<consist name="Хризантема кустовая" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="4213596" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/pshenichnaya_kosa_xs/</url>
+<price>2820</price>
+<currencyId>RUR</currencyId>
+<name>Букет Пшеничная коса XS из хризантем и лаванды</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/8c0/d5t5jr3113r9huww3t4y4rklj66xqdba.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/967/cvrmm1y2hdjdsi3sww4cgxn185v8bjy5.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/370/pczx1lfhfpjzvqi9nm52q9cznahnxtw3.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ab1/1e7qifka4i74nckf9fdv0gx0ui0o2yrl.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Лаванда" unit="шт">15</consist>
+<consist name="Хризантема кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4241500" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnyy_xs/</url>
+<price>3540</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежный XS</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/0b5/y6ysts59j0mapl8vzerpiqfsia5p79if.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/757/fqogsccw5bwpl474uv81n7i28s2dzhi1.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/75b/e0jdmaelxlb3elemsyta2khdy2pe94ru.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e35/o20cppttryu30eu2q392s57ednbzd3ju.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ромашка" unit="шт">2</consist>
+<consist name="Гермини" unit="шт">5</consist>
+<consist name="Листья аспидистры" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="4242026" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/malenkoe_schaste_xs/</url>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<name>Букет Маленькое счастье XS</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/57f/do853h5q1eaagja2r5iu5dttadkdwlg9.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/16f/xgt9bsvqor5k1xr2g5aramvxydrfyb36.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/7c2/6kcsygy938jsq2fk20g31ufv2mpy4p87.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/a45/hy24eugl14en31kxrm9bitxox2s0d2yc.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">2</consist>
+<consist name="Маттиола" unit="шт">1</consist>
+<consist name="Гермини" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4267321" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nebesnoe_schaste_xs/</url>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<name>Букет Небесное счастье XS</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/2e2/gvkc9raeo411qc44mltky55xq8lilxwf.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/855/egakzgavj7tynn8wrqh3lc7te3daze3b.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/291/ofwd1h84z4p75f2uwtogmjfa2rru2yqz.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1c8/3rzygzjlfx1ax1zq4mud28g2frtyarn1.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">1</consist>
+<consist name="Хризантема кустовая" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="4267322" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/potseluy_lyubvi_xs/</url>
+<price>2340</price>
+<currencyId>RUR</currencyId>
+<name>Букет Поцелуй любви XS</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/701/54ur3enyuwd1wfidhs10p3ph0yy38jji.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/221/5fy80h1psjkz12znr0752rj9gsr5ebdt.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/995/5sk37z2s6dpzpykfrn10vvrnfpyktqj0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/665/ra8ui3k5xbrt2x9btuo7w4mmpfbo2bkz.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Роза" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">1</consist>
+<consist name="Гипсофила" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="4458018" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/ogromnyy_buket_iz_35_belykh_khrizantem/</url>
+<price>12600</price>
+<currencyId>RUR</currencyId>
+<name>Букет Огромный букет из 35 белых хризантем</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/293/fmlnijeqarqk14wu5nnsiq2idl6giowp.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ad4/kkdnhlbw8bw1xxhldjbqubwamk1535sb.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e3b/srfyi8xov73s0kq51hkwuafflb2bkexs.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/174/3vzl7jxbz6thvt9ehtuxnb9n7481if8s.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема кустовая" unit="шт">35</consist>
+<consist name="Листья фисташки" unit="шт">10</consist>
+</offer>
+<offer id="4542776" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovoe_schaste_xl/</url>
+<price>8340</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розовое счастье XL</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/1ce/5ccpe7jo42smlsh5kb5hkg378hhoigsr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/389/lgpk9t4a26fw1u7rh60ix59eco12bwef.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/763/sq62bnvp9tm5v0ukstkhfy2gvwn2de6j.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/067/9t0dafo6y3abunyadc6ffr2yi0b0g9au.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">9</consist>
+<consist name="Гортензия" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">5</consist>
+<consist name="Хризантема кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">10</consist>
+</offer>
+<offer id="4596987" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_krasnye_35_stebley/</url>
+<price>5700</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, красные, 35 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/4da/h1bw8yqy0er7gh7dnmh9v7qjfubx2vxj.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/4d2/okny67fjl3whikbj7pae75t0iehyxofe.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/a0d/xqz1e8d3rh2ncdjlgdwr6cucf7suomyy.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/124/iui82vl4e21xlzp6gps8tmajtc06kkx6.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">35</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="4634033" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozy_promo_s_fistashkoy_rozovye_35_stebley/</url>
+<price>5400</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розы ПРОМО с фисташкой, розовые, 35 стеблей</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/9aa/4jhknz6e8v2guoxb5roy9mpov65dgye1.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/f9e/egfnpytqxv9jmtg5j6wy2zsjo2k0086v.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/f2a/m5lhfsev0zztypttt5wytg8k7jek0iyo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/967/x5h23ydc88656uf2oubvf7jbijxn01lm.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">35</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+</offer>
+<offer id="4708125" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/duobuket_iz_sirenevykh_khrizantem_i_nezabudok/</url>
+<price>4140</price>
+<currencyId>RUR</currencyId>
+<name>Дуобукет из сиреневых хризантем и незабудок</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/8bf/iuucn8fqa8917aj0czyg7m5tv4f8nolu.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/607/iv9kf2mtpm0lsybdxaquc7yfsg86l8cn.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/57f/3s9682at4cf68pstx2tqo4lj71me9kfq.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/531/n8l8pwdwg8xw8tlzrzt3pzo0lu91uk86.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема" unit="шт">5</consist>
+<consist name="Оксипеталум" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4764675" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/strast_i_nezhnost/</url>
+<price>3060</price>
+<currencyId>RUR</currencyId>
+<name>Букет Страсть и нежность</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/97d/yocjvv8icn6gk55c0jehc06s1pia6rfh.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/9a5/rf23q8gf33t8jaag9gg7p307bhwt98r4.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b3e/48pdxxydy49gv9kqhcddqlep9x124e65.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/5ca/ared29j6cup59wahi6wo5b98tsbp8b6y.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">7</consist>
+</offer>
+<offer id="4783726" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/schaste/</url>
+<price>5040</price>
+<currencyId>RUR</currencyId>
+<name>Букет Счастье M</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/917/0mmz0sn71lss69ctphtyknixtcegbv9f.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/657/96gb0x8u3jwyme5s7tsgm6y4g3r2lgc1.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e17/tscwb0kka3flayvmougoj9ot0flvpci2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/8aa/egs5wwr6uhlzip3ya4eyhfe3qae2ix2v.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Эустома" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+<consist name="Гвоздика кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">3</consist>
+</offer>
+<offer id="4783728" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rosinka/</url>
+<price>5180</price>
+<currencyId>RUR</currencyId>
+<name>Букет Росинка M</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/cea/35ptvli3sxbzfi4retvazeu43v22rkbo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6f0/igx1ikpv1xau69s2gbligmzaqotwsp22.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bd8/ndhldo5tlhoukcihon41reuip029e1ag.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ef1/j1bsj3aprqg3vvw3kxzv5c8d2w87gppn.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Маттиола" unit="шт">2</consist>
+<consist name="Эустома" unit="шт">2</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">2</consist>
+</offer>
+<offer id="4783909" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/son/</url>
+<price>6490</price>
+<currencyId>RUR</currencyId>
+<name>Букет Сон M</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/58a/3iiu68dh2ynnl347fdooxp57kb9gm4kr.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2ab/90v3ojd241kzxrtv9wpw1v7337qlu1he.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/16f/77oduva8vjfut3ph84yo0n5l8zr86x2j.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/285/fbmv12xbegql3etp2daposdbctroh5tk.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Маттиола" unit="шт">2</consist>
+<consist name="Эустома" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+<consist name="Оксипеталум" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4897940" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/sinyaya_garmoniya/</url>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<name>Букет Синяя гармония S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/419/xjt5mnj329hw68kuzjqw52fw1ogqof9z.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e72/yhod6gmt5ldfn0ydbjnwbobp8ec7kbuo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/573/vwdpxafkoueqlecoraam6y3ry1b93vai.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2cc/o0b8a6mlm4h5d5bq7r1r0368eanj6sbh.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4897945" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnyy_rassvet/</url>
+<price>3420</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежный рассвет S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/09e/6xd32g2l5a1vxdck8667tr1fyuu1rxzn.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/723/8hzh165n4nnykosja54825rr5ao2dop2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/196/4o3vccn6ojzgkfeqmlqsc36jacolo99t.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/303/p03fyzqckq612eb3ker20tx21o7qksl9.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Эустома" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Гвоздика кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">1</consist>
+</offer>
+<offer id="4898009" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovaya_simfoniya/</url>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розовая симфония S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/629/mkt1n4z7m0au45i0rjalpab0tivl7l62.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/afd/2txv6ulzwkf09qhe9abej0jhdtdggwmi.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/674/te5atc76ez6yvrcr979x74cmcgisl2pv.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/587/a12rrqxx3yxu7wnms03qqanksxc52qeo.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4937845" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/sumochka_belaya_s_beloy_khrizantemoy/</url>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<name>Композиция "Сумочка белая с белой хризантемой"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/8ed/qfuiw8il7ij9ntr0lvv0219thxputgob.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/f2a/y3c8as100jldq8pmi78t0lsbpe8w2z4o.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/8d7/4344nmek32ocvimfj6kn0lajznhb3viq.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/878/jw4vb7oec9xrgrcmgg18df2vm6224o7j.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="4937847" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/sumochka_s_rozovoy_gerberoy/</url>
+<price>4200</price>
+<currencyId>RUR</currencyId>
+<name>Композиция "Сумочка с розовой герберой"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/80b/oaiyn5ptozzcga3d0hpasqimi5n3szwn.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e5f/ykn1arruyyujzxzce67imgiq6bogdc00.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c4a/kuv0u0u1qvpw80kgfzlmr22vk7ggxg6j.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/7d5/wcfcyf36u48v330d6np69389337bmpzl.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Роза" unit="шт">5</consist>
+<consist name="Гермини" unit="шт">3</consist>
+<consist name="Эустома" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">2</consist>
+</offer>
+<offer id="4979090" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/prima_s/</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<name>Букет Прима S</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/b26/9hcti0umnk1r5xwhtte0pqwnvbuzvyu8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/eed/eyv0257h4v8wdanr3qs33e1834j6520f.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/223/diipdwr9q6bhpdwg6ulbqaf0icdbjfrg.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b56/aqfxz646k1krttp4dx7u6n47j6l3ahvp.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Роза" unit="шт">3</consist>
+<consist name="Эустома" unit="шт">1</consist>
+<consist name="Роза кустовая" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">1</consist>
+</offer>
+<offer id="4987831" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/schaste_l/</url>
+<price>7800</price>
+<currencyId>RUR</currencyId>
+<name>Букет Счастье L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/d41/j6m70wy2vth8hfvm2ozlg8u4xcdf6ar8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b78/gi1qq5eosp6ly3c5z6ttwfda5y9q815j.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/faa/hbzf1j4isfz1m23etsurhbvvtyni7yyw.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/244/aru87yw7s60tejwjscjj68vq76allgzc.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Эустома" unit="шт">4</consist>
+<consist name="Роза кустовая" unit="шт">5</consist>
+<consist name="Гвоздика кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+<consist name="Листья эвкалипта" unit="шт">5</consist>
+</offer>
+<offer id="5001969" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnyy_rassvet_l/</url>
+<price>7740</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежный рассвет L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/94c/tng9gsmnshvu3u633cyk24vnmugchssc.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/039/tubbnrm7duqqh1hijbfr1at46red1qze.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/d28/zdj5nfpppzx3lrdp3eof5sp1r5envdf4.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/44a/php2w2hr1pn7x7k6dqqrsplfxk3wwu1v.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Эустома" unit="шт">4</consist>
+<consist name="Роза кустовая" unit="шт">5</consist>
+<consist name="Гвоздика кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+<consist name="Листья эвкалипта" unit="шт">5</consist>
+</offer>
+<offer id="5001970" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnyy_rassvet_xl/</url>
+<price>8460</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежный рассвет XL</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/8a0/n43yart6atwtid6e35960n1yobiqwkoo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/439/eu429cf0rlcmmq442yeosfar2yrxjntz.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2ca/fazv1fhag8hjycxznusqe2tluyt74l8a.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/fe6/ndyokc3mut5t9yrel5hftsksb32vkc01.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">9</consist>
+<consist name="Эустома" unit="шт">5</consist>
+<consist name="Роза кустовая" unit="шт">6</consist>
+<consist name="Гвоздика кустовая" unit="шт">7</consist>
+<consist name="Листья фисташки" unit="шт">7</consist>
+<consist name="Листья эвкалипта" unit="шт">3</consist>
+</offer>
+<offer id="5001975" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/nezhnyy_rassvet_m/</url>
+<price>5160</price>
+<currencyId>RUR</currencyId>
+<name>Букет Нежный рассвет М</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/4ff/11bcw0a02id0dvsynzhcmlzkuj90mjnd.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/04f/kklz3lvajn0x0vugbfp4xwrgircvt13x.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/6e6/kk4ue7ccj318z1a3m3ro28e16nnt9h4n.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/8a6/yw3mt5z1e99qssc89pfyemkof8xmakg6.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Эустома" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+<consist name="Гвоздика кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">2</consist>
+<consist name="Листья эвкалипта" unit="шт">3</consist>
+</offer>
+<offer id="5002004" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovaya_simfoniya_m/</url>
+<price>3540</price>
+<currencyId>RUR</currencyId>
+<name>Букет Розовая симфония М</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/e46/z1bo3wziwbvnq550gicenvcmivcuoy52.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b0c/m48hdndpnhps1r249g47tgetr5vb00iu.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b52/3n8p1ormxd28j4r36l3b6r3w1x72xqqo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bc6/scjy0c9tkc2niv0b27t3b3mh7wpbv441.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="5222670" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/leto/</url>
+<price>6600</price>
+<currencyId>RUR</currencyId>
+<name>Букет Лето</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/c56/ttnxfajt1hazwxen56izdupzohwlzqjy.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/cf5/8wuhhrch6xfwgugyk9rmoz9440io5ytf.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/dae/cfkezihb1907lf0kbb6ge3nrcrbtjfh5.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/67f/cqp0250yrcww8lfvxg05r3o4lduxifxs.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Подсолнух" unit="шт">3</consist>
+<consist name="Хризантема" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">1</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="5264778" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/buket_nevesty_9/</url>
+<price>5820</price>
+<currencyId>RUR</currencyId>
+<name>Букет невесты 9</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/47a/q8vledz87r6e010odx4ep13own9iebrs.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ee2/4pmc7w7ku8n5brdwrlmgi4yfndptntjf.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/2c3/1svq34a8yda42xnj1wu0thvxjawdkfta.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/909/2hgs7xl4bff71kc7t1913qt7q8189206.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Орхидея" unit="шт">7</consist>
+<consist name="Гортензия" unit="шт">2</consist>
+</offer>
+<offer id="5367463" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/magiya/</url>
+<price>7140</price>
+<currencyId>RUR</currencyId>
+<name>Букет Магия</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/3df/cx3ppaictuehzd9z35q4gmiwwxjxmtfi.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/a89/j41xo9vtt6lx2v6wzdy6yyzf5u1uhyzz.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/e7d/72skvxnyxd6l1fmwve4gzug9qv6zma3u.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c47/cvgex2voj9yiruaehpbk6wv8c0olv63b.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза" unit="шт">5</consist>
+<consist name="Хризантема" unit="шт">3</consist>
+<consist name="Эустома" unit="шт">3</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+</offer>
+<offer id="5429758" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/pshenichnaya_kosa_l/</url>
+<price>5880</price>
+<currencyId>RUR</currencyId>
+<name>Букет Пшеничная коса L</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/d0c/4qokr919ftieua9izhbg2yu4nr8y21qs.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ceb/4g11qtndt5vjfh58mrhyi9ctulx38r8m.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/372/rti1atu741tft0bpgnqojw8geg8zp1y0.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/670/7mt0tyl9qtuto82gracqqbcd5d0z75yz.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Лаванда" unit="шт">30</consist>
+<consist name="Хризантема кустовая" unit="шт">9</consist>
+<consist name="Листья фисташки" unit="шт">9</consist>
+</offer>
+<offer id="5474511" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/belyy_son/</url>
+<price>5643</price>
+<currencyId>RUR</currencyId>
+<name>Букет "Белый сон"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/206/030il35tjh8r77akciirpstnezrcnvfl.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/5f6/1ytz9hl3rq9d2t1sbw4ijzr472x2r00f.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/5b1/pb0q1b8wnqsjhya6yqbxhdm9u2wvr2k6.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/630/ds2adwm6r7cngwly6s9gluy2caxptl4r.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Ромашка" unit="шт">4</consist>
+<consist name="Роза кустовая" unit="шт">3</consist>
+<consist name="Хризантема кустовая" unit="шт">7</consist>
+<consist name="Листья фисташки" unit="шт">4</consist>
+</offer>
+<offer id="5474545" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/letniy_rumyanets/</url>
+<price>5700</price>
+<currencyId>RUR</currencyId>
+<name>Букет "Летний румянец"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/6f1/oxxykg285fkfy9sefzegmpu8zeje4fau.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/1d5/9ex8tsufy69ax6c49u4a38r029c9aout.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/988/663uwib4je3x4fy7oowtj5pv38rtqhz1.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/45d/om1zwbld2zt79uhj5h9do816ss3gza0n.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Гортензия" unit="шт">1</consist>
+<consist name="Роза" unit="шт">3</consist>
+<consist name="Хризантема кустовая" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+<consist name="Листья эвкалипта" unit="шт">2</consist>
+</offer>
+<offer id="5474548" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/rozovyy_sekret/</url>
+<price>7260</price>
+<currencyId>RUR</currencyId>
+<name>Букет "Розовый секрет"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/f73/84uw04v6c00nk9ie2tmsel2dfizx1edd.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b55/7nn5xohttsl5qx5bjg3m42ihao70rkn2.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/22d/h752wemc9etmsgar3vj9jj00jcfb4ruj.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/b91/bngxhbst4ln61pcw96wq2tbxqq87gnoy.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">5</consist>
+<consist name="Роза" unit="шт">6</consist>
+<consist name="Хризантема кустовая" unit="шт">5</consist>
+<consist name="Листья фисташки" unit="шт">4</consist>
+<consist name="Листья эвкалипта" unit="шт">4</consist>
+</offer>
+<offer id="5551003" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/lepestki_lyubvi_m/</url>
+<price>4500</price>
+<currencyId>RUR</currencyId>
+<name>Букет Лепестки любви М</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/a1f/ko799ioo000nswthg1c30j4v696hoxyx.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ca0/st5ea5t7r1dotg1o6ff4d6ofzcgbeku7.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/7f6/cwb4ocnz32trpitojqjchik0lj8nm8iu.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/c0e/25238i01pgbzzomdc02ad47s6n4pm26v.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема" unit="шт">3</consist>
+<consist name="Лилия" unit="шт">1</consist>
+<consist name="Гермини" unit="шт">3</consist>
+<consist name="Гипсофила" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">3</consist>
+</offer>
+<offer id="5551004" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/lepestki_lyubvi_l/</url>
+<price>7020</price>
+<currencyId>RUR</currencyId>
+<name>Букет "Лепестки любви L"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/c6b/1u9e78iv7gq1n5n1n3fa69ml0rlembk8.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/bd2/kb1pvyapb0psuj2bmui0gp59yqw123bo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/ac7/ffcw3k6oy9pom3m5wux7y3w527pblyqy.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/60b/105s101zun2qx3tf54ej6xb0wb0x938k.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Хризантема" unit="шт">4</consist>
+<consist name="Лилия" unit="шт">2</consist>
+<consist name="Гермини" unit="шт">5</consist>
+<consist name="Гипсофила" unit="шт">3</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="5551006" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/floristicheskie_bukety/zolotoe_pole_m/</url>
+<price>6600</price>
+<currencyId>RUR</currencyId>
+<name>Букет Золотое поле М</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>265</category>
+<picture>https://www.prostocvet.ru/upload/iblock/77b/xaq1xqqi3cuwkir6ezmd1gib46a2gh2o.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/4c3/et5nun513s35ikzmp7u1rwzdfy56vl3f.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/764/sveckuisixeo3hk6o779cbmokmfb3ujs.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/453/94dm15tgpl059e5wqyr3kc97fgrg97ia.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Гвоздика" unit="шт">3</consist>
+<consist name="Подсолнух" unit="шт">3</consist>
+<consist name="Ромашка" unit="шт">3</consist>
+<consist name="Хризантема" unit="шт">2</consist>
+<consist name="Листья фисташки" unit="шт">5</consist>
+</offer>
+<offer id="5603331" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/tsvetochnyy_den/</url>
+<price>5340</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Цветочный день</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/801/q3llw0hhkg9b4kc2q7w13oju5chzvmxo.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/9db/8i4u16jiw1pese4v4bireyixs8857cmm.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/651/wab5bu1k0hp87hynnij74fy2s4y0s868.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/009/1bz7a3cv94uq8jx5qbvd9pkp49fv95r9.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Подсолнух" unit="шт">3</consist>
+<consist name="Ромашка" unit="шт">2</consist>
+<consist name="Эустома" unit="шт">2</consist>
+<consist name="Роза кустовая" unit="шт">2</consist>
+<consist name="Солидаго" unit="шт">1</consist>
+<consist name="Листья эвкалипта" unit="шт">1</consist>
+</offer>
+<offer id="843037" available="true">
+<url>https://www.prostocvet.ru/catalog/bukety/kompozitsii_1/shlyapnaya_korobka_belye_rozy/</url>
+<price>4920</price>
+<currencyId>RUR</currencyId>
+<name>Композиция Шляпная коробка "Белые Розы"</name>
+<description>Букет, разработанный командой профессиональных флористов. Идеально подойдет под любой формат торжества и по любому поводу, будь то романтическая прогулка, юбилей, профессиональный праздник любимого учителя или день рождения близкого человека.</description>
+<category>263</category>
+<picture>https://www.prostocvet.ru/upload/iblock/ae0/dwbn500tv4auc37722o3bn3tzbgisjag.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/705/qif68r38ckyu3l618huh09qkic6ewy4h.jpeg</picture>
+<picture>https://www.prostocvet.ru/upload/iblock/217/ec8lzhtej12um8tliggmjet12qhs2d4s.jpeg</picture>
+<param name="Ширина, Мм">250</param>
+<param name="Высота, Мм">400</param>
+<consist name="Роза" unit="шт">25</consist>
+<consist name="Листья эвкалипта" unit="шт">3</consist>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
