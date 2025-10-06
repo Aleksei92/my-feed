@@ -1,43 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <yml_catalog date="2025-08-25T12:00:00+03:00">
-<shop>        
-<name>finedesigngroup.ru</name>
-<company>finedesigngroup.ru</company>
-<url>https://www.finedesigngroup.ru</url>     
-<categories>            
-<category id="2149">Аксессуары</category>        
-</categories>
-<offers>
-<offer id="77833" available="true">
-<url>https://www.finedesigngroup.ru/products/povyazka-dlya-volos-iz-naturalnogo-shelka-bezhevogo-tsveta-iz-kollektsii-essential-77833/?r1=yandext&r2=</url>
-<vendor>Tkano</vendor>
-<oldprice>2190</oldprice>
-<price>1862</price>
-<currencyId>RUB</currencyId>
-<categoryId>2149</categoryId>
-<picture>https://www.finedesigngroup.ru/upload/iblock/dec/dec55e6a486f48abcc6479ce88444a57.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/d95/d9596f3c6223c6bf95335e21ed3ef01d.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/28f/28fd85d18cb2cca3616946ef84e0b688.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/611/611805a6288a1711c7bcf013f1555880.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/16f/16f9a0f352be9a8fdc8f272a8190874d.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/8ac/8aced7de3d9f4891b3b554f9e1ef05ff.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/c6e/c6eb16bcc85dbc4bc1a4bd85babd2223.jpeg</picture>
-<video>https://rutube.ru/shorts/70c1a17c2d23a830091e0c002c73cc7b/</video>
-<param name="Размер">24 х 7 х - см</param>
-<delivery>true</delivery>
-<vendorCode>TK24-HBG0004</vendorCode>
-<name>Повязка для волос из натурального шелка бежевого цвета из коллекции essential</name>
-<description>Повязка из натурального шелка бежевого цвета из коллекции Essential великолепно дополнит линейку любимых аксессуаров, придаст образу элегантность, а волосам – ухоженный вид. Вы можете надевать ее во время отдыха, сна или проведения косметических процедур. Особенности и преимущества: - Гладкая текстура шелка улучшает качество волос, предотвращая их спутывание, электризацию и истончение прядей. - Натуральный материал безопасен для самой чувствительной кожи, так как не вызывает раздражения и аллергических реакций. - Повязка фиксируется при помощи эластичной ленты, которая обеспечивает идеальную посадку без чувства сдавленности. - Шелковая повязка выглядит элегантно и долго сохраняет привлекательный вид при правильном уходе. Состав: 100% натуральный шелк. Плотность шелка: 19 момми. Размер: 7х24 см. ! Ручная стирка при максимальной температуре 30° C ! Гладить при максимальной температуре 110° C ! Сушить вертикально в тени ! Не отбеливать ! Сухая чистка запрещена</description>
-<param name="color">бежевый</param>
-<param name="material">100% натуральный шелк</param>
-<param name="ШтрихКод">4660248426459</param>
-<param name="Высота">7</param>
-<param name="Длина">24</param>
-<param name="Глубина">0</param>
-<country_of_origin>Китай</country_of_origin>
-<param name="СтранаБренда">Россия</param>
-<param name="Вес" unit="кг">0.05</param>
-</offer>
-</offers>
-</shop>
+  <shop>
+    <name>Art Floral</name>
+    <company>Art Floral</company>
+    <url>https://www.finedesigngroup.ru</url>
+    <categories>
+      <category id="2149">Art Floral Rosen im Glas und Baeren</category>
+    </categories>
+    <offers>
+      <offer id="77833" available="true">
+        <url>https://www.finedesigngroup.ru/products/povyazka-dlya-volos-iz-naturalnogo-shelka-bezhevogo-tsveta-iz-kollektsii-essential-77833/</url>
+        <vendor>Tkano</vendor>
+        <oldprice>2190</oldprice>
+        <price>1862</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2149</categoryId>
+        <picture>https://www.finedesigngroup.ru/upload/iblock/dec/dec55e6a486f48abcc6479ce88444a57.jpeg</picture>
+        <picture>https://www.finedesigngroup.ru/upload/iblock/d95/d9596f3c6223c6bf95335e21ed3ef01d.jpeg</picture>
+        <name>Повязка для волос из натурального шелка бежевого цвета из коллекции essential</name>
+        <description>Повязка из натурального шелка бежевого цвета из коллекции Essential великолепно дополнит линейку любимых аксессуаров...</description>
+        <param name="color">бежевый</param>
+        <param name="material">100% натуральный шелк</param>
+        <param name="Размер">24 х 7 х 1 см</param>
+        <param name="cartons">1</param>
+        <param name="cartons_dimensions">2.8/16.8/11.9</param>
+        <param name="assembly">false</param>
+        <param name="stock">1</param>
+        <param name="ШтрихКод">4660248426459</param>
+        <param name="СтранаБренда">Россия</param>
+        <param name="Вес" unit="кг">0.05</param>
+        <country_of_origin>Китай</country_of_origin>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
+
