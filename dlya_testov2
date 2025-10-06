@@ -1,100 +1,234 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-16T12:00:00+03:00">
-    <shop>
-        <name>Флоувоу минимальный магазин</name>
-        <company>ООО Флоувоу</company>
-        <url>https://flowwow.loc</url>
-        <categories>
-            <category id="1">Цветы</category>
-        </categories>
-        <offers>
-            <offer id="103" available="true">
-                <categoryId>1</categoryId>
-                <price>6500</price>
-                <name>Букет из красных роз добавили фото</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
-            </offer>
-            <offer id="104" available="true">
-                <categoryId>1</categoryId>
-                <price>6500</price>
-                <name>Элегантный букет 'Кармен'</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
-            </offer>
-            <offer id="105" available="true">
-                <categoryId>1</categoryId>
-                <price>6500</price>
-                <name>Композиция 'Алая страсть'</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
-            </offer>
-            <offer id="106" available="true">
-                <categoryId>1</categoryId>
-                <price>6500</price>
-                <name>Букет 'Сердце розы'</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
-            </offer>
-            <offer id="107" available="true">
-                <categoryId>1</categoryId>
-                <price>6500</price>
-                <name>Классический букет из 15 роз</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
-            </offer>
-            <offer id="108" available="true">
-                <categoryId>1</categoryId>
-                <price>6500</price>
-                <name>Авторский букет 'Красный бархат'</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/limonnyetartysmerengoj-600x600.webp</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/02-18/karamelno-shokoladnyekejk-popsy-600x600.webp</picture>
-                <picture>https://boxdari.ru/upload/iblock/21e/u88ad0kf70rry6c1by6dogs3ugf9l3xa.jpg</picture>
-                <picture>https://boxdari.ru/upload/iblock/596/uc6tjbufkzl6b77ykbjq4u6xc93dkg4f.jpg</picture>
-                <picture>https://rozendozen.ru/upload/images/products/o/a527f2629a8962fb494b55f149210312_jpg.jpg</picture>
-                <picture>https://canapeclub.ru/image/cachewebp/catalog/product/16_1/sloenyebantiki-600x600.webp</picture>
-                <param name="Высота, мм">600</param>
-                <param name="Ширина, мм">450</param>
-                <consist name="роза" unit="шт">15</consist>
-            </offer>
-        </offers>
-    </shop>
-</yml_catalog>
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-08-25T12:00:00+03:00">
+<shop>
+<name>Art Floral</name>
+<company>Art Floral</company>
+<url>https://artfloral-bremen.de</url>        
+<categories>         
+<category id="1">Art Floral Rosen im Glas und Baeren</category>        
+</categories>
+<offers>
+<offer id='37075' available="true">
+<id>37075</id>
+<categoryId>1</categoryId>
+<url>https://artfloral-bremen.de/product/ewiger-blumentraum-in-glaskuppel/</url>
+<name>Ewiger Blumentraum in Glaskuppel</name>
+<shop-sku>AF52943</shop-sku>
+<store>true</store>
+<price>54.00</price>
+<param name="ширина, см">21</param>
+<param name="высота, см">31</param>
+<param name="длина, см">21</param>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2025/03/Ewiger_Blumentraum_in_Glaskuppel_1.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2025/03/Ewiger_Blumentraum_in_Glaskuppel_2.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2025/03/Ewiger_Blumentraum_in_Glaskuppel_3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2025/03/Ewiger_Blumentraum_in_Glaskuppel_5.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2025/03/Ewiger_Blumentraum_in_Glaskuppel_6.jpg</picture>
+<description>Ewiger Blumentraum in Glaskuppel
+Entdecken Sie den Zauber der Natur in einem einzigartigen, zeitlosen Arrangement. Diese wunderschöne Glaskuppel beherbergt einen atemberaubenden, ewigen Blumentraum, der Ihre Sinne verzaubert.
+
+Die Komposition aus sorgfältig konservierten Blumen in kräftigen Rottönen, zarten Hortensienblüten in Pastellfarben, weichen Pampasgrashalmen und den goldenen Löwenzahnblüten erschafft ein harmonisches Gesamtbild voller Eleganz und Natürlichkeit.
+
+Jedes Element wurde mit Liebe zum Detail ausgewählt und konserviert, um seine Schönheit über Jahre hinweg zu bewahren. So können Sie sich immer wieder an diesem einzigartigen Arrangement erfreuen, ohne dass die Blüten verwelken.
+
+Die handgefertigte Glasglocke mit Korkboden umschließt die Komposition und verleiht ihr einen geschützten, schwebenden Charakter. Platziert an einem hellen Ort, fängt das Licht die Farben und Formen auf zauberhafte Weise ein.
+
+Highlights:
+
+ 	Handgefertigte Glasglocke mit Korkboden
+ 	Blumenkomposition aus konservierten Rosen, Hortensien, Pampasgras und Löwenzahnblüten
+ 	Haltbarkeit von ca. 1-3 Jahren
+ 	Maße: Höhe 17,5 cm, Durchmesser 10 cm
+
+Lassen Sie sich von diesem ewigen Blumentraum verzaubern und verleihen Sie Ihren Räumen einen besonderen Hauch von Natur und Schönheit. Ein einzigartiges Geschenk, das Freude bereitet und lange anhält.
+Jetzt ganz bequem bestellen und an Ihre Wunschadresse liefern lassen.</description>
+<currencyId>EUR</currencyId>
+<pickup>false</pickup>
+<delivery>true</delivery>
+</offer>
+<offer id='32320' available="true">
+<id>32320</id>
+<categoryId>1</categoryId>
+<url>https://artfloral-bremen.de/product/ewige-weisse-herz-rose-im-glas/</url>
+<name>Ewige weiße Herz-Rose im Glas</name>
+<shop-sku>AF14219-1</shop-sku>
+<store>true</store>
+<price>68.00</price>
+<param name="ширина, см">21</param>
+<param name="высота, см">31</param>
+<param name="длина, см">21</param>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Herz_Rose_im_Glas_1.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Herz_Rose_im_Glas_2.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Herz_Rose_im_Glas_3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Herz_Rose_im_Glas_4.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Herz_Rose_im_Glas_5.jpg</picture>
+<description>Ewige weiße Herz-Rose im Glas.
+Tauchen Sie ein in die anmutige Schönheit unserer haltbaren Infinity Rose in strahlendem Weiß mit einer bezaubernden, herzförmigen Blüte, präsentiert in einer romantischen Glaskuppel – eine Hommage an die zeitlose Reinheit der Liebe.
+
+Diese zauberhafte Rose wird zum Symbol für innige Verbundenheit und Eleganz, die über die Zeit hinweg erstrahlt.
+
+Die Infinity Rose wurde mit größter Sorgfalt ausgewählt und durch einen speziellen Konservierungsprozess bewahrt, um ihre strahlende Schönheit und die einzigartige Herzform der Blüte für alle Zeiten zu bewahren.
+
+In einem reinen Weiß verkörpert diese Rose die Reinheit und Unschuld der Liebe, ideal, um Ihre Gefühle auf besonders zarte Weise zu zeigen.
+
+Die Glaskuppel, die die Rose umgibt, verleiht dem Arrangement eine märchenhafte Note. Die transparente Kuppel schützt die Rose vor äußeren Einflüssen und bewahrt ihre herzergreifende Schönheit für die Ewigkeit.
+
+Das sorgfältig gestaltete Design erinnert an romantische Szenen und verleiht Ihrem Raum eine Aura von zeitloser Eleganz und sanfter Liebe.
+
+Diese haltbare Infinity Rose mit ihrer herzförmigen Blüte in strahlendem Weiß eignet sich perfekt als Geschenk für unvergessliche Anlässe wie Hochzeiten, Jubiläen oder romantische Überraschungen.
+
+Sie symbolisiert nicht nur die Reinheit der Liebe, sondern auch die Beständigkeit schöner Erinnerungen. Verleihen Sie Ihrem Zuhause, Büro oder jedem anderen Raum mit dieser faszinierenden haltbaren Infinity Rose einen Hauch von romantischer Eleganz und einzigartiger Liebe.
+
+Jetzt ganz bequem bestellen und an Ihre Wunschadresse liefern lassen.</description>
+<currencyId>EUR</currencyId>
+<pickup>false</pickup>
+<delivery>true</delivery>
+</offer>
+<offer id='32096' available="true">
+<id>32096</id>
+<categoryId>1</categoryId>
+<url>https://artfloral-bremen.de/product/ewige-rosa-rose-im-glas/</url>
+<name>Ewige rosa Rose im Glas</name>
+<shop-sku>AF79473</shop-sku>
+<store>true</store>
+<price>68.00</price>
+<param name="ширина, см">21</param>
+<param name="высота, см">31</param>
+<param name="длина, см">21</param>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_rosa_Rose_im_Glas_1.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_rosa_Rose_im_Glas_2.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_rosa_Rose_im_Glas_3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_rosa_Rose_im_Glas_5.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_rosa_Rose_im_Glas_4.jpg</picture>
+<description>Ewige rosa Rose im Glas.
+Tauchen Sie ein in die bezaubernde Welt unserer haltbaren Infinity Rose in zartem Rosa, präsentiert in einer anmutigen Glaskuppel, inspiriert von der zeitlosen Romantik von "Die Schöne und das Biest".
+
+Diese fabelhafte Rose wird zu einem Symbol für Liebe und Zärtlichkeit, das über die Jahre hinweg strahlt.
+
+Die Infinity Rose wurde mit größter Sorgfalt ausgewählt und durch einen speziellen Konservierungsprozess bewahrt, um ihre Anmut und den zarten Rosaton für alle Zeiten zu bewahren.
+
+In einem sanften Rosa verkörpert diese Rose Romantik und Liebe, perfekt, um Gefühle der Zuneigung und Hingabe auszudrücken. Die Glaskuppel, die die Rose umgibt, verleiht dem Arrangement eine märchenhafte Note.
+
+Die transparente Kuppel schützt die Rose vor äußeren Einflüssen und bewahrt ihre Schönheit für die Ewigkeit. Das sorgfältig gestaltete Design erinnert an die romantische Atmosphäre von "Die Schöne und das Biest" und verleiht Ihrem Raum eine Aura von zeitloser Liebe.
+
+Diese haltbare Infinity Rose in zartem Rosa eignet sich ideal als Geschenk für besondere Anlässe wie Valentinstage, Hochzeiten oder romantische Überraschungen. Sie symbolisiert nicht nur die Zartheit der Liebe, sondern auch die Beständigkeit schöner Erinnerungen.
+
+Verleihen Sie Ihrem Zuhause, Büro oder jedem anderen Raum mit dieser faszinierenden haltbaren Infinity Rose einen Hauch von romantischer Eleganz und zärtlichem Charme.
+Jetzt ganz bequem bestellen und an Ihre Wunschadresse liefern lassen.</description>
+<currencyId>EUR</currencyId>
+<pickup>false</pickup>
+<delivery>true</delivery>
+</offer>
+<offer id='32092' available="true">
+<id>32092</id>
+<categoryId>1</categoryId>
+<url>https://artfloral-bremen.de/product/ewige-weisse-rose-im-glas/</url>
+<name>Ewige weiße Rose im Glas</name>
+<shop-sku>AF12174</shop-sku>
+<store>true</store>
+<price>68.00</price>
+<param name="ширина, см">21</param>
+<param name="высота, см">31</param>
+<param name="длина, см">21</param>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Rose_im_Glas_1.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Rose_im_Glas_2.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Rose_im_Glas_3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Rose_im_Glas_4.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/02/Ewige_weisse_Rose_im_Glas_5.jpg</picture>
+<description>Ewige weiße Rose im Glas.
+
+Tauchen Sie ein in die zauberhafte Schönheit unserer haltbaren Infinity Rose in reinem Weiß, präsentiert in einer bezaubernden Glaskuppel, inspiriert von der zeitlosen Eleganz von "Die Schöne und das Biest".
+
+Diese majestätische Rose wird zu einem Symbol für reine Liebe und Unschuld, das über die Jahre hinweg strahlt.
+
+Die Infinity Rose wurde mit größter Sorgfalt ausgewählt und durch einen speziellen Konservierungsprozess bewahrt, um ihre Anmut und Reinheit für alle Zeiten zu bewahren.
+
+In einem strahlenden Weiß symbolisiert diese Rose Reinheit und Neuanfang, perfekt, um Gefühle der Liebe und Zuneigung auszudrücken.
+
+Die Glaskuppel, die die Rose umhüllt, verleiht dem Arrangement eine märchenhafte Note. Die transparente Kuppel schützt die Rose vor äußeren Einflüssen und bewahrt ihre Schönheit für die Ewigkeit.
+
+Das sorgfältig gestaltete Design erinnert an die romantische Atmosphäre von "Die Schöne und das Biest" und verleiht Ihrem Raum eine Aura von zeitloser Romantik.
+
+Diese haltbare Infinity Rose in reinem Weiß eignet sich perfekt als Geschenk für besondere Anlässe wie Hochzeiten, Jahrestage oder romantische Überraschungen. Sie verkörpert nicht nur die Reinheit der Liebe, sondern auch die Beständigkeit schöner Erinnerungen.
+
+Verleihen Sie Ihrem Zuhause, Büro oder jedem anderen Raum mit dieser faszinierenden haltbaren Infinity Rose einen Hauch von zeitloser Eleganz und romantischer Reinheit.
+
+Jetzt ganz bequem bestellen und an Ihre Wunschadresse liefern lassen.</description>
+<currencyId>EUR</currencyId>
+<pickup>false</pickup>
+<delivery>true</delivery>
+</offer>
+<offer id='2936' available="true">
+<id>2936</id>
+<categoryId>1</categoryId>
+<url>https://artfloral-bremen.de/product/rosenbaer-pink-mit-schleife-m/</url>
+<name>Rosenbär pink ohne Herz M</name>
+<shop-sku>AF82936</shop-sku>
+<store>true</store>
+<price>88.00</price>
+<param name="ширина, см">31</param>
+<param name="высота, см">31</param>
+<param name="длина, см">41</param>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer-M-pink-1-1.png</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2024/01/Infinity_Rosenbox_Rosenbaer_Pink_Set_3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer-M-pink-3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer-M-pink-2-scaled.jpg</picture>
+<description>Rosenbär pink ohne Herz M
+
+Der bezaubernde Rosenbär aus pinkfarbenen PE-Schaumstoffrosen ist mehr als nur ein Geschenk; er ist eine Liebeserklärung in Blütenform. Diese leuchtende, lebensfrohe Farbe symbolisiert Leidenschaft, Freude und Liebe in ihrer lebhaftesten Form.
+
+Die Bärchen wurden nach dem Klassischen Spielzeug „Teddy Bear“, das seit über 20 Jahren berühmt ist, erschaffen. Jeder Bär wird in Handarbeit aus mehr als 500 PE-Schaumstoff Rosen, die sehr angenehm anzufassen sind, erstellt.
+
+Ein Bärchen aus diesen Rosen hat es noch nicht geschafft zur Alltäglichkeit zu werden, deshalb wird Ihr Geschenk nicht nur das knuffigste, sondern auch das originellste und das markanteste.
+
+Bei Art Floral achten ganz besonders auf die Qualität. Dabei legen wir bei unseren Bären den Wert auf jede einzelne Blume. Die Form, die Dichte der Blumen, der feste Sitz jeder einzelner Blume sind drei wichtigste Kriterien.
+
+Ein Bärchen aus diesen Rosen hat es noch nicht geschafft zur Alltäglichkeit zu werden und ist deshalb ein Hingucker in jeder Alltäglichen Situation.
+
+Die Bärchen benötigen keine besondere Pflege, wir empfehlen keine direkte Sonneneinstrahlung, um das verblassen der Farben zu vermeiden.
+
+In diesem Fall wird der Bär über lange Jahre Freude bereiten. Zum Entstauben, den Bären einfach mit dem Fön abpusten. Sollte der unwahrscheinliche Fall eintreten, dass eine Blume abfällt, kann diese einfach mit einem Heißkleber wieder angeklebt werden.</description>
+<currencyId>EUR</currencyId>
+<pickup>false</pickup>
+<delivery>true</delivery>
+</offer>
+<offer id='2890' available="true">
+<id>2890</id>
+<categoryId>1</categoryId>
+<url>https://artfloral-bremen.de/product/rosenbaer-hellrosa-s/</url>
+<name>Rosenbär hellrosa S</name>
+<shop-sku>AF71182</shop-sku>
+<store>true</store>
+<price>58.00</price>
+<param name="ширина, см">21</param>
+<param name="высота, см">21</param>
+<param name="длина, см">31</param>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer_S_hellrosa_1-2-scaled.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer_S_hellrosa_2-scaled.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer_S_hellrosa_3.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer_S_hellrosa_4.jpg</picture>
+<picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer_S_hellrosa_5.jpg</picture>
+<description>Rosenbär hellrosa S
+
+Die Rosenbären wurden nach dem Klassischen Spielzeug „Teddy Bear“, das seit über 20 Jahren berühmt ist, erschaffen. Jeder Bär wird in Handarbeit aus mehr als 500 PE-Schaumstoff Rosen, die sehr angenehm anzufassen sind, erstellt.
+
+Ein Bärchen aus diesen Rosen hat es noch nicht geschafft zur Alltäglichkeit zu werden, deshalb wird Ihr Geschenk nicht nur das knuffigste, sondern auch das originellste und das markanteste.
+
+Der Rosenbär aus PE-Schaumstoff-Rosen in zartem Hellrosa ist ein Zeichen der reinen und unschuldigen Liebe. Diese Farbe symbolisiert Zärtlichkeit, Fürsorge und die Anfänge einer neuen, vielversprechenden Beziehung.
+
+Der Hellrosa Rosenbär aus PE-Schaumstoff-Rosen ist ein Symbol für die Unschuld und Zärtlichkeit Ihrer Liebe. Er erinnert daran, wie erhebend es ist, sich in jemanden zu verlieben, und wie kostbar die Anfänge einer Beziehung sein können.
+
+Dieses Geschenk drückt aus: "Unsere Liebe ist so frisch wie eine zarte Blüte und erfüllt unser Herz mit Freude und Hoffnung."
+
+Bei Art Floral achten ganz besonders auf die Qualität. Dabei legen wir bei unseren Bären den Wert auf jede einzelne Blume. Die Form, die Dichte der Blumen, der feste Sitz jeder einzelner Blume sind drei wichtigste Kriterien.
+
+Ein Bärchen aus diesen Rosen hat es noch nicht geschafft zur Alltäglichkeit zu werden und ist deshalb ein Hingucker in jeder Alltäglichen Situation.
+
+Die Bärchen benötigen keine besondere Pflege, wir empfehlen keine direkte Sonneneinstrahlung, um das verblassen der Farben zu vermeiden. In diesem Fall wird der Bär über lange Jahre Freude bereiten. Zum Entstauben, den Bären einfach mit dem Fön abpusten.
+
+Sollte der unwahrscheinliche Fall eintreten, dass eine Blume abfällt, kann diese einfach mit einem Heißkleber wieder angeklebt werden.</description>
+<currencyId>EUR</currencyId>
+<pickup>false</pickup>
+<delivery>true</delivery>
+</offer>
+ </offers>  </shop>  </yml_catalog>
