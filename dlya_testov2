@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-08-25T12:00:00+03:00">
-<shop>
-<name>Art Floral</name>
-<company>Art Floral</company>
-<url>https://artfloral-bremen.de</url>        
-<categories>         
-<category id="1">Art Floral Rosen im Glas und Baeren</category>        
-</categories>
-<offers>
-<offer id='37075' available="true">
+<?xml version="1.0" encoding="utf-8"?><yml_catalog date="2025-08-25T12:00:00+03:00">    <shop>        <name>{title}</name>        <company>Art Floral</company>        <url>{link}</url>        <categories>            <category id="1">Art Floral Rosen im Glas und Baeren</category>        </categories><offers><offer id='37075' available="true">
 <id>37075</id>
 <categoryId>1</categoryId>
 <url>https://artfloral-bremen.de/product/ewiger-blumentraum-in-glaskuppel/</url>
@@ -173,6 +163,7 @@ Jetzt ganz bequem bestellen und an Ihre Wunschadresse liefern lassen.</descripti
 <picture>https://artfloral-bremen.de/wp-content/uploads/2024/01/Infinity_Rosenbox_Rosenbaer_Pink_Set_3.jpg</picture>
 <picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer-M-pink-3.jpg</picture>
 <picture>https://artfloral-bremen.de/wp-content/uploads/2020/12/Rosenbaer-M-pink-2-scaled.jpg</picture>
+<picture></picture>
 <description>Rosenbär pink ohne Herz M
 
 Der bezaubernde Rosenbär aus pinkfarbenen PE-Schaumstoffrosen ist mehr als nur ein Geschenk; er ist eine Liebeserklärung in Blütenform. Diese leuchtende, lebensfrohe Farbe symbolisiert Leidenschaft, Freude und Liebe in ihrer lebhaftesten Form.
