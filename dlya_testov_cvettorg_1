@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="Tue, 07 Oct 2025 11:00:02 +0300">
+<shop>
+<name>ЦвеТТорг</name>
+<company>ЦвеТТорг</company>
+<url>https://zvettorg.ru</url>
+<platform>BSM/Yandex/Market</platform>
+<categories>
+<category id="42491">Все букеты</category>
+<category id="42492">Все композиции</category>
+</categories>
+<offers>
+<offer id="974533" available="false">
+<url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_bukety/buket_yarkoe_solntse_0680_1/</url>
+<price>4050</price>
+<name> Букет &amp;quot;Яркое солнце&amp;quot; 0680</name>
+<vendor>ЦвеТТорг</vendor>
+<country_of_origin>Россия</country_of_origin>
+<description> Букет &amp;quot;Яркое солнце&amp;quot; 0680</description>
+<categoryId>42491</categoryId>
+<param name="Высота, см">40</param>
+<param name="Ширина, см">30</param>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/524/n4d92x6ab9mj3to2ne75t6c0fysuw7ao.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/0de/uqlzuuil26x2zqxygobu2ljl0pamj0m8.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/1e3/vcdk2vhaug6wv0je3glq30infz151jsj.webp</picture>
+<consist name="Пистация сайт" unit="шт">3</consist>
+<consist name="Конверт с кризалом для букетов" unit="шт">1</consist>
+<consist name="Лента Простая 2/50 (МСК) Россия" unit="шт">10</consist>
+<consist name="Упаковка." unit="шт">3</consist>
+<consist name="Роза сп 50 см фаер флеш" unit="шт">6</consist>
+<consist name="Лента Упаковочная" unit="шт">2</consist>
+<consist name="Хризантема куст кеннеди" unit="шт">3</consist>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
