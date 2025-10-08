@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-04-24T00:35:02+03:00">
+<shop>
+<name>Клумба</name>
+<company>ООО «Клумба»</company>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="6">Готовые букеты</category>
+<category id="70" parentId="6">Сборные букеты</category>
+<category id="71" parentId="6">Моно-букеты</category>
+<category id="72" parentId="6">Цветочные композиции</category>
+<category id="73" parentId="6">Весенние букеты</category>
+<category id="79" parentId="6">Букеты из пионов</category>
+<category id="89" parentId="6">Новогодние композиции</category>
+<category id="1">Срезанные цветы</category>
+<category id="2">Комнатные растения</category>
+<category id="3">Сопутствующие товары</category>
+<category id="6">Готовые букеты</category>
+<category id="7">Ароматы для дома</category>
+<category id="1" parentId="1">Розы</category>
+<category id="43" parentId="1">Гвоздика</category>
+<category id="48" parentId="1">Хризантемы</category>
+<category id="59" parentId="2">Горшечные растения</category>
+<category id="68" parentId="3">Сопутствующие товары</category>
+<category id="70" parentId="6">Сборные букеты</category>
+<category id="71" parentId="6">Моно-букеты</category>
+<category id="72" parentId="6">Цветочные композиции</category>
+<category id="74" parentId="2">Цветущие растения</category>
+<category id="75" parentId="2">Кактусы</category>
+<category id="76" parentId="2">Нецветущие растения</category>
+<category id="80" parentId="3">Мягкие игрушки</category>
+<category id="83" parentId="3">Корзины</category>
+<category id="84" parentId="7">Ароматы для дома</category>
+<category id="87" parentId="3">Открытки</category>
+</categories>
+<url>https://klumba.ru</url>
+<agency>ProfyCode</agency>
+<email>mail@profycode.pro</email>
+<delivery-options>
+<option cost="490" days="1"/>
+</delivery-options>
+<offers>
+<offer id="4441">
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<price>289.99</price>
+<name>Кактус в ассортименте 8 см</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4441/cactus_mix</url>
+<picture>https://klumba.ru/storage/images/goods/image_623479d272641.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_623479d2708c9.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_623479d302f34.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_623479d31a540.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_623479d37e851.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_623479d3b672e.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+</offer>
+<offer id="4437">
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<price>1049.99</price>
+<name>Хризантема кустовая микс 25 см</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4437/hrizantema_kustovaya_miks_25_sm</url>
+<picture>https://klumba.ru/storage/images/goods/image_6234802986eaa.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6234802963628.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6234802a2c721.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">250</param>
+<param name="Ширина, мм">130</param>
+</offer>
+<offer id="4421">
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<price>1449.99</price>
+<name>Замиокулькас 40 см</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4421/zamiokulkas_40_sm</url>
+<picture>https://klumba.ru/storage/images/goods/image_62349175a989e.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">400</param>
+<param name="Ширина, мм">120</param>
+</offer>
+<offer id="5337">
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<price>809.99</price>
+<name>Роза микс 25 см</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/5337/roza_miks_25_sm</url>
+<picture>https://klumba.ru/storage/images/goods/image_60701be3cbd95.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">250</param>
+<param name="Ширина, мм">100</param>
+</offer>
+<offer id="4885">
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<price>1479.99</price>
+<name>Корзина плетеная Джут розовая</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4885/korzina_pletenaya_dzhut_rozovaya</url>
+<picture>https://klumba.ru/storage/images/goods/image_63c01e7759821.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">310</param>
+<param name="Ширина, мм">330</param>
+</offer>
+<offer id="4883">
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<price>1579.99</price>
+<name>Корзина плетеная Ива круглая серая</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4883/korzina_pletenaya_iva_kruglaya_seraya</url>
+<picture>https://klumba.ru/storage/images/goods/image_63c01d614428e.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">380</param>
+<param name="Ширина, мм">300</param>
+</offer>
+<offer id="4882">
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<price>1649.99</price>
+<name>Корзина плетеная Ива круглая сиреневая</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4882/korzina_pletenaya_iva_kruglaya_sirenevaya</url>
+<picture>https://klumba.ru/storage/images/goods/image_63c01cf959ce2.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">350</param>
+<param name="Ширина, мм">330</param>
+</offer>
+<offer id="4640">
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<price>3259.8</price>
+<name>Букет из 31 красной кенийской розы в упаковке</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4640/buket_iz_31_krasnoj_kenijskoj_rozy_v_upakovke</url>
+<picture>https://klumba.ru/storage/images/goods/image_61d6d3352f390.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_61d6d3350caa9.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">350</param>
+<param name="Ширина, мм">300</param>
+<consist name="Лента атлас в ассорт." unit="шт">3.5</consist>
+<consist name="Роза 35 см красная" unit="шт">31</consist>
+<consist name="Пленка матовая в ассорт." unit="шт">4</consist>
+<consist name="Кризал 5 г" unit="шт">1</consist>
+</offer>
+<offer id="4642">
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<price>3259.8</price>
+<name>Букет из 31 белой кенийской розы в упаковке</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4642/buket_iz_31_beloj_kenijskoj_rozy_v_upakovke</url>
+<picture>https://klumba.ru/storage/images/goods/image_61d6d4c4c15f8.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_61d6d4c4c2bdd.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">350</param>
+<param name="Ширина, мм">300</param>
+<consist name="Лента атлас в ассорт." unit="шт">3.5</consist>
+<consist name="Роза 35 см белая" unit="шт">31</consist>
+<consist name="Пленка матовая в ассорт." unit="шт">4</consist>
+<consist name="Кризал 5 г" unit="шт">1</consist>
+</offer>
+<offer id="4719">
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<price>2696.36</price>
+<name>Букет из 31 красно-белой кенийской розы</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4719/buket_iz_31_krasno_beloj_kenijskoj_rozy</url>
+<picture>https://klumba.ru/storage/images/goods/image_62b97438ba83f.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_62b97438acffd.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">350</param>
+<param name="Ширина, мм">270</param>
+<consist name="Лента атлас в ассорт." unit="шт">2.5</consist>
+<consist name="Роза 35 см красная" unit="шт">15</consist>
+<consist name="Роза 35 см белая" unit="шт">16</consist>
+<consist name="Кризал 5 г" unit="шт">1</consist>
+</offer>
+<offer id="5272">
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<price>2751.31</price>
+<name>Букет из красных роз с эвкалиптом</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/5272/buket_iz_krasnyh_roz_s_evkaliptom</url>
+<picture>https://klumba.ru/storage/images/goods/image_664c5c8623b90.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_664c5c8d6f2f8.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">500</param>
+<param name="Ширина, мм">400</param>
+<consist name="Кризал 5 г" unit="шт">1</consist>
+<consist name="Лента атлас в ассорт." unit="шт">2</consist>
+<consist name="Лента декор" unit="шт">2</consist>
+<consist name="Роза 50 см в ассорт." unit="шт">7</consist>
+<consist name="Эвкалипт Синерия" unit="шт">0.3</consist>
+<consist name="Лист упаковочный ассорт." unit="шт">2.5</consist>
+<consist name="Слюда" unit="шт">2</consist>
+</offer>
+<offer id="4720">
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<price>4823.62</price>
+<name>Букет из 51 красно-белой кенийской розы</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4720/buket_iz_51_krasno_beloj_kenijskoj_rozy</url>
+<picture>https://klumba.ru/storage/images/goods/image_62b974b508968.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_62b974b4bbf4e.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">350</param>
+<param name="Ширина, мм">350</param>
+<consist name="Лента атлас в ассорт." unit="шт">3.5</consist>
+<consist name="Роза 35 см белая" unit="шт">25</consist>
+<consist name="Роза 35 см красная" unit="шт">26</consist>
+<consist name="Кризал 5 г" unit="шт">1</consist>
+</offer>
+<offer id="5290">
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<price>3001.07</price>
+<name>Цветочная композиция "Счастье ждет тебя"</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/5290/cvetochnaya_kompoziciya__schaste_zhdet_tebya__</url>
+<picture>https://klumba.ru/storage/images/goods/image_664c61ddcb4a5.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_664c61e042b6a.jpg</picture>
+<description/>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">300</param>
+<param name="Ширина, мм">250</param>
+<consist name="Кризал 5 г" unit="шт">1</consist>
+<consist name="Лента атлас в ассорт." unit="шт">2</consist>
+<consist name="Лента декор" unit="шт">2</consist>
+<consist name="Роза 35 см белая" unit="шт">31</consist>
+<consist name="Коробка на лентах Шанель" unit="шт">1</consist>
+</offer>
+<offer id="4932">
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<price>999.99</price>
+<name>Аромат для дома Hygge #8 Ягодный щербет 100 мл</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4932/aromat_dlya_doma_hygge__8_yagodnyy_scherbet_100_ml</url>
+<picture>https://klumba.ru/storage/images/goods/image_6401f96322573.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f9658a8ac.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f968d8595.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f96bebff1.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f96f93e79.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f97327386.jpg</picture>
+<description>Описание аромата: Верхние ноты: клубника, голубика, чёрная смородина. Средние ноты: листья апельсинового дерева, роза, жасмин. Нижние ноты: ириска, ваниль, малина. Состав: Основа не содержащая этиловый спирт, ароматиче...</description>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">200</param>
+<param name="Ширина, мм">60</param>
+</offer>
+<offer id="4924">
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<price>799.99</price>
+<name>Аромат для дома Hygge #15 Сандаловое дерево 50 мл</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4924/aromat_dlya_doma_hygge__15_sandalovoe_derevo_50_ml</url>
+<picture>https://klumba.ru/storage/images/goods/image_6401f3012c270.png</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f307c250f.png</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f30ad0084.png</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f30e47a21.png</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f3126914b.png</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f318a4f0a.png</picture>
+<description>Описание аромата: Верхние ноты: дыня, черная смородина, яблоко. Средние ноты: роза, жасмин, белая лилия. Нижние ноты: амбра, мускус, сандаловое дерево. Состав: Основа не содержащая этиловый спирт, ароматическая компози...</description>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">150</param>
+<param name="Ширина, мм">50</param>
+</offer>
+<offer id="4936">
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<price>999.99</price>
+<name>Аромат для дома Hygge #12 Нежная роза 100 мл</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4936/aromat_dlya_doma_hygge__12_nezhnaya_roza_100_ml</url>
+<picture>https://klumba.ru/storage/images/goods/image_6401ee85096ed.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ee984b178.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ee9b81b48.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ee9e9f49c.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401eeb067117.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401eeb3b69a6.jpg</picture>
+<description>Описание аромата: Верхние ноты: кориандр. Средние ноты: роза, герань, корень фиалки. Нижние ноты: белый мускус. Состав: Основа не содержащая этиловый спирт, ароматическая композиция, фибровые палочки (5 шт). Упако...</description>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">200</param>
+<param name="Ширина, мм">60</param>
+</offer>
+<offer id="4927">
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<price>999.99</price>
+<name>Аромат для дома Hygge #3 Табак/бергамот 100 мл</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4927/aromat_dlya_doma_hygge__3_tabak_bergamot_100_ml</url>
+<picture>https://klumba.ru/storage/images/goods/image_6401f4eb7c366.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f4ef29446.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f4f2de9d6.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f4f5e34b2.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f4f964a61.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401f4fdbe6b4.jpg</picture>
+<description>Описание аромата: Верхние ноты: бергамот, анис. Средние ноты: жасмин, гвоздика. Нижние ноты: белый мускус, ваниль, сантал, бобы тонка. Состав: Основа не содержащая этиловый спирт, ароматическая композиция, фибровые п...</description>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">200</param>
+<param name="Ширина, мм">60</param>
+</offer>
+<offer id="4918">
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<price>799.99</price>
+<name>Аромат для дома Hygge #9 Лаванда 50 мл</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4918/aromat_dlya_doma_hygge__9_lavanda_50_ml</url>
+<picture>https://klumba.ru/storage/images/goods/image_6401ea43ed31e.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ea4b5f38d.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ea4e9a767.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ea519038c.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ea552d3c0.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401ea5883d2c.jpg</picture>
+<description>Описание аромата: Верхние ноты: эвкалипт. Средние ноты: лаванда. Нижние ноты: амбра, ваниль, мускус. Состав: Основа не содержащая этиловый спирт, ароматическая композиция, фибровые палочки (5 шт). Упаковка: Карт...</description>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">150</param>
+<param name="Ширина, мм">50</param>
+</offer>
+<offer id="4917">
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<price>799.99</price>
+<name>Аромат для дома Hygge #8 Ягодный щербет 50 мл</name>
+<vendor>Клумба</vendor>
+<url>https://klumba.ru/goods/4917/aromat_dlya_doma_hygge__8_yagodnyy_scherbet_50_ml</url>
+<picture>https://klumba.ru/storage/images/goods/image_6401dc6b7ef37.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401dc758fdd3.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401dc78d030c.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401dc7f05b2b.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401dc88025b2.jpg</picture>
+<picture>https://klumba.ru/storage/images/goods/image_6401dc8b862c6.jpg</picture>
+<description>Описание аромата: Верхние ноты: клубника, голубика, чёрная смородина. Средние ноты: листья апельсинового дерева, роза, жасмин. Нижние ноты: ириска, ваниль, малина. Состав: Основа не содержащая этиловый спирт, ароматиче...</description>
+<available>true</available>
+<count>10</count>
+<param name="Высота, мм">150</param>
+<param name="Ширина, мм">50</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
