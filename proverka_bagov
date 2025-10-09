@@ -8,57 +8,28 @@
 <currency id="RUB" rate="1"/>
 </currencies>
 <categories>
-<category id="1">Шоколад ручной работы</category>
-<category id="2">Монобукеты</category>
+<category id="523">Для дома Хозяйственные товары</category>
 </categories>
 <offers>
-<offer id="00011" available="true">
-<price>1002</price>
-<adult>false</adult>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<name>FIRST-3</name>
-<consist name="Молочный шоколад2" unit="шт">2</consist>
-<consist name="Темный шоколад2" unit="шт">2</consist>
-<param name="Ширина, Мм">102</param>
-<param name="Высота, Мм">202</param>
-<param name="Длина, Мм">302</param>
-<description>2Шоколадные конфеты с оригинальным оформлением , который будет приятным и вкусным угощением вне зависимости от времени года и создаст хорошее настроение в любой праздник. Представляет собой диск из молочного или белого шоколада с добавлением орехов и сублимированных ягод.</description>
-<vendor>Producer</vendor>
-<picture>https://content3.flowwow-images.com/data/flowers/524x524/54/1701528755_60514954.jpg</picture>
-<picture>https://content2.flowwow-images.com/data/flowers/524x524/30/1701469012_35577830.jpg</picture>
-</offer>
-<offer id="00012" available="false">
-<price>2002</price>
-<currencyId>RUB</currencyId>
-<categoryId>2</categoryId>
-<name>SECOND-3</name>
-<consist name="Молочный шоколад2" unit="шт">2</consist>
-<consist name="Темный шоколад2" unit="шт">2</consist>
-<description>2Шоколадные конфеты с оригинальным оформлением , который будет приятным и вкусным угощением вне зависимости от времени года и создаст хорошее настроение в любой праздник. Представляет собой диск из молочного или белого шоколада с добавлением орехов и сублимированных ягод.</description>
-<brand>Producer</brand>
-<param name="Ширина, Мм">112</param>
-<param name="Высота, Мм">122</param>
-<param name="Длина, Мм">132</param>
-<weight>2</weight>
-<picture>https://content3.flowwow-images.com/data/flowers/524x524/54/1701528755_60514954.jpg</picture>
-<picture>https://content2.flowwow-images.com/data/flowers/524x524/30/1701469012_35577830.jpg</picture>
-</offer>
-<offer id="00013" available="true">
-<price>3002</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<name>THIRD-3</name>
-<consist name="Роза2" unit="шт">3</consist>
-<consist name="Белая лента 2" unit="шт">2</consist>
-<description>2Супер-пупер цветы, бери, не пожалеешь!</description>
-<brand>Shik Flowers</brand>
-<param name="Ширина, Мм">102,5</param>
-<param name="Высота, Мм">32,50</param>
-<param name="Длина, Мм">102,270</param>
-<weight>2</weight>
-<picture>https://content3.flowwow-images.com/data/flowers/524x524/54/1701528755_60514954.jpg</picture>
-<picture>https://content2.flowwow-images.com/data/flowers/524x524/30/1701469012_35577830.jpg</picture>
+<offer id="11121" available="true">
+<url>https://denastia.com/catalog/vannaya/shchyetki-yershiki-dlya-unitaza/shchyetka-dlya-unitaza-640-ml/</url>
+<price>1349</price>
+<currencyId>RUR</currencyId>
+<categoryId>523</categoryId>
+<picture>http://703507.selcdn.ru/denastia/iblock/ae1/ae1c0460bd459b99675ed62bbf284bad/a38cdbc0bcbc103158729d0d229c7f3e.jpg</picture>
+<picture>http://703507.selcdn.ru/denastia/iblock/2b8/2b8e853db58e553884f07bb3f8fb550a/876cf354f5958fac253e79bc1578c60f.jpg</picture>
+<picture>http://703507.selcdn.ru/denastia/iblock/d73/d73771149ee8fb3449e2a7e5632481f5/dbf953ac3175a29218265df67ac5dd31.jpg</picture>
+<picture>http://703507.selcdn.ru/denastia/iblock/ba4/ba40f95af78b17c63e89dca7258ae01c/68b7e555ee21a2b27fc77a0ad452bd7e.jpg</picture>
+<delivery>true</delivery>
+<name>Щётка для унитаза 640 мл</name>
+<vendorCode>X000167</vendorCode>
+<description>X000167</description>
+<param name="Цвет">белый</param>
+<param name="Материал / состав изделия">пластик</param>
+<param name="Высота, см">9</param>
+<param name="Ширина, см">36</param>
+<param name="Длина, см">9</param>
+<qty>242</qty>
 </offer>
 </offers>
 </shop>
