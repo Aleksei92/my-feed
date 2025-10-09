@@ -34,7 +34,7 @@
             </offer>
 <offer id="1004">
                 <categoryId>1</categoryId>
-                <price>0.5</price> <!-- ОШИБКА: цена меньше 1 -->
+                <price>0.4</price> <!-- ОШИБКА: цена меньше 1 -->
                 <name>Товар с нулевой ценой</name>
                 <description>Тест</description>
                 <picture>https://flowwow.loc/test.jpg</picture>
