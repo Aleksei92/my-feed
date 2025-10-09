@@ -38,8 +38,8 @@
             <offer id="5259" available="true">
                 <currencyId>RUR</currencyId>
                 <categoryId>6</categoryId> <!-- form['range_type_id'] -->
-                <price>4693.65</price>
-                <oldprice>5200.00</oldprice> <!-- form['cost'] = 5200, form['old_price'] = 5200, form['discount'] = 10% -->
+                <price>1</price>
+                <oldprice>2</oldprice> <!-- form['cost'] = 5200, form['old_price'] = 5200, form['discount'] = 10% -->
                 <name>Комнатные растения (сдэк)</name> <!-- form['name'] -->
                 <vendor>Флоувоу</vendor> <!-- form['brand'] -->
                 <picture>https://flowwow.loc/bouquet1.jpg</picture>
