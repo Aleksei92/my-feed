@@ -11,7 +11,7 @@
 <category id="523">Для дома Хозяйственные товары</category>
 </categories>
 <offers>
-<offer id="11121" available="true">
+<offer id="11121" available="false">
 <url>https://denastia.com/catalog/vannaya/shchyetki-yershiki-dlya-unitaza/shchyetka-dlya-unitaza-640-ml/</url>
 <price>1349</price>
 <currencyId>RUB</currencyId>
