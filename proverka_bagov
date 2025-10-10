@@ -15,7 +15,7 @@
 			<category id="8">Цветы 89 другое</category>
 		</categories>
 		<offers>
-			<offer id="1" available="true">
+			<offer id="10" available="true">
 				<categoryId>1</categoryId>
 				<price>1500</price>
 				<name>Цветы 1</name>
@@ -25,7 +25,7 @@
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
 			</offer>
-			<offer id="2" available="true">
+			<offer id="11" available="true">
 				<categoryId>2</categoryId>
 				<name>Цветы 44 сухоцвет</name>
 				<price>1200</price>
@@ -35,7 +35,7 @@
 				<param name="Ширина, мм">200</param>
 <consist name="роза" unit="шт">5</consist>
 			</offer>
-			<offer id="3" available="true">
+			<offer id="12" available="true">
 				<categoryId>3</categoryId>
 				<name>Цветы 10 подарочные наборы</name>
 				<price>2500</price>
@@ -45,7 +45,7 @@
 				<param name="Высота, мм">250</param>
 				<param name="Ширина, мм">200</param>
 			</offer>
-			<offer id="4" available="true">
+			<offer id="13" available="true">
 				<categoryId>4</categoryId>
 				<name>Цветы 8 мягкие игр</name>
 				<price>1800</price>
@@ -54,7 +54,7 @@
 				<param name="Высота, мм">300</param>
 				<param name="Ширина, мм">250</param>
 			</offer>
-			<offer id="5" available="true">
+			<offer id="14" available="true">
 				<categoryId>5</categoryId>
 				<name>Цветы 118 цветы поштучно</name>
 				<price>150</price>
@@ -63,7 +63,7 @@
 				<count>10</count>
 				<param name="Высота, мм">500</param>
 			</offer>
-			<offer id="6" available="true">
+			<offer id="15" available="true">
 				<categoryId>6</categoryId>
 				<name>Цветы 208 букет из мыла</name>
 				<price>800</price>
@@ -72,7 +72,7 @@
 				<param name="Высота, мм">250</param>
 				<param name="Ширина, мм">150</param>
 			</offer>
-			<offer id="7" available="true">
+			<offer id="16" available="true">
 				<categoryId>7</categoryId>
 				<name>Цветы 43 стабилизированные</name>
 				<price>2000</price>
@@ -82,7 +82,7 @@
 				<param name="Высота, мм">150</param>
 				<param name="Ширина, мм">100</param>
 			</offer>
-			<offer id="8" available="true">
+			<offer id="17" available="true">
 				<categoryId>8</categoryId>
 				<name>Цветы 89 другое</name>
 				<price>300</price>
