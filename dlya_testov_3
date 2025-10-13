@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-01-15">
+<yml_catalog date="2025-01-20T12:00:00+03:00">
     <shop>
-        <name>Gift Certificate Shop</name>
-        <company>Gift Company</company>
-        <url>https://gift-shop.com</url>
-        <currencies>
-            <currency id="RUB" rate="1"/>
-        </currencies>
+        <name>Флоувоу минимальный магазин</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
         <categories>
-            <category id="1">Подарочные сертификаты</category>
+            <category id="1">Цветы</category>
         </categories>
         <offers>
-            <!-- Только электронный (через downloadable=true + param) -->
-            <offer id="5001">
-                <name>Электронный сертификат 1000</name>
-                <price>1000</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <description>Электронный подарочный сертификат</description>
-                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
-                <downloadable>true</downloadable>
-                <param name="Вид поставки">электронный ключ</param>
-                <param name="Номинал">1000 руб</param>
-                <qty>1</qty>
+            <offer id="1004" available="true">
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                <price>10555</price> <!-- form['cost'] -->
+                <name>Роза красная мимниальный обновлённый5</name> <!-- form['name'] -->
+                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
+				<consist name="роза" unit="шт">1</consist>
             </offer>
         </offers>
     </shop>
