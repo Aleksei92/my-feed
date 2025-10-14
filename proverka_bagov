@@ -14,11 +14,10 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Сертификат, который можно обменять на услуги или товары</description>
-                <picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Вид сертификата">На услугу или товары</param>
                 <qty>100</qty>
-<adult>true</adult>
+<adult>false</adult>
             </offer>
         </offers>
     </shop>
