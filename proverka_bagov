@@ -14,6 +14,7 @@
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <description>Сертификат, который можно обменять на услуги или товары</description>
+<picture>https://fleurs.su/image/flormate/4/20250928/740a891ff67f7b1dab2170559f08f48f_boxed.jpg</picture>
                 <downloadable>true</downloadable>
                 <param name="Вид сертификата">На услугу или товары</param>
                 <qty>100</qty>
