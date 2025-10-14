@@ -8,22 +8,8 @@
             <category id="1">сертификаты</category>
         </categories>
         <offers>
-            <offer id="1004" available="true">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>100</price> <!-- form['cost'] -->
-                <name>Роза красная мимниальный1</name> <!-- form['name'] -->
-                <description>Это будет тепер шарик</description> <!-- form['description'] -->
-                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-                <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-<downloadable>true</downloadable>
-                <param name="Вид сертификата">На услугу или товары</param>
-<qty>100</qty>
-<adult>false</adult>
-            </offer>
-<offer id="6001">
-                <name>Сертификат на услуги 2000</name>
+            <offer id="1001001">
+                <name>Сертификат на услуги спа массаж</name>
                 <price>2000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
