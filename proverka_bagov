@@ -18,7 +18,7 @@
                 <downloadable>true</downloadable>
                 <param name="Вид сертификата">На услугу или товары</param>
                 <qty>100</qty>
-<adult>false</adult>
+<adult>true</adult>
             </offer>
         </offers>
     </shop>
