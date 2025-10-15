@@ -1,153 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-15 15:35">
-<shop>
-<name>finedesigngroup.ru</name>
-<company>finedesigngroup.ru</company>
-<url>https://www.finedesigngroup.ru</url>
-<currencies>
-<currency id="RUB" rate="1"/>
-<currency id="USD" rate="23.4"/>
-<currency id="EUR" rate="37.1"/>
-</currencies>
-<categories>
-<category id="2122">Багаж и сумки</category>
-<category id="2128">Товары для дома</category>
-<category id="2130">Outdoor</category>
-<category id="2134">Еда и напитки с собой</category>
-<category id="2141">Ванная комната</category>
-<category id="2145">Товары для детей</category>
-<category id="2148">Дизайнерские подарки</category>
-<category id="2165">Товары для уборки</category>
-<category id="2175">Ароматы для дома</category>
-<category id="2179">Свет</category>
-<category id="2189">Мебель</category>
-<category id="2215">Посуда и все для кухни</category>
-<category id="2123" parentId="2122">Косметички и органайзеры</category>
-<category id="2126" parentId="2122">Сумки и аксессуары</category>
-<category id="2131" parentId="2130">Мебель для улицы</category>
-<category id="2133" parentId="2130">Спорт</category>
-<category id="2135" parentId="2134">Кружки для напитков</category>
-<category id="2136" parentId="2134">Термокружки, термосы и супницы</category>
-<category id="2142" parentId="2141">Организация пространства</category>
-<category id="2144" parentId="2134">Ланч-боксы</category>
-<category id="2147" parentId="2128">Комнатные растения</category>
-<category id="2149" parentId="2148">Аксессуары</category>
-<category id="2150" parentId="2148">Канцелярские товары</category>
-<category id="2151" parentId="2128">Текстиль для спальни</category>
-<category id="2152" parentId="2141">Аксессуары для ванной</category>
-<category id="2153" parentId="2134">Столовые приборы и аксессуары</category>
-<category id="2155" parentId="2128">Фоторамки и фотопанно</category>
-<category id="2156" parentId="2128">Декор и детали интерьера</category>
-<category id="2157" parentId="2141">Гигиена</category>
-<category id="2160" parentId="2145">Детская мебель</category>
-<category id="2161" parentId="2128">Хранение</category>
-<category id="2162" parentId="2122">Рюкзаки</category>
-<category id="2163" parentId="2128">Зеркала</category>
-<category id="2166" parentId="2165">Уборка на кухне</category>
-<category id="2167" parentId="2165">Швабры и щётки для пола</category>
-<category id="2168" parentId="2165">Уборка в доме</category>
-<category id="2169" parentId="2134">Термосумки</category>
-<category id="2172" parentId="2134">Бутылочки и фляги для воды</category>
-<category id="2173" parentId="2128">Корзины и контейнеры для мусора</category>
-<category id="2176" parentId="2175">Наполнители для диффузоров</category>
-<category id="2177" parentId="2175">Ароматические диффузоры</category>
-<category id="2178" parentId="2128">Хранение украшений</category>
-<category id="2180" parentId="2179">Напольные лампы</category>
-<category id="2182" parentId="2148">Настольные игры</category>
-<category id="2184" parentId="2179">Подвесные лампы и плафоны</category>
-<category id="2185" parentId="2128">Декоративный текстиль</category>
-<category id="2190" parentId="2189">Вешалки и полки</category>
-<category id="2191" parentId="2141">Текстиль для ванной</category>
-<category id="2192" parentId="2145">Подарки для детей</category>
-<category id="2193" parentId="2189">Банкетки, табуреты и пуфы</category>
-<category id="2197" parentId="2175">Ароматические свечи</category>
-<category id="2198" parentId="2175">Спреи для дома</category>
-<category id="2199" parentId="2189">Столы и столики</category>
-<category id="2200" parentId="2189">Кресла и стулья</category>
-<category id="2203" parentId="2189">Тумбы и комоды</category>
-<category id="2210" parentId="2128">Уход за одеждой</category>
-<category id="2213" parentId="2128">Ковры</category>
-<category id="2216" parentId="2215">Организация и порядок</category>
-<category id="2217" parentId="2215">Бар</category>
-<category id="2218" parentId="2215">Приготовление</category>
-<category id="2219" parentId="2215">Текстиль для кухни</category>
-<category id="2220" parentId="2215">Хранение продуктов</category>
-<category id="2221" parentId="2215">Сервировка</category>
-<category id="2222" parentId="2215">Чай и кофе</category>
-<category id="2235" parentId="2179">Настольные лампы и ночники</category>
-<category id="2236" parentId="2179">Настенные лампы</category>
-<category id="2245" parentId="2130">Аксессуары для пикника</category>
-</categories>
-<offers>
-<offer id="77828" available="true">
-<url>https://www.finedesigngroup.ru/products/nabor-iz-4-shelkovykh-rezinok-dlya-volos-bezhevogo-tsveta-iz-kollektsii-essential-77828/</url>
-<vendor>Tkano</vendor>
-<price>2490</price>
-<currencyId>RUB</currencyId>
-<categoryId>2149</categoryId>
-<picture>https://www.finedesigngroup.ru/upload/iblock/b8f/b8fcd416620861fae7efd36575e459b9.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/a06/a06c14f5bf45172d39fff90493b01cfb.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/6c2/6c245fc391c71a19b7b17d4883028883.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/393/3931e6ab4c30e4afa30d279e23cba9b1.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/1e9/1e9d56eb8ea1f0ca67488f54d3738474.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/593/593784d8aa70a9e9a8b6e0cb734f9d7d.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/192/192b53071ad0deef6c5860fa9001c94f.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/0a8/0a8305884388acea8ba76f1ac8474867.jpeg</picture>
-<video>https://rutube.ru/shorts/6ced945e0639f22d7be64aa06662ed0e/ </video>
-<cartons>1</cartons>
-<cartons_dimensions>3/12/9,8</cartons_dimensions>
-<param name="Размер">8 х 8 х 1 см</param>
-<assembly>false</assembly>
-<stock>115</stock>
-<delivery>true</delivery>
-<vendorCode>TK24-HTS0004</vendorCode>
-<name>Набор из 4 шелковых резинок для волос бежевого цвета из коллекции essential</name>
-<description>Шелковые резинки для волос бежевого цвета из коллекции Essential – не только модный аксессуар, но и простой способ придать волосам здоровый, ухоженный вид. Благодаря уникальным свойствам материала эти резинки не оставляют жестких заломов и не травмируют локоны. Вы можете дополнять ими любой образ, как повседневный, так и для особых случаев. Особенности и преимущества: - Мягкий шелк приглаживает чешуйки волос, предотвращая их расслаивание, спутывание и появление секущихся кончиков. - Даже туго завязанная резинка не оставляет жестких заломов и не травмирует локоны. - Натуральный материал безопасен для самой чувствительной кожи, не вызывает аллергических реакций. - Шелковые резинки выглядят элегантно и долго сохраняют привлекательный вид при правильном уходе. Состав: 100% натуральный шелк. Плотность шелка: 19 момми. Размер: 1х8 см. ! Ручная стирка при максимальной температуре 30° C ! Гладить при максимальной температуре 110° C ! Сушить вертикально в тени ! Не отбеливать ! Сухая чистка запрещена</description>
-<param name="color">бежевый</param>
-<param name="material">100% натуральный шелк</param>
-<param name="ШтрихКод">4660248426299</param>
-<param name="Высота">8</param>
-<param name="Длина">8</param>
-<param name="Глубина">1</param>
-<country_of_origin>Китай</country_of_origin>
-<param name="СтранаБренда">Россия</param>
-<param name="Вес" unit="кг">0.04</param>
+<yml_catalog date="2025-10-15 14:42">
+    <shop>
+	    <name>VsemPodarok</name>
+    	<company>VsemPodarok</company>
+    	<url>https://www.vsempodarok.com</url>
+    	<currencies><currency id="RUB" rate="1"></currency></currencies>
+	    <categories>
+        
+	<category id="39">Искусственные ёлки и сосны</category>
+	<category id="41">Елочные игрушки</category>
+	<category id="53">Тематические коллекции</category>
+	<category id="56">Шары</category>
+	<category id="178">Корзины, подставки, ограждения</category>
+	<category id="1123">Верхушки</category>
+	<category id="1125">Украшения</category>
+	<category id="1128">Фигурки </category>
+	<category id="1173">Высотные</category>
+	<category id="1176">Игрушки для высотных ёлок </category>
+	<category id="1179">Декоративные светильники и светящиеся украшения</category>
+	<category id="1180">Гирлянды</category>
+	<category id="1192">Уличные</category>
+	<category id="1193">Интерьерные</category>
+	<category id="1213">Свечи и подсвечники</category>
+	<category id="1223">Новогодние костюмы</category>
+	<category id="1227">Аксессуары</category>
+	<category id="1252">Карнавальные</category>
+	<category id="1253">Елочный декор</category>
+
+        </categories>
+    	<offers>
+		    <offer id="100191" available="true">
+	<name>&quot;Павлинья пуансеттия&quot; с глиттером и пайетками, Kurt S. Adler</name>
+	<description><![CDATA[<p>Павлинья пуансеттия с глиттером и пайетками от Kurts Adler - это потрясающая украшение, которое подойдет как для интерьера, так и для украшения праздничной елки. Этот красочный и неповторимый цветок привлекает внимание своей яркой цветовой гаммой и изысканным дизайном. Независимо от того, как вы его используете, это украшение станет настоящим украшением вашего праздника.</p>
+
+<p>Изготовленный из текстиля, этот цветок выглядит невероятно реалистично. Его украшают пайетки и глиттер, что придает этому цветку еще больше блеска и своеобразности. Обратите внимание на каждую деталь - глубокий синий цвет, идеально подобранные пайетки и узоры - всё это делает "Павлинью пуансеттию" настоящим шедевром и абсолютно уникальным украшением.</p>
+
+<p>Этот продукт Кurt S. Adler, который знаменит своей высокой качественной продукцией и оригинальным дизайном украшений на Рождество. "Павлинья пуансеттия" входит в коллекцию "Тропики и Сафари" и прекрасно подойдет для создания теплой атмосферы в любом доме. Размер украшения L (15-30 см), что позволяет его использовать для оформления как больших елок, так и маленьких ваз.</p>
+
+<p>Павлинья пуансеттия не светится, но ее уникальный дизайн и блеск привлекут внимание окружающих в любое время суток. Крепление украшения выполнено в виде других деталей, что дает возможность вариативного использования. В наборе нет дополнительных элементов, но одного взгляда на "Павлинью пуансеттию" достаточно, чтобы взять её с собой. </p>]]></description>
+	<url>https://www.vsempodarok.com/products/puansettiya-pavliniy-glaz-na-steble-kurts-adler/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1125</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/e36/hbnu6o4fg73v8fu013z8y32exwg12ehc/pavlinya_puansettiya_s_glitterom_i_payetkami_kurt_s_adler.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/961/kfc46qmv7put8lljk2941263m2h4812g/store_apendix_big162162_32823.webp</picture>
+	<vendorCode>B4097</vendorCode>
+	<price>3266</price>
 </offer>
-<offer id="77829" available="true">
-<url>https://www.finedesigngroup.ru/products/nabor-iz-4-shelkovykh-rezinok-dlya-volos-myatnogo-tsveta-iz-kollektsii-essential-77829/</url>
-<vendor>Tkano</vendor>
-<price>2490</price>
-<currencyId>RUB</currencyId>
-<categoryId>2149</categoryId>
-<picture>https://www.finedesigngroup.ru/upload/iblock/c08/c08329c6181e606a9b35a1d16a9d8528.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/706/706764bb1df5575940ad03689462f111.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/040/040f587ee66df423e1b4bf7478b75955.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/cd2/cd2358689ca6ec06a897c3e9e9406bd3.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/d6a/d6a98f6bc610378a6f5bfa7b598f95d9.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/409/40959cf420c310730843c91520368268.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/a0a/a0a0c088f259ba13d75f3c7d62906aac.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/da2/da274a1707629b03f11072887cf312d7.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/f9c/f9c7a06c8f37c586b2a067db469e4b2e.jpeg</picture>
-<picture>https://www.finedesigngroup.ru/upload/iblock/872/872d72c1557d31f434df9b8dd6d7665c.jpeg</picture>
-<video>https://rutube.ru/shorts/6ced945e0639f22d7be64aa06662ed0e/</video>
-<cartons>1</cartons>
-<cartons_dimensions>3/12/9,8</cartons_dimensions>
-<param name="Размер">8 х 8 х 1 см</param>
-<assembly>false</assembly>
-<stock>138</stock>
-<delivery>true</delivery>
-<vendorCode>TK24-HTS0002</vendorCode>
-<name>Набор из 4 шелковых резинок для волос мятного цвета из коллекции essential</name>
-<description>Шелковые резинки для волос мятного цвета из коллекции Essential – не только модный аксессуар, но и простой способ придать волосам здоровый, ухоженный вид. Благодаря уникальным свойствам материала эти резинки не оставляют жестких заломов и не травмируют локоны. Вы можете дополнять ими любой образ, как повседневный, так и для особых случаев. Особенности и преимущества: - Мягкий шелк приглаживает чешуйки волос, предотвращая их расслаивание, спутывание и появление секущихся кончиков. - Даже туго завязанная резинка не оставляет жестких заломов и не травмирует локоны. - Натуральный материал безопасен для самой чувствительной кожи, не вызывает аллергических реакций. - Шелковые резинки выглядят элегантно и долго сохраняют привлекательный вид при правильном уходе. Состав: 100% натуральный шелк. Плотность шелка: 19 момми. Размер: 1х8 см. ! Ручная стирка при максимальной температуре 30° C ! Гладить при максимальной температуре 110° C ! Сушить вертикально в тени ! Не отбеливать ! Сухая чистка запрещена</description>
-<param name="color">мятный</param>
-<param name="material">100% натуральный шелк</param>
-<param name="ШтрихКод">4660248426275</param>
-<param name="Высота">8</param>
-<param name="Длина">8</param>
-<param name="Глубина">1</param>
-<country_of_origin>Китай</country_of_origin>
-<param name="СтранаБренда">Россия</param>
-<param name="Вес" unit="кг">0.04</param>
+<offer id="100284" available="true">
+	<name>&quot;Санта&quot; в шарфике, 25 см, Peha Magic</name>
+	<description><![CDATA[<p>Радуйте себя и близких красивыми и оригинальными елочными украшениями. "Санта" в шарфике от Peha Magic - это отличный выбор для украшения вашей елки и создания особой атмосферы в праздничный период. </p>
+
+<p>Отличительной особенностью этого украшения является оригинальный дизайн и высокое качество материалов. "Санта" выглядит как настоящий новогодний персонаж - серый цвет придает ему особый шарм и уникальность в вашем декоре. </p>
+
+<p>Изготовленный из текстиля, этот санта имеет отличное качество и долговечность, все детали выверены до мелочей - прожилки на мундире, борода и шапочка в мешочке. Размер украшения составляет 25 см, которые помогут ему идеально вписаться в любую композицию и не захлестнуть елку. </p>
+
+<p>Данный товар также может использоваться в качестве фигуры для декорирования основания елки, тем самым, создавая еще больше праздничной атмосферы в вашем доме. </p>
+
+<p>Не затягивайте с покупкой - сделайте свой праздник ярче и незабываемым с "Санта" в шарфике от Peha Magic!</p>]]></description>
+	<url>https://www.vsempodarok.com/products/santa-v-mokhnatoy-shube-s-podarkami-i-lyzhami-25-sm-peha/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1128</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/333/2fccmo7sn1v18goqlk7pxmniw318evlb/santa_v_sharfike_25_sm_peha_magic.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/5ac/wr706fw89445mrlecfovaxmlf9ulop5z/store_apendix_big162404_34630.webp</picture>
+	<vendorCode>GF-80800</vendorCode>
+	<price>4241</price>
+</offer>
+<offer id="100327" available="true">
+	<name>Светящаяся композиция &quot;Санта в санях&quot;, акрил, 2 фигуры, 30 и 60 холодных белых LED-огней, 46-47 см, уличный, KAEMINGK</name>
+	<description><![CDATA[<p>Создайте уютную и волшебную атмосферу в вашем дворе или на крыльце дома с нашей светящейся композицией "Санта в санях". Этот уличный декор создан из прочного акрила и оснащен 2 фигурами изображающими Санта на санях. </p>
+
+<p>Композиция имеет два размера фигур: 30 и 60 см, что позволяет создать эффектную глубину установки и привлечь внимание прохожих. Каждая фигура украшена 46-47 холодными белыми LED-огнями, которые прожигаются ярко и долго.</p>
+
+<p>Композиция устойчива к погодным условиям и надежно держится на земле благодаря креплению в основании. Она прекрасно смотрится на фоне заснеженной земли или зеленой травы, наполняя окружающую среду теплым светом и волшебством.</p>
+
+<p>Шоколадно-коричневый цвет и качественный акрил придают уличному декору изысканный вид и ощущение уютного зимнего вечера. Наша светящаяся композиция "Санта в санях" - лучший выбор для создания незабываемого праздничного настроения на улице.</p>
+
+<p>Бренд Kaemingk заботится о качестве своей продукции, поэтому вы можете быть уверены в надежности и долговечности этой световой композиции. Коллекция Lumineo продолжает радовать своих покупателей новыми и яркими идеями для украшения дома в зимний праздничный период.</p>]]></description>
+	<url>https://www.vsempodarok.com/products/svetodiodnaya-akrilovaya-figura-rozhdestvenskie-sani-s-santoy-47-sm-ulichnaya-90-kholodnykh-belykh-l/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1179</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/308/qjkndd6wmz8g5dbgt9ndsh2d27eumknu/svetyashchayasya_kompozitsiya_santa_v_sanyakh_akril_2_figury_30_i_60_kholodnykh_belykh_led_ogney_46_.webp</picture>
+	<vendorCode>491977</vendorCode>
+	<price>28525</price>
+</offer>
+<offer id="100342" available="true">
+	<name>Светящийся &quot;Белый барашек&quot;, акрил, 120 холодных белых LED-огней, уличный, 35x65x52 см, Kaemingk</name>
+	<description><![CDATA[<p>Хотите создать неповторимую атмосферу на Новый год? Тогда Светящийся "Белый барашек" от Kaemingk - это именно то, что Вам нужно! </p>
+<p>Под елкой, на лестнице или на пороге дома этот акриловый барашек станет главной изюминкой Вашей новогодней декорации. А 120 холодных белых LED-огней подарят Вам ощущение, что Вы находитесь в настоящем зимнем сказочном лесу. </p>
+<p>Размеры светового барашка составляют 35x65x52 см, что делает его идеальным для уличного применения. Из изготовления этого изделия использован акрил, который делает его очень легким и прочным. </p>
+<p>Этот замечательный барашек относится к серии Lumineo - лучшей коллекции световых новогодних украшений от бренда Kaemingk. Так что Вы можете быть уверены в качестве и надежности, которую он предлагает. </p>
+<p>Хватит сомневаться, заказывайте Светящийся "Белый барашек" от Kaemingk уже сейчас, и Ваш Новый Год обязательно станет особенным и незабываемым!</p>]]></description>
+	<url>https://www.vsempodarok.com/products/svetodiodnaya-figura-barashek-52-sm-ulichnaya-akril-120-kholodnykh-belykh-led-lamp-kaemingk/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1179</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/d6b/b5xlou2twh8sar6tvb6brmwtlbkeae7j/svetyashchiysya_belyy_barashek_akril_120_kholodnykh_belykh_led_ogney_ulichnyy_35x65x52_sm_kaemingk.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/042/5sug7nd404l64cf1hji5p1o78a6qixrf/svetodiodnaya_figura_barashek_52_sm_ulichnaya_akril_120_kholodnykh_belykh_led_lamp_kaemingk_1.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/dc3/9hgusvdc5oe34361fljyy0mfp0rfulop/svetodiodnaya_figura_barashek_52_sm_ulichnaya_akril_120_kholodnykh_belykh_led_lamp_kaemingk_2.webp</picture>
+	<vendorCode>492252</vendorCode>
+	<price>24170</price>
+</offer>
+<offer id="100376" available="true">
+	<name>Верхушка ёлочная &quot;Звезда&quot;, LED-огни холодные белые, 22 см, провод прозрачный 5 м, Kaemingk</name>
+	<description><![CDATA[<p>Хотите украсить ёлку в новогодний период так, чтобы она была необычной и привлекательной? Тогда вы должны обратить внимание на верхушку ёлочную "Звезда" от бренда Kaemingk. Данная ёлочная верхушка имеет стильный, современный дизайн и сразу будет привлекать внимание ваших гостей и членов семьи.</p>
+<p>Верхушка выполнена из высококачественного пластика, отлично выдерживающего температурные изменения и другие внешние факторы. Она имеет форму красивой звезды, которая является традиционным символом Рождества. Размер верхушки составляет 22 см, что позволяет использовать ее не только на больших ёлках, но и на елочках среднего и маленького размера.</p>
+<p>Одним из главных преимуществ данной ёлочной верхушки является то, что она светится. LED-огни холодного белого цвета гарантируют яркий и чистый свет, который создаст уютную новогоднюю атмосферу дома. Провод длиной 5 м выглядит эстетично благодаря своей прозрачной текстуре. Кроме того, данная верхушка входит в серию Lumineo, что свидетельствует о ее высоком качестве.</p>
+<p>В целом, ёлочная верхушка "Звезда" от Kaemingk - это прекрасный выбор для тех, кто хочет украсить свою ёлку в новогодний период и создать неповторимую атмосферу праздника. Она привлекательна своим дизайном, качеством и удобством в использовании. И кроме того, не забудьте, что звезда - это символ веры в чудеса и добрые дела, который всегда будет напоминать о том, чтобы быть добрее друг к другу и верить в лучшее в будущем.</p>]]></description>
+	<url>https://www.vsempodarok.com/products/svetyashchayasya-zvezda-na-elku-volshebnaya-22-sm-kholodnaya-belaya-31-led-lampa-kaemingk/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1123</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/51a/khe39suzoeb2nknzhspo60x9wcd519q8/verkhushka_yelochnaya_zvezda_led_ogni_kholodnye_belye_22_sm_provod_prozrachnyy_5_m_kaemingk.webp</picture>
+	<vendorCode>495203</vendorCode>
+	<price>4345</price>
+</offer>
+<offer id="100395" available="true">
+	<name>Набор светящихся украшений &quot;Чудеса в коробочках&quot;, 90 разноцветных белых микро LED-огней, 20/15/10 см (3 шт.), Koopman International</name>
+	<description><![CDATA[<p>Создать праздничную атмосферу в вашем доме с помощью набора светящихся украшений "Чудеса в коробочках" от Koopman International – это легко и просто. Эти красивые украшения являются идеальным дополнением к вашей елке, новогоднему столу или просто к стене в вашей гостиной. </p>
+
+<p>Набор включает в себя 90 разноцветных белых микро LED-огней, которые придадут вашему дому романтическую и таинственную атмосферу. Три украшения разного размера – 20, 15 и 10 см – позволяют использовать их в любом месте вашего дома. </p>
+
+<p>Все украшения выполнены из акрила и имеют прозрачный цвет, что позволяет им с легкостью вписаться в любой интерьер. Декорирование основания елки фигурами под елку будет быстро и легко.</p>
+
+<p>Бренд Koopman International – это гарантия качества и надежности. Купите этот набор светящихся украшений и украсьте свой дом новогодними украшениями, которые будут вызывать только положительные эмоции.</p>]]></description>
+	<url>https://www.vsempodarok.com/products/svetyashchiesya-volshebnye-podarki-pod-elku-3-sht-90-raznotsvetnykh-mini-led-lamp-koopman/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1179</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/4fb/0lgudd1e0qkhvvdcy727lcjh509brgpp/nabor_svetyashchikhsya_ukrasheniy_chudesa_v_korobochkakh_90_raznotsvetnykh_belykh_mikro_led_ogney_20.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/672/crm89cmtpymoozxao4j2rbvgkf0aaql4/store_apendix_big163818_36039.webp</picture>
+	<vendorCode>163818-koopman, AX8106770</vendorCode>
+	<price>6867</price>
+</offer>
+<offer id="100396" available="true">
+	<name>Набор светящихся украшений &quot;Чудеса в коробочках&quot;, 90 тёплых белых LED-огней, 20/15/10 см (3 шт.), Koopman International</name>
+	<description><![CDATA[<p>Подготовьтесь к тому, чтобы взоры гостей ваших новогодних праздников притягивались к набору светящихся украшений "Чудеса в коробочках"! Комплект состоит из трёх прозрачных коробочек из акрила в размерах 20/15/10 см. Каждая коробочка украшена фигурами под елку, что подчёркивает её новогоднее настроение.</p>
+<p>Но это ещё не всё! Внутри каждой коробочки расположено 30 тёплых белых LED-огней, которые не только подчёркивают её красоту, но и создают уютную атмосферу в комнате.</p>
+<p>Украсьте ими свою ёлку или разместите по комнате в качестве отдельных элементов декора. Эти украшения станут настоящим украшением любой комнаты и будут служить ежегодно на протяжении многих праздников благодаря использованию качественных материалов.</p>
+<p>Выбрав этот комплект, вы сделаете свой новый год ярким и незабываемым.</p>]]></description>
+	<url>https://www.vsempodarok.com/products/svetyashchiesya-volshebnye-podarki-pod-elku-3-sht-90-teplykh-belykh-mini-led-lamp-koopman/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1179</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/325/mpvt6roi7zqq4ee9z450fvtcjbg1iboo/nabor_svetyashchikhsya_ukrasheniy_chudesa_v_korobochkakh_90_tyeplykh_belykh_led_ogney_20_15_10_sm_3_.webp</picture>
+	<vendorCode>AX8106570</vendorCode>
+	<price>6867</price>
+</offer>
+<offer id="100416" available="true">
+	<name>&quot;Снегурочка&quot; в белой шубке, 30 см, Eggl</name>
+	<description><![CDATA[<p>В этом году ваша елка будет выглядеть еще более эффектно. И все благодаря "Снегурочке" в белой шубке от Eggl. Этот прекрасный новогодний декор станет настоящей изюминкой в вашем интерьере и непременно украсит вашу елку.</p>
+<p>Высотой 30 см, данный товар выполнен из ткани высокого качества, что добавляет ему пушистости и приятности на ощупь. Белый цвет создает атмосферу праздника и новогоднего волшебства. </p>
+<p>Важной особенностью данной игрушки является возможность использовать ее как декорирующий элемент основания елки, ведь у "Снегурочки" есть отверстие под палочку, благодаря которой ее можно закрепить на кроне ели.</p>
+<p>Создайте настоящий сказочный уголок для своих близких и друзей вместе с "Снегурочкой" в белой шубке, созданной эксклюзивно для вас Eggl!</p>]]></description>
+	<url>https://www.vsempodarok.com/products/snegurochka-v-belosnezhnoy-shubke-30-sm-eggl/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1128</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/9b6/65iroerrmoec6wao2pgigm073ts2pa2l/snegurochka_v_beloy_shubke_30_sm_eggl.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/1fd/tgvgf44zh5pzyw9xmd3b65k1tp2wlu5i/store_apendix_big153875_18393.webp</picture>
+	<vendorCode>546-30</vendorCode>
+	<price>5255</price>
+</offer>
+<offer id="100446" available="true">
+	<name>Искусственный снег мелкий SOFT SNOW (иней), 1 кг, Kaemingk</name>
+	<description><![CDATA[<p>Если вы хотите добавить неповторимый шик вашей елке, то искусственный снег мелкий SOFT SNOW (иней) от Kaemingk - то, что вам нужно. Этот снег создаст зимнюю атмосферу в вашем доме, подчеркивая красоту вашей елки.</p>
+<p>Снег сочно-белого цвета и выглядит максимально реалистично. Прекрасно подойдет для оформления любого вида искусственных елок, не только белых или серебряных, но и многих других, создавая иллюзию свежего инейного покрывала.</p>
+<p>Изготовленный из качественных материалов, данный снег легок в применении, безопасен для здоровья и долговечен. Он не тает, не оставляет следов и не пачкает руки, следовательно, убрать его будет просто, что несомненно порадует.</p>
+<p>Сделайте свою елку незабываемой, приобретите искусственный снег мелкий SOFT SNOW (иней) от Kaemingk еще сегодня.</p>]]></description>
+	<url>https://www.vsempodarok.com/products/snezhnaya-pyl-1-kg-kaemingk/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1125</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/174/wc1p21xit45rdrf62fpxl0ey3qt004iq/iskusstvennyy_sneg_melkiy_soft_snow_iney_1_kg_kaemingk.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/74e/bbrwixq20hk1zqvdqkcb0pzgv2bg7hl6/snezhnye_khlopya_snow_2_kg_kaemingk_1.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/f79/q05bsw0ur5lcfrxkz7gwa05yl3j5nts8/snezhnye_khlopya_snow_2_kg_kaemingk_2.webp</picture>
+	<vendorCode>163548-kaemingk, 471555</vendorCode>
+	<price>8245</price>
+</offer>
+<offer id="100815" available="true">
+	<name>Игрушка &quot;Белёк&quot;, 29 см, Koopman International</name>
+	<description><![CDATA[<p>Игрушка "Белёк" от Koopman International - это замечательное дополнение к новогодней коллекции декора для вашей елки. Она выполнена из прочного и безопасного пластика и имеет высоту 29 см.</p>
+<p>Эта игрушка имеет белый цвет, который прекрасно сочетается с любой цветовой гаммой вашей елки. "Белёк" также декорирован фигурами, которые подходят для установки на основание елки.</p>
+<p>Бренд Koopman известен своим качеством и стилем. Вы можете быть уверены, что игрушка "Белёк" будет прекрасным и долговечным дополнением к вашей новогодней коллекции.</p>
+<p>Подарите себе и своим близким праздничное настроение с помощью игрушки "Белёк" от Koopman International.</p>]]></description>
+	<url>https://www.vsempodarok.com/products/figura-morskoy-kotik-29-sm-koopman/</url>
+	<currencyId>RUB</currencyId>
+	<categoryId>1125</categoryId>
+	<picture>https://www.vsempodarok.com/upload/iblock/b35/fpi2aozn4hduflf02wdfk0csqow15g1n/igrushka_belyek_29_sm_koopman_international.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/800/2pci7nplw7cv6o205ne15bo8et5cejmv/figura_morskoy_kotik_29_sm_koopman_1.webp</picture>
+	<picture>https://www.vsempodarok.com/upload/iblock/5cb/wvbqp2v57q9aof0u1b3o9ew5c1rr4kbz/figura_morskoy_kotik_29_sm_koopman_2.webp</picture>
+	<vendorCode>YZ9616080</vendorCode>
+	<price>3643</price>
 </offer>
 </offers>
 </shop>
