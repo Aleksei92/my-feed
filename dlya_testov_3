@@ -10,8 +10,8 @@
         <offers>
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>1</price> <!-- form['cost'] -->
-                <name>Роза красная мимниальный</name> <!-- form['name'] -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Роза красная мимниальный смотрим</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
                 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
                 <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
