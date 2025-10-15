@@ -4,7 +4,9 @@
 	    <name>VsemPodarok</name>
     	<company>VsemPodarok</company>
     	<url>https://www.vsempodarok.com</url>
-    	<currencies><currency id="RUB" rate="1"></currency></currencies>
+    	<currencies>
+    <currency id="RUB" rate="1"/>
+</currencies>
 	    <categories>
         
 	<category id="39">Искусственные ёлки и сосны</category>
