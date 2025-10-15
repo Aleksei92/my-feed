@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<yml_catalog date="2025-10-15 15:35">
+<shop>
+<name>finedesigngroup.ru</name>
+<company>finedesigngroup.ru</company>
+<url>https://www.finedesigngroup.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+<currency id="USD" rate="23.4"/>
+<currency id="EUR" rate="37.1"/>
+</currencies>
+<categories>
+<category id="2122">Багаж и сумки</category>
+<category id="2128">Товары для дома</category>
+<category id="2130">Outdoor</category>
+<category id="2134">Еда и напитки с собой</category>
+<category id="2141">Ванная комната</category>
+<category id="2145">Товары для детей</category>
+<category id="2148">Дизайнерские подарки</category>
+<category id="2165">Товары для уборки</category>
+<category id="2175">Ароматы для дома</category>
+<category id="2179">Свет</category>
+<category id="2189">Мебель</category>
+<category id="2215">Посуда и все для кухни</category>
+<category id="2123" parentId="2122">Косметички и органайзеры</category>
+<category id="2126" parentId="2122">Сумки и аксессуары</category>
+<category id="2131" parentId="2130">Мебель для улицы</category>
+<category id="2133" parentId="2130">Спорт</category>
+<category id="2135" parentId="2134">Кружки для напитков</category>
+<category id="2136" parentId="2134">Термокружки, термосы и супницы</category>
+<category id="2142" parentId="2141">Организация пространства</category>
+<category id="2144" parentId="2134">Ланч-боксы</category>
+<category id="2147" parentId="2128">Комнатные растения</category>
+<category id="2149" parentId="2148">Аксессуары</category>
+<category id="2150" parentId="2148">Канцелярские товары</category>
+<category id="2151" parentId="2128">Текстиль для спальни</category>
+<category id="2152" parentId="2141">Аксессуары для ванной</category>
+<category id="2153" parentId="2134">Столовые приборы и аксессуары</category>
+<category id="2155" parentId="2128">Фоторамки и фотопанно</category>
+<category id="2156" parentId="2128">Декор и детали интерьера</category>
+<category id="2157" parentId="2141">Гигиена</category>
+<category id="2160" parentId="2145">Детская мебель</category>
+<category id="2161" parentId="2128">Хранение</category>
+<category id="2162" parentId="2122">Рюкзаки</category>
+<category id="2163" parentId="2128">Зеркала</category>
+<category id="2166" parentId="2165">Уборка на кухне</category>
+<category id="2167" parentId="2165">Швабры и щётки для пола</category>
+<category id="2168" parentId="2165">Уборка в доме</category>
+<category id="2169" parentId="2134">Термосумки</category>
+<category id="2172" parentId="2134">Бутылочки и фляги для воды</category>
+<category id="2173" parentId="2128">Корзины и контейнеры для мусора</category>
+<category id="2176" parentId="2175">Наполнители для диффузоров</category>
+<category id="2177" parentId="2175">Ароматические диффузоры</category>
+<category id="2178" parentId="2128">Хранение украшений</category>
+<category id="2180" parentId="2179">Напольные лампы</category>
+<category id="2182" parentId="2148">Настольные игры</category>
+<category id="2184" parentId="2179">Подвесные лампы и плафоны</category>
+<category id="2185" parentId="2128">Декоративный текстиль</category>
+<category id="2190" parentId="2189">Вешалки и полки</category>
+<category id="2191" parentId="2141">Текстиль для ванной</category>
+<category id="2192" parentId="2145">Подарки для детей</category>
+<category id="2193" parentId="2189">Банкетки, табуреты и пуфы</category>
+<category id="2197" parentId="2175">Ароматические свечи</category>
+<category id="2198" parentId="2175">Спреи для дома</category>
+<category id="2199" parentId="2189">Столы и столики</category>
+<category id="2200" parentId="2189">Кресла и стулья</category>
+<category id="2203" parentId="2189">Тумбы и комоды</category>
+<category id="2210" parentId="2128">Уход за одеждой</category>
+<category id="2213" parentId="2128">Ковры</category>
+<category id="2216" parentId="2215">Организация и порядок</category>
+<category id="2217" parentId="2215">Бар</category>
+<category id="2218" parentId="2215">Приготовление</category>
+<category id="2219" parentId="2215">Текстиль для кухни</category>
+<category id="2220" parentId="2215">Хранение продуктов</category>
+<category id="2221" parentId="2215">Сервировка</category>
+<category id="2222" parentId="2215">Чай и кофе</category>
+<category id="2235" parentId="2179">Настольные лампы и ночники</category>
+<category id="2236" parentId="2179">Настенные лампы</category>
+<category id="2245" parentId="2130">Аксессуары для пикника</category>
+</categories>
+<offers>
+<offer id="77828" available="true">
+<url>https://www.finedesigngroup.ru/products/nabor-iz-4-shelkovykh-rezinok-dlya-volos-bezhevogo-tsveta-iz-kollektsii-essential-77828/</url>
+<vendor>Tkano</vendor>
+<price>2490</price>
+<currencyId>RUB</currencyId>
+<categoryId>2149</categoryId>
+<picture>https://www.finedesigngroup.ru/upload/iblock/b8f/b8fcd416620861fae7efd36575e459b9.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/a06/a06c14f5bf45172d39fff90493b01cfb.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/6c2/6c245fc391c71a19b7b17d4883028883.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/393/3931e6ab4c30e4afa30d279e23cba9b1.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/1e9/1e9d56eb8ea1f0ca67488f54d3738474.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/593/593784d8aa70a9e9a8b6e0cb734f9d7d.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/192/192b53071ad0deef6c5860fa9001c94f.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/0a8/0a8305884388acea8ba76f1ac8474867.jpeg</picture>
+<Model3D/>
+<video>https://rutube.ru/shorts/6ced945e0639f22d7be64aa06662ed0e/ </video>
+<cartons>1</cartons>
+<cartons_dimensions>3/12/9,8</cartons_dimensions>
+<param name="Размер">8 х 8 х 1 см</param>
+<assembly>false</assembly>
+<stock>115</stock>
+<delivery>true</delivery>
+<vendorCode>TK24-HTS0004</vendorCode>
+<name>Набор из 4 шелковых резинок для волос бежевого цвета из коллекции essential</name>
+<description>Шелковые резинки для волос бежевого цвета из коллекции Essential – не только модный аксессуар, но и простой способ придать волосам здоровый, ухоженный вид. Благодаря уникальным свойствам материала эти резинки не оставляют жестких заломов и не травмируют локоны. Вы можете дополнять ими любой образ, как повседневный, так и для особых случаев. Особенности и преимущества: - Мягкий шелк приглаживает чешуйки волос, предотвращая их расслаивание, спутывание и появление секущихся кончиков. - Даже туго завязанная резинка не оставляет жестких заломов и не травмирует локоны. - Натуральный материал безопасен для самой чувствительной кожи, не вызывает аллергических реакций. - Шелковые резинки выглядят элегантно и долго сохраняют привлекательный вид при правильном уходе. Состав: 100% натуральный шелк. Плотность шелка: 19 момми. Размер: 1х8 см. ! Ручная стирка при максимальной температуре 30° C ! Гладить при максимальной температуре 110° C ! Сушить вертикально в тени ! Не отбеливать ! Сухая чистка запрещена</description>
+<param name="color">бежевый</param>
+<param name="material">100% натуральный шелк</param>
+<param name="ШтрихКод">4660248426299</param>
+<param name="Высота">8</param>
+<param name="Длина">8</param>
+<param name="Глубина">1</param>
+<country_of_origin>Китай</country_of_origin>
+<param name="СтранаБренда">Россия</param>
+<param name="Вес" unit="кг">0.04</param>
+</offer>
+<offer id="77829" available="true">
+<url>https://www.finedesigngroup.ru/products/nabor-iz-4-shelkovykh-rezinok-dlya-volos-myatnogo-tsveta-iz-kollektsii-essential-77829/</url>
+<vendor>Tkano</vendor>
+<price>2490</price>
+<currencyId>RUB</currencyId>
+<categoryId>2149</categoryId>
+<picture>https://www.finedesigngroup.ru/upload/iblock/c08/c08329c6181e606a9b35a1d16a9d8528.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/706/706764bb1df5575940ad03689462f111.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/040/040f587ee66df423e1b4bf7478b75955.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/cd2/cd2358689ca6ec06a897c3e9e9406bd3.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/d6a/d6a98f6bc610378a6f5bfa7b598f95d9.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/409/40959cf420c310730843c91520368268.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/a0a/a0a0c088f259ba13d75f3c7d62906aac.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/da2/da274a1707629b03f11072887cf312d7.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/f9c/f9c7a06c8f37c586b2a067db469e4b2e.jpeg</picture>
+<picture>https://www.finedesigngroup.ru/upload/iblock/872/872d72c1557d31f434df9b8dd6d7665c.jpeg</picture>
+<Model3D/>
+<video>https://rutube.ru/shorts/6ced945e0639f22d7be64aa06662ed0e/</video>
+<cartons>1</cartons>
+<cartons_dimensions>3/12/9,8</cartons_dimensions>
+<param name="Размер">8 х 8 х 1 см</param>
+<assembly>false</assembly>
+<stock>138</stock>
+<delivery>true</delivery>
+<vendorCode>TK24-HTS0002</vendorCode>
+<name>Набор из 4 шелковых резинок для волос мятного цвета из коллекции essential</name>
+<description>Шелковые резинки для волос мятного цвета из коллекции Essential – не только модный аксессуар, но и простой способ придать волосам здоровый, ухоженный вид. Благодаря уникальным свойствам материала эти резинки не оставляют жестких заломов и не травмируют локоны. Вы можете дополнять ими любой образ, как повседневный, так и для особых случаев. Особенности и преимущества: - Мягкий шелк приглаживает чешуйки волос, предотвращая их расслаивание, спутывание и появление секущихся кончиков. - Даже туго завязанная резинка не оставляет жестких заломов и не травмирует локоны. - Натуральный материал безопасен для самой чувствительной кожи, не вызывает аллергических реакций. - Шелковые резинки выглядят элегантно и долго сохраняют привлекательный вид при правильном уходе. Состав: 100% натуральный шелк. Плотность шелка: 19 момми. Размер: 1х8 см. ! Ручная стирка при максимальной температуре 30° C ! Гладить при максимальной температуре 110° C ! Сушить вертикально в тени ! Не отбеливать ! Сухая чистка запрещена</description>
+<param name="color">мятный</param>
+<param name="material">100% натуральный шелк</param>
+<param name="ШтрихКод">4660248426275</param>
+<param name="Высота">8</param>
+<param name="Длина">8</param>
+<param name="Глубина">1</param>
+<country_of_origin>Китай</country_of_origin>
+<param name="СтранаБренда">Россия</param>
+<param name="Вес" unit="кг">0.04</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
