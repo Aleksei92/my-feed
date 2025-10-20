@@ -5,13 +5,13 @@
     <company>Пандочка</company>
     <url>https://pandochka.flowwow.by</url>
     <categories>
-      <category id="bb474085-8362-11f0-0a80-0bc500001866">Авторские букеты</category>
+      <category id="bb474085">Авторские букеты</category>
     </categories>
     <offers>
       <offer available="true" id="J3a7AB1YjCEJIvHZBIaK">
         <name>Букет из 5 кустовых роз, 3 диантусов шабо и 3 веток рускуса</name>
         <description>Букет из 5 кустовых роз, 3 диантусов шабо и 3 веток рускуса</description>
-        <categoryId>bb474085-8362-11f0-0a80-0bc500001866</categoryId>
+        <categoryId>bb474085</categoryId>
         <price>125.00</price>
         <currencyId>BYN</currencyId>
         <picture>https://static.pandochka.by/catalog/images/J3a7AB1YjCEJIvHZBIaKO2/0</picture>
@@ -24,7 +24,7 @@
       <offer available="false" id="Vape9-R9gXCSO2skM1Ri">
         <name>Букет из 3 кустовых роз, 2 кустовых хризантем и 5 диантусов</name>
         <description>Букет из 3 кустовых роз, 2 кустовых хризантем и 5 диантусов</description>
-        <categoryId>bb474085-8362-11f0-0a80-0bc500001866</categoryId>
+        <categoryId>bb474085</categoryId>
         <price>103.00</price>
         <currencyId>BYN</currencyId>
         <picture>https://static.pandochka.by/catalog/images/Vape9-R9gXCSO2skM1Rik2/0</picture>
@@ -36,3 +36,4 @@
     </offers>
   </shop>
 </yml_catalog>
+
