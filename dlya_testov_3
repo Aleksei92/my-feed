@@ -14,8 +14,6 @@
                 <name>Роза красная новая цена</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
 <picture>https://lh3.googleusercontent.com/d/1b6sFjBiz4Jv4bhPQU6aVcpak_yHI6Y5W</picture>
-<picture>https://lh3.googleusercontent.com/d/1EajT4IK4ufB53pAg2d6SqIPy0OMwJ-zk</picture>
-<picture>https://lh3.googleusercontent.com/d/17qY4FIkpIpWNTAK-e6plNikURZZ6f_54</picture>
                 <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
