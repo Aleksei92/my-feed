@@ -10,7 +10,7 @@
         <offers>
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>1101</price> <!-- form['cost'] -->
+                <price>110</price> <!-- form['cost'] -->
                 <name>Роза красная цену название описание</name> <!-- form['name'] -->
                 <description>Красивая красная роза розовая</description> <!-- form['description'] -->
 <picture>https://lh3.googleusercontent.com/d/1b6sFjBiz4Jv4bhPQU6aVcpak_yHI6Y5W</picture>
