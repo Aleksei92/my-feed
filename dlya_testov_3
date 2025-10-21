@@ -13,11 +13,9 @@
                 <price>100</price> <!-- form['cost'] -->
                 <name>Роза красная новая цена</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
-<picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_1fcbcb5b8d9d4c2343a5095b5eb34d8b9/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
-<picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_1af45b2c6939195e3d871a3d94fbd2e3c/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
-<picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_1c66c8745cdd55c6081e147402592b1b6/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
-<picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_1e5cd1842b232cb2edc11c56a6dffec38/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
-<picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_190e2eaa2f2357a3b2a25547f878cc524/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
+<picture>https://lh3.googleusercontent.com/d/1b6sFjBiz4Jv4bhPQU6aVcpak_yHI6Y5W</picture>
+<picture>https://lh3.googleusercontent.com/d/1EajT4IK4ufB53pAg2d6SqIPy0OMwJ-zk</picture>
+<picture>https://lh3.googleusercontent.com/d/17qY4FIkpIpWNTAK-e6plNikURZZ6f_54</picture>
                 <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
