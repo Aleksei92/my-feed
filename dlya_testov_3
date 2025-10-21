@@ -10,11 +10,9 @@
         <offers>
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>1010</price> <!-- form['cost'] -->
-                <name>Роза красная</name> <!-- form['name'] -->
+                <price>100</price> <!-- form['cost'] -->
+                <name>Роза красная новая цена</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
-                <picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_123ed8b2aee0bce6887826aaa63b5c28a/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
-<picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_152db9b7342290d3471db967323f73527/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
 <picture>https://horny-days.ru/upload/resize_cache/medialibrary/765/800_800_1ef49ca13b500ae7026a47827008e41d7/pyuzu72lctdxyeo1kvbjtygbdvpvsv7f.jpg</picture>
                 <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
