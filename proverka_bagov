@@ -6,6 +6,7 @@
     <url>https://pandochka.flowwow.by</url>
     <categories>
       <category id="1">Авторские букеты</category>
+<category id="2">Авторские букеты</category>
     </categories>
     <offers>
     <offer id="974533" available="true">
@@ -291,6 +292,7 @@
     </offers>
   </shop>
 </yml_catalog>
+
 
 
 
