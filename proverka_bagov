@@ -31,9 +31,39 @@
 <consist name="Лента Упаковочная" unit="шт">2</consist>
 <consist name="Хризантема куст кеннеди" unit="шт">3</consist>
 </offer>
+<offer id="1088969" available="false">
+<url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_bukety/buket_tsvetochnaya_stikhiya_0335/</url>
+<price>6700</price>
+<name>Букет &amp;quot;Цветочная стихия&amp;quot; 0335</name>
+<vendor>ЦвеТТорг</vendor>
+<country_of_origin>Россия</country_of_origin>
+<description>Букет &amp;quot;Цветочная стихия&amp;quot; 0335</description>
+<categoryId>1</categoryId>
+<param name="Высота, см">50</param>
+<param name="Ширина, см">40</param>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/8d8/jlrcdzcgrxi5oc2l4erld6otif41bzac.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/2f0/8kiph5o0rxcpy7ragner93pfon0hac56.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/41e/ds49714ppeqx138o0648i8vk1p78ygjt.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/4f2/q62plyejathb3rdt8t2x7afu5cwo0q07.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/8b1/7kpzs36kv7kvpb18dfruzml2s37l3g1g.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/72f/d0yryb03fuppfw3muboha3aby4hthisy.webp</picture>
+<consist name="Эвкалипт сайт" unit="шт">3</consist>
+<consist name="Альстромерия микс" unit="шт">1</consist>
+<consist name="Конверт с кризалом для букетов сайт" unit="шт">1</consist>
+<consist name="Ковыль - пучок Китай" unit="шт">1</consist>
+<consist name="Гидрангея фиолетовая" unit="шт">1</consist>
+<consist name="Упаковка." unit="шт">5</consist>
+<consist name="Роза 50 см Фрутетто Вывернутая" unit="шт">3</consist>
+<consist name="Лента Упаковочная" unit="шт">3</consist>
+<consist name="Лизиантус белый" unit="шт">2</consist>
+<consist name="Гвоздика белая" unit="шт">5</consist>
+<consist name="Хризантема куст балтика" unit="шт">1</consist>
+<consist name="Роза сп 50 см Мадам Бомбастик" unit="шт">1</consist>
+</offer>
     </offers>
   </shop>
 </yml_catalog>
+
 
 
 
