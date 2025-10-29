@@ -6,7 +6,7 @@
     <url>https://pandochka.flowwow.by</url>
     <categories>
       <category id="1">Авторские букеты</category>
-<category id="2">Авторские букеты</category>
+<category id="2">Авторские букетлы</category>
     </categories>
     <offers>
     <offer id="974533" available="true">
@@ -193,7 +193,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Фламенко&amp;quot; 0667</description>
-<categoryId>42492</categoryId>
+<categoryId>2</categoryId>
 <param name="Высота, см">40</param>
 <param name="Ширина, см">30</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/0d2/522xa419hrxkmjznsyuzjo9vm3024dd6.webp</picture>
@@ -292,6 +292,7 @@
     </offers>
   </shop>
 </yml_catalog>
+
 
 
 
