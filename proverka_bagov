@@ -31,40 +31,10 @@
 <consist name="Лента Упаковочная" unit="шт">2</consist>
 <consist name="Хризантема куст кеннеди" unit="шт">3</consist>
 </offer>
-<offer id="1085049" available="false">
-<url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_kompozitsii/kompozitsiya_tsvetochnaya_stikhiya_0458/</url>
-<price>4350</price>
-<name>Композиция &amp;quot;Цветочная стихия&amp;quot; 0458</name>
-<vendor>ЦвеТТорг</vendor>
-<country_of_origin>Россия</country_of_origin>
-<description>Композиция &amp;quot;Цветочная стихия&amp;quot; 0458</description>
-<categoryId>1</categoryId>
-<param name="Высота, см">30</param>
-<param name="Ширина, см">40</param>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/e83/9h17fykx22fv6onrwpr6zo17fjaglxhe.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/e36/7y7y40n511vifspsv6dofd2dz6t7y0ij.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/858/ru1tvtwtezpquywk9wpvent6t7gg20rf.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/292/co2kyzdd6ij41jepge4dpxkwemmslbcx.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/8b1/7kpzs36kv7kvpb18dfruzml2s37l3g1g.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/af2/5zjabsqpe0e3328ceiqjz02bn89cafn9.webp</picture>
-<consist name="Гиперикум белый" unit="шт">1</consist>
-<consist name="Лимониум белый" unit="шт">1</consist>
-<consist name="Хризантема куст зеленая" unit="шт">1</consist>
-<consist name="Конверт с кризалом для букетов сайт" unit="шт">1</consist>
-<consist name="Упаковка." unit="шт">1</consist>
-<consist name="Набор коробок - "Квадрат" 3в1 (195*11см)А" unit="шт">1</consist>
-<consist name="Хризантема куст балтика крашеная" unit="шт">1</consist>
-<consist name="Печенье "Macarons" клубника 60гр. (13508446)" unit="шт">1</consist>
-<consist name="Гортензиня стабилизированная (179083502)" unit="шт">1</consist>
-<consist name="Роза сп 50 см нежно розовая" unit="шт">1</consist>
-<consist name="Хризантема куст кокос" unit="шт">1</consist>
-<consist name="Свеча ароматическая в стакане (керамика)" unit="шт">1</consist>
-<consist name="Печенье "Macarons" фисташка 60гр.(13641479)" unit="шт">1</consist>
-<consist name="Флористическая пена - Брикет срез Классик (Oasis Classic Fresh Floral Fo) Германия (Floralife Eur" unit="шт">1</consist>
-</offer>
     </offers>
   </shop>
 </yml_catalog>
+
 
 
 
