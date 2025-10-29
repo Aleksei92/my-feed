@@ -67,7 +67,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Букет &amp;quot;Цветочный коктейль&amp;quot; 0466</description>
-<categoryId>42491</categoryId>
+<categoryId>1</categoryId>
 <param name="Высота, см">50</param>
 <param name="Ширина, см">40</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/305/blxem86bl3omn0wsm75u4onpjwz04zux.webp</picture>
@@ -94,7 +94,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Космос&amp;quot; 0657</description>
-<categoryId>42492</categoryId>
+<categoryId>1</categoryId>
 <param name="Высота, см">20</param>
 <param name="Ширина, см">10</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/f40/n3yvull4hmmqdx2eniam6ebvh4n45ccs.webp</picture>
@@ -116,7 +116,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Lady Rose&amp;quot; 0664</description>
-<categoryId>42492</categoryId>
+<categoryId>1</categoryId>
 <param name="Высота, см">40</param>
 <param name="Ширина, см">30</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/e0d/x94a3f1oi89roh35xdb6yzfl530btgvp.webp</picture>
@@ -144,7 +144,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Мадемуазель&amp;quot; 0665</description>
-<categoryId>42492</categoryId>
+<categoryId>1</categoryId>
 <param name="Высота, см">50</param>
 <param name="Ширина, см">30</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/706/7drwma5phf95g5v0ssxssg4h9mb3et3c.webp</picture>
@@ -169,7 +169,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Романтика&amp;quot; 0666</description>
-<categoryId>42492</categoryId>
+<categoryId>2</categoryId>
 <param name="Высота, см">30</param>
 <param name="Ширина, см">40</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/5db/1cdwjx1dwxccdm53soak46flogwbjtjm.webp</picture>
@@ -222,7 +222,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Элегантность&amp;quot; 0669</description>
-<categoryId>42492</categoryId>
+<categoryId>2</categoryId>
 <param name="Высота, см">30</param>
 <param name="Ширина, см">20</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/9d3/ssmv6fynole5wiiw1aygeuj813kppzfr.webp</picture>
@@ -247,7 +247,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Конфетно-розовый&amp;quot; 0671</description>
-<categoryId>42492</categoryId>
+<categoryId>2</categoryId>
 <param name="Высота, см">30</param>
 <param name="Ширина, см">30</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/124/5rp229311u1iqtys0324cyerekhe750f.webp</picture>
@@ -270,7 +270,7 @@
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
 <description>Композиция &amp;quot;Любимой маме&amp;quot; розовые розы 0673</description>
-<categoryId>42492</categoryId>
+<categoryId>2</categoryId>
 <param name="Высота, см">30</param>
 <param name="Ширина, см">20</param>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/763/7phl8x9ndotigs80zlld91i99ud0h5og.webp</picture>
@@ -291,6 +291,7 @@
     </offers>
   </shop>
 </yml_catalog>
+
 
 
 
