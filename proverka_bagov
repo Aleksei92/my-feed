@@ -11,7 +11,7 @@
     <offers>
     <offer id="974533" available="true">
 <url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_bukety/buket_yarkoe_solntse_0680_1/</url>
-<price>4250</price>
+<price>42</price>
 <name> Букет &amp;quot;Яркое солнце&amp;quot; 0680</name>
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
@@ -34,7 +34,7 @@
 </offer>
 <offer id="1088969" available="false">
 <url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_bukety/buket_tsvetochnaya_stikhiya_0335/</url>
-<price>6700</price>
+<price>670</price>
 <name>Букет &amp;quot;Цветочная стихия&amp;quot; 0335</name>
 <vendor>ЦвеТТорг</vendor>
 <country_of_origin>Россия</country_of_origin>
@@ -64,6 +64,7 @@
     </offers>
   </shop>
 </yml_catalog>
+
 
 
 
