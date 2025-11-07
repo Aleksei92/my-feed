@@ -10,11 +10,12 @@
         <offers>
             <offer id="623" available="true">
                 <categoryId>1</categoryId>
-                <price>501</price>
+                <price>51</price>
                 <name>Букет для тестов фото</name>
                 <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-<picture>https://tkano.ru/upload/iblock/cbf/6hjhux5e6cynw0tp18a0dmaxubvb12nx.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/524/n4d92x6ab9mj3to2ne75t6c0fysuw7ao.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
 <param name="Высота, мм">500</param>
                 <param name="Ширина, мм">500</param>
                 <consist name="роза" unit="шт">20</consist>
