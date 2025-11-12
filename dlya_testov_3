@@ -23,7 +23,7 @@
 				<consist name="роза" unit="шт">1</consist>
             </offer>
 <offer id="1005" available="true">
-                <categoryId>2</categoryId> <!-- form['range_type_id'] -->
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>100</price> <!-- form['cost'] -->
                 <name>Роза красная название описание1</name> <!-- form['name'] -->
                 <description>Красивая красная роза</description> <!-- form['description'] -->
