@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <yml_catalog date="2025-11-13 07:00">
   <shop>
+<name>не плачь, пей кофе</name>
+    <company>ИП Зиновьев</company>
+    <url>https://sabyget.ru/shop/neplach_coffee_kk</url>
+    <platform>СБИС</platform>
+    <version>3</version>
+  </shop>
     <currencies>
       <currency id="RUR" rate="1" />
     </currencies>
@@ -915,10 +921,5 @@
         <param name="Ширина, Мм">50</param>
       </offer>
     </offers>
-    <name>не плачь, пей кофе</name>
-    <company>ИП Зиновьев</company>
-    <url>https://sabyget.ru/shop/neplach_coffee_kk</url>
-    <platform>СБИС</platform>
-    <version>3</version>
-  </shop>
 </yml_catalog>
+
