@@ -1,72 +1,924 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-20T06:48:45">
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-11-13 07:00">
   <shop>
-    <name>Пандочка</name>
-    <company>Пандочка</company>
-    <url>https://pandochka.flowwow.by</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
     <categories>
-      <category id="1">Авторские букеты</category>
-<category id="2">Авторские букетлы</category>
+      <category id="0">Другое</category>
+      <category id="10172">цветы поштучно</category>
+      <category id="10334">открытки</category>
+      <category id="10169">авторские букеты</category>
+      <category id="15793">монобукеты</category>
+      <category id="17268">печенье</category>
+      <category id="17267">торты</category>
+      <category id="17322">конфеты</category>
     </categories>
     <offers>
-    <offer id="974533" available="true">
-<url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_bukety/buket_yarkoe_solntse_0680_1/</url>
-<price>42</price>
-<name> Букет &amp;quot;Яркое солнце&amp;quot; 0680</name>
-<vendor>ЦвеТТорг</vendor>
-<country_of_origin>Россия</country_of_origin>
-<description> Букет &amp;quot;Яркое солнце&amp;quot; 0680</description>
-<categoryId>1</categoryId>
-<param name="Высота, см">40</param>
-<param name="Ширина, см">30</param>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/524/n4d92x6ab9mj3to2ne75t6c0fysuw7ao.webp</picture>
-<consist name="Пистация сайт" unit="шт">3</consist>
-<consist name="Конверт с кризалом для букетов сайт" unit="шт">1</consist>
-<consist name="Лента Простая 2/50 (МСК) Россия" unit="шт">10</consist>
-<consist name="Упаковка." unit="шт">3</consist>
-<consist name="Роза сп 50 см фаер флеш" unit="шт">5</consist>
-<consist name="Лента Упаковочная" unit="шт">2</consist>
-<consist name="Хризантема куст кеннеди" unit="шт">3</consist>
-</offer>
-<offer id="1088969" available="false">
-<url>https://zvettorg.ru/catalog/bukety_i_kompozitsii/vse_bukety/buket_tsvetochnaya_stikhiya_0335/</url>
-<price>670</price>
-<name>Букет &amp;quot;Цветочная стихия&amp;quot; 0335</name>
-<vendor>ЦвеТТорг</vendor>
-<country_of_origin>Россия</country_of_origin>
-<description>Букет &amp;quot;Цветочная стихия&amp;quot; 0335</description>
-<categoryId>2</categoryId>
-<param name="Высота, см">50</param>
-<param name="Ширина, см">40</param>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/8d8/jlrcdzcgrxi5oc2l4erld6otif41bzac.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/2f0/8kiph5o0rxcpy7ragner93pfon0hac56.webp</picture>
-<consist name="Эвкалипт сайт" unit="шт">3</consist>
-<consist name="Альстромерия микс" unit="шт">1</consist>
-<consist name="Конверт с кризалом для букетов сайт" unit="шт">1</consist>
-<consist name="Ковыль - пучок Китай" unit="шт">1</consist>
-<consist name="Гидрангея фиолетовая" unit="шт">1</consist>
-<consist name="Упаковка." unit="шт">5</consist>
-<consist name="Роза 50 см Фрутетто Вывернутая" unit="шт">3</consist>
-<consist name="Лента Упаковочная" unit="шт">3</consist>
-<consist name="Лизиантус белый" unit="шт">2</consist>
-<consist name="Гвоздика белая" unit="шт">5</consist>
-<consist name="Хризантема куст балтика" unit="шт">1</consist>
-<consist name="Роза сп 50 см Мадам Бомбастик" unit="шт">1</consist>
-</offer>
+      <offer id="3191" available="true">
+        <name>упаковка букета праздничная</name>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>0</categoryId>
+        <picture>https://disk.saby.ru/disk/api/v1/a38a1a01-53e4-46f5-bb2b-5c81b4685157</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/4f715e45-caee-4c20-8141-c802681a98fe</picture>
+        <description>&lt;p version="2"&gt;упаковка букета для поштучных букетов, без нее мы заворачиваем цветочки в крафтовый кулек&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3191/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">200</param>
+        <param name="Ширина, Мм">200</param>
+      </offer>
+      <offer id="1608" available="true">
+        <name>роза эквадор 1шт</name>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>34</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/7083b8a5-27be-4406-82f5-40a147aa4fa6</picture>
+        <description>&lt;p version="2"&gt;&lt;span style="text-align: left;"&gt;Эквадорская роза розового цвета  – это великолепный цветок, который станет прекрасным подарком для любого повода. Эти розы известны своим насыщенным цветом и долговечностью, что делает их идеальными для букетов и композиций. Они привнесут нежность и элегантность в ваш дом или мероприятие.&lt;/span&gt;&lt;br style="text-align: left;"/&gt;&lt;br style="text-align: left;"/&gt;&lt;span style="text-align: left;"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1608/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3055" available="true">
+        <name>роза кустовая розовая софия</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>2</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/77967308-a21f-4b2a-8385-bf39409c9257</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/bdb28b9b-478e-4741-b39c-8c98ee422ad8</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/fac482e6-66fd-4a10-a9ed-a5064ec99a91</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/23e1a268-f252-4e3c-8745-5764a55d3716</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/b39fa3f7-942f-4963-947e-87e08a37528f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1e155c40-fd61-4ab8-b0d9-d4e138548157</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1dd6f986-845d-4397-93a8-a3461a3d88b9</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/09898a7e-2d12-4894-88d3-3b89fba02b13</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/f7fd197b-1869-4fc9-a39b-53430691898c</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;шикарнейшая кустовая роза из отличается своей стойкостью при правильном уходе. рекомендуем менять воду раз в два дня, добавлять в воду подкормку и подрезать цветы ножом, ни в коем случае нельзя подрезать цветы ножницами&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3055/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2170" available="true">
+        <name>бруния 1шт</name>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>9</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/ec7f766c-30a5-4d9a-b924-0c32c7aa682c</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/6a97fa0c-1e68-458b-be5e-233696d88352</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/eaab75ca-14bf-4077-b38c-7f94d134c17f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/b58a5992-3030-4fb3-ac09-15d3262dc69a</picture>
+        <description>&lt;p version="2"&gt;Бруния - это очень стойкое декоративное растение, которое часто используется в флористике для создания изысканных букетов и композиций. Оно обладает необычной формой и видом, благодаря чему добавляет особый шарм и стиль в любое оформление. Одна штука брунии идеально подойдет для создания акцентов в вашем интерьере или для дополнения подарочного букета.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2170/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2275" available="true">
+        <name>ваксфлауэр / хамелациум розовый 1шт</name>
+        <price>665</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>11</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/ca7e7069-0fd4-4231-af12-b538aab42e9f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/10afaa15-2eec-433b-a14d-bd78d15565dc</picture>
+        <description>&lt;p version="2"&gt;Ваксфлауэр, также известный как хамелациум, является декоративным растением с яркими розовыми цветами. Это отличный выбор для создания уютной атмосферы в вашем доме. Цветок обладает приятным ароматом лимонного пирога и может стать прекрасным акцентом в любом интерьере. Он требует минимального ухода и будет долго радовать вас&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2275/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2251" available="true">
+        <name>гринтик 1шт</name>
+        <price>505</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>6</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/3ffddd14-3bf8-4c62-82bd-36b65882df58</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/e641b380-bf57-4e91-8c79-7c21d66bd170</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/0b1fc373-a7e3-4e4f-9774-824cb71d3cbd</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1aa0bade-a2f0-427c-8f5e-df5e00694a5e</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;вы не поверите, но это вид диантуса! то есть гвоздики. просто экзотичный :)&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span&gt;отличное дополнение для классических и экзотичных букетов, домашних и праздничных! главное подключить фантазию&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2251/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2878" available="true">
+        <name>леукодендрон / сафари 1шт</name>
+        <price>450</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>7</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/b8f0c0db-7c50-4860-afc1-73ba14fbc8dd</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2878/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3107" available="true">
+        <name>ранункулюс розовый 1шт</name>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>2</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/22a58e5c-6d6f-4b6d-8651-de2ce1755ee9</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/66626273-8cac-4520-9189-591f84133022</picture>
+        <description>&lt;p version="2"&gt;Ранункулюс розовый — это прекрасный цветок с нежными, многослойными лепестками, который станет отличным украшением для любого букета или композиции. Его яркий и насыщенный цвет добавит весеннего настроения в ваш дом или станет оригинальным подарком для близких. Цветок идеально подходит для создания романтической атмосферы на свадьбах или других торжествах.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3107/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2309" available="true">
+        <name>рускус 1шт</name>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>64</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/c1560b6b-ccad-4e39-8653-3df96fd68685</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2309/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3112" available="true">
+        <name>роза кустовая пионовидная розовая бомбастик</name>
+        <price>870</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>15</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/405b3004-eb42-4b4e-9759-175f13711a95</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/221943f3-14b9-47a0-9f28-1092bbbdd4b6</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d9694939-6c15-4b1c-b705-fe3e27568432</picture>
+        <description>&lt;p version="2"&gt;Кустовая пионовидная роза розового цвета из Кении, длиной 60 см, станет прекрасным украшением вашего интерьера или идеальным подарком для особого случая. Эти цветы отличаются своей великолепной формой, раскидистой веткой и нежным цветом, привнося в атмосферу нежность и элегантность. Подходят для букетов, композиций и как отдельный элемент декора.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3112/</url>
+        <consist name="роза кустовая пионовидная" unit="шт">1</consist>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3116" available="true">
+        <name>роза французская белая mondial 70 см</name>
+        <price>785</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>21</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/6d5193be-c883-47b2-ac84-2565c56fe3a1</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/bf018581-3329-438d-a2e0-b7e11bdaae4a</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/6203e0c7-0dcf-450c-84a3-300fb518898e</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/8e42f38f-9e2e-4ae9-934f-5bb8926d4b39</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/b956ff1f-be20-40c6-ad2f-0db57904b608</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/edc55ad5-3815-41c0-b278-2fae5fef15ad</picture>
+        <description>&lt;p version="2"&gt;Французская белая роза Mondial длиной 70 см — это элегантный и изысканный цветок, который станет прекрасным дополнением к любому букету или декору. С нежными лепестками и ярким ароматом, эта роза символизирует чистоту и романтику. Идеально подходит для подарков на свадьбы, юбилеи или другие торжественные мероприятия.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3116/</url>
+        <param name="Высота, Мм">700</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3118" available="true">
+        <name>роза французская красная 
+алая nina 70см</name>
+        <price>785</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>2</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/2bf7a2f5-f355-4241-9580-73a6f9b58b98</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/635eacd8-07f5-4ce3-b73f-177280410b72</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/082a651a-36b7-4a2f-92ac-f19fed6cbffa</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1186b74d-0ae3-478c-9159-f0ec725e6cc8</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/7094a303-7f15-4231-af12-88a9efec9562</picture>
+        <description>&lt;p version="2"&gt;Эта великолепная французская красная роза Nina длиной 70 см станет идеальным украшением для любого букета или композиции. Ее насыщенный цвет и изысканная форма привнесут романтику и элегантность в ваш дом или станут прекрасным подарком для близкого человека и станет прекрасным акцентом в любом интерьере.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3118/</url>
+        <param name="Высота, Мм">700</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2032" available="true">
+        <name>ромашка / танацетум 1шт</name>
+        <price>365</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>10</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/053512b7-1ad0-4d76-b069-c11e3e9e6685</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2032/</url>
+        <param name="Высота, Мм">500</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2193" available="true">
+        <name>сантини 1шт</name>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>30</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/c0c94081-f7c2-47c4-aaa8-06ac8dbb9c71</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/c5942bcf-fe27-4999-9c7d-259bcad3d584</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/9b4e24d0-ec1a-4c9e-bc68-df473861c961</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/a7f913fb-ad44-406d-b6bc-bf7adc1c0ea3</picture>
+        <description>&lt;p version="2"&gt;сантини — это прекрасный вариант для украшения интерьера или подарка. Цветы свежие и яркие, идеально подойдут для создания уютной атмосферы или праздничного настроения. Один экземпляр позволит вам добавить немного природы в ваш дом или удивить близких оригинальным жестом.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2193/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1478" available="true">
+        <name>хризантема одноголовая белая 1шт</name>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>2</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/458c51b1-33a0-4fed-811c-9dfdd1739584</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/cb5bf60e-3e94-40aa-9ebd-10752cf2610b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/f48ff91c-9563-429d-8c39-34d3680fee75</picture>
+        <description>&lt;p version="2"&gt;Белая хризантема — это элегантный цветок, символизирующий чистоту и невинность. Идеально подходит для украшения интерьера, создания букетов для особых случаев или в качестве подарка для близких. Один цветок может стать прекрасным акцентом в любом пространстве.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1478/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3058" available="true">
+        <name>хризантема кустовая цветная 1шт</name>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>17</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/5e02a342-1577-431a-a2b0-2f22a209e65b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d269d597-25bd-4676-aaf2-a2255a430c88</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1b5ee29b-55f1-4be0-bd5d-591a0050e2d4</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/6b5dd691-721d-4fc5-b394-4f951753702f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d2c6be95-aa4c-4ee0-bd6c-a08a501ee64d</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/71581ac5-1a53-4178-b466-d00e83257de4</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/54b5930f-2215-4f31-bb71-1688a733a3f3</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/e0984b82-ca57-4e36-87db-2ac4ba46c382</picture>
+        <description>&lt;p version="2"&gt;Кустовая хризантема нежно-розового и сиреневого цветов станет прекрасным украшением вашего сада или интерьера. Эти цветы отличаются яркими оттенками и хорошей стойкостью, создавая атмосферу уюта и радости. Подходит для подарков или для создания красивых цветочных композиций. Вы можете использовать эту хризантему как элемент декора или для оформления мероприятий.&lt;br/&gt;при заказе уточните желаемый цвет &lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3058/</url>
+        <param name="Высота, Мм">500</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3058" available="true">
+        <name>хризантема кустовая цветная 1шт</name>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>17</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/5e02a342-1577-431a-a2b0-2f22a209e65b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d269d597-25bd-4676-aaf2-a2255a430c88</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1b5ee29b-55f1-4be0-bd5d-591a0050e2d4</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/6b5dd691-721d-4fc5-b394-4f951753702f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d2c6be95-aa4c-4ee0-bd6c-a08a501ee64d</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/71581ac5-1a53-4178-b466-d00e83257de4</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/54b5930f-2215-4f31-bb71-1688a733a3f3</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/e0984b82-ca57-4e36-87db-2ac4ba46c382</picture>
+        <description>&lt;p version="2"&gt;Кустовая хризантема нежно-розового и сиреневого цветов станет прекрасным украшением вашего сада или интерьера. Эти цветы отличаются яркими оттенками и хорошей стойкостью, создавая атмосферу уюта и радости. Подходит для подарков или для создания красивых цветочных композиций. Вы можете использовать эту хризантему как элемент декора или для оформления мероприятий.&lt;br/&gt;при заказе уточните желаемый цвет &lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3058/</url>
+        <param name="Высота, Мм">500</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1666" available="true">
+        <name>эрингиум / синеголовник 1шт</name>
+        <price>200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>4</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/1f7afaf6-fa41-4392-8583-ba25a585c4d0</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/7c177676-1874-47e4-804b-8527d5ad860f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/a537657f-b804-4bc5-a40c-eea099a02911</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;эрингиум — стойкая травянистая колючка :)&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span&gt;будет стоять у вас вечность! дней через 10−15 можно вытащить их из воды и получатся сухоцветы&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span&gt;экзотические цветы будут шикарно смотреться в моно-букете или композиции для дома или в подарок любителю всего необычного&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1666/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1563" available="true">
+        <name>эвкалипт 1шт</name>
+        <price>140</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>20</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/d17391a7-7a37-4487-991c-2d6dd0227634</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1563/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2019" available="true">
+        <name>эустома белая 1шт</name>
+        <price>560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>13</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/9ee713f0-6889-463e-a785-0ed2baaccf12</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/09c27f84-121e-4b4b-b992-6d6df1e399d4</picture>
+        <description>&lt;p version="2"&gt;Эустома белая – это изящное цветочное растение с нежными белыми лепестками, которое станет прекрасным дополнением к любому букету или оформлению интерьера. Этот цветок символизирует чистоту и элегантность, а его хорошая стойкость делает его идеальным выбором для создания ярких композиций. В упаковке представлена одна штучка.&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2019/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3059" available="true">
+        <name>открытка by Лиза, не плачь! - не плачь, я рядом</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>8</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/bb7621b1-7830-4697-b89d-352f10b5f46f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/77a9a876-0f23-43dd-9c81-07cd9787b512</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/f8741cd9-55c4-4265-8be2-78f380d5f16b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/37cc739d-b66e-496d-bd02-e6e39345f83b</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3059/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">10</param>
+        <param name="Длина, Мм">100</param>
+        <param name="Ширина, Мм">100</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="3060" available="true">
+        <name>открытка by Лиза, не плачь! - с днем рождения</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>13</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/437a4da1-cfe7-44bf-ab4d-730a8d502c0a</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/c82c0f89-2976-453b-bb59-56314aea7788</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/5d7541fb-c028-45dd-af94-2fb0e0eae890</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1dc1e4fa-cdcf-4280-b753-db640b349c9f</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3060/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">10</param>
+        <param name="Длина, Мм">100</param>
+        <param name="Ширина, Мм">100</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="3061" available="true">
+        <name>открытка by Лиза, не плачь! - не плачь не плачь</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>30</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/39865474-610e-46cc-8abe-e96240c81f17</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1a997e20-8333-4853-ae7e-b0aaf2371dd8</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/b2f646cb-ee30-4ebc-b4a9-b012525cc5ff</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/40512133-f8c7-41f5-97fd-bad70bd668db</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3061/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">10</param>
+        <param name="Длина, Мм">100</param>
+        <param name="Ширина, Мм">100</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="3062" available="true">
+        <name>открытка by Лиза, не плачь! - не плачь, пей кофе</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>18</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/d117cf27-939c-4153-9ac1-2d20924a1f27</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/88d730b5-0e76-42a6-9666-10cbf5fb580a</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/02dcd649-0d54-41ca-a569-12248c39dd1b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/553cb958-68db-44a6-877d-0672be9ffe43</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3062/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">10</param>
+        <param name="Длина, Мм">100</param>
+        <param name="Ширина, Мм">100</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="3063" available="true">
+        <name>открытка by Лиза, не плачь! - не плачь, пупски</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>13</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/92c2e3a7-10a8-495f-96a3-0cc72f7290fb</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/a0295349-d1db-4795-99ec-09b5efa9c9c1</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/dc0a9b56-8d95-42a9-908b-4bf828e62477</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/8a86d636-4ef1-4ac8-8f36-bd0b5230a14d</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3063/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">10</param>
+        <param name="Длина, Мм">100</param>
+        <param name="Ширина, Мм">100</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="2997" available="true">
+        <name>открытка by Лиза, не плачь! - don’t cry</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>25</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/743149a5-0d27-4064-b976-6e11acbebb32</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2997/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="2998" available="true">
+        <name>открытка by Лиза, не плачь! - панельки</name>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10334</categoryId>
+        <qty>20</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/bd91a4af-2699-4098-bbbd-c0934c45a200</picture>
+        <description>&lt;p version="2"&gt;открытка от лизы неплачь&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2998/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+        <consist name="Открытка" unit="шт">1</consist>
+      </offer>
+      <offer id="3057" available="true">
+        <name>гвоздика / диантус 1шт</name>
+        <price>210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>83</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/a8e73c9e-730c-4891-ae16-c40b92a2c368</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/ffb836fb-45aa-405b-8750-8a11b55cc071</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/fb1e4b42-b6de-4cd4-a5c1-402f8b6e10c9</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/9a73d98b-1964-43d9-b3e2-5caef53ddea4</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d2676ff4-eecf-4483-9f1c-7de99ab0d846</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/34460359-1bb7-4167-af10-e56730488d7b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/9f5a5d08-c5c8-42b2-80a7-e5864624a15b</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;диантусы — очень стойкие цветы, идеально подойдут для дома&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span&gt;они будут шикарно смотреться в любом количестве: можно поставить одну штучку в тонкую вазу, а можно собрать пышную охапку!&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span&gt;диантусы хорошо сочетаются с розами, пионами, да и по правде говоря, почти со всеми цветами, главное подобрать по цвету:)&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3057/</url>
+        <param name="Высота, Мм">500</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3262" available="true">
+        <name>гвоздика / диантус кустовой</name>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>51</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/5dd3401f-03cf-41d7-9dae-585c108e8ec4</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/3e94e63f-cc22-428a-9bd5-a87d1c1f479c</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/bf3a8641-fb7b-4eb5-acd0-7b3e419dc49d</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3262/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3260" available="true">
+        <name>гортензия белая</name>
+        <price>2520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>1</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/ec2235f7-a167-4e92-9de7-7d9f7349d70e</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/871f6b76-26ce-473b-934a-56d7bae5f2e5</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/83338752-aeb2-463a-a6a3-1947a7f2c211</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3260/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3261" available="true">
+        <name>гортензия голубая</name>
+        <price>1225</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>4</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/1a7dd2da-8421-41f4-b5bb-426b2420f702</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/6ee2e484-1071-401b-bcae-325d95ad788f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/94a1d65e-658c-479c-854f-f2c9d96e7b64</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/a3e67f19-2344-446c-9865-981b38bb15f0</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/dfe75f6b-3416-4c1b-b0e0-f303dcef35cc</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3261/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1480" available="true">
+        <name>гербера 1шт</name>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>8</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/80e58359-92d9-4e79-939b-680fcd0ee13e</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d19391c0-5187-4e3f-81e8-c483a075f3dd</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/1494d390-e22c-4cab-bdbf-59b92adf1414</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/e2ecfdcc-9cea-42e3-a8a1-9423dbabf2bc</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/ae143c0b-df9c-4655-81cc-aa2aecc8b92c</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/884b4ca0-8eb5-4117-a8e1-a30743de321e</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/22f76fae-0f1e-44d7-9706-16e81373eed8</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/58b2dda4-3a17-4ea0-bd65-828a5eeef3e9</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1480/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1482" available="true">
+        <name>лилия 1шт</name>
+        <price>1750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>4</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/daf3985a-9690-4b31-8445-e8494831d6db</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/97e49264-05f3-4f23-8635-20e51dfe27b8</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/0281af84-d8ae-4059-8435-c6600485fddc</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1482/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1477" available="true">
+        <name>орхидея / цимбидиум 1шт</name>
+        <price>675</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>6</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/e7f2e422-ea21-4763-ba10-275626fc3447</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/2cabcdd4-5c0b-4471-bbeb-16957baa9a19</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/b98e59f5-e3df-436b-9416-f78793e66b8b</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1477/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3056" available="true">
+        <name>альстромерия розовая 1шт</name>
+        <price>420</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>27</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/7f21c1d2-ca18-4c54-ac4b-06f8d4dd9f9e</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/2b6781a9-9d8c-43ea-9aa9-bb7a6e997278</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/27bc9700-d88b-4076-b3c2-6f19c843ef32</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/0d13159a-288a-441a-99cb-713439bc443f</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/7b7c58b0-d43f-4103-b66e-96ea78e2fa98</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;альстромерия — очень стойкие и праздничные цветы, подойдут для дома и для подарка&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span&gt;от пяти штук получаются шикарные пышные букетики, также можно составить композицию с розами, пионами, да и по правде говоря, почти со всеми цветами, главное подобрать по цвету:)&lt;br/&gt;&lt;br/&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3056/</url>
+        <param name="Высота, Мм">500</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3167" available="true">
+        <name>хризантема белая кустовая 1шт</name>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>4</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/e651e2a7-0a85-4125-bef6-54467a86511e</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/4d29513d-b894-4a66-a64c-07b6852b2234</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/82ccae16-4187-4298-a13f-b864d5e92bdb</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/c1c73469-e3af-4f2f-8b2f-f524f623ad3b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/f55b47bd-a9be-4f22-a90c-48fa52193ef7</picture>
+        <description>&lt;p version="2"&gt;Представляем вам белую кустовую хризантему – настоящую звезду осеннего сада! Эти нежные цветы не только радуют глаз своим безупречным видом, но и создают атмосферу уюта и тепла в вашем доме. Подарите себе или своим близким частичку природы, которая будет долго радовать своим цветением!&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3167/</url>
+        <param name="Высота, Мм">500</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3180" available="true">
+        <name>хризантема этруско 1шт</name>
+        <price>590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>6</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/2c64df46-375e-4e94-9a07-230a623a6231</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/61cbfffe-779c-4552-8ef4-e403dbbd5a26</picture>
+        <description>&lt;p version="2"&gt;Это свежая пушистая хризантема сорта «Этруско», представленная в упаковке по 1 штуке. Этот красивый цветок станет отличным украшением для вашего дома или офисного пространства. Хризантемы известны своим разнообразием форм и оттенков, а также хорошей стойкостью. Выберите «Этруско» для создания ярких цветочных композиций или использования в букетах для особых случаев.&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3180/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3181" available="true">
+        <name>сантини помпон зеленые</name>
+        <price>395</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>5</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/b9a6c608-d4f2-4025-91eb-cf3c2c62def0</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3181/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3181" available="true">
+        <name>сантини помпон зеленые</name>
+        <price>395</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10172</categoryId>
+        <qty>5</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/b9a6c608-d4f2-4025-91eb-cf3c2c62def0</picture>
+        <description>&lt;p version="2"&gt;пожалуйста, обратите внимание на то, что цветы поштучно мы заворачиваем в крафтовый кулек! если вам нужно оформить букет из цветов поштучно, пожалуйста, добавьте в корзину позицию «упаковка»&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3181/</url>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="4045" available="true">
+        <name>букет с ромашками и кустовой хризантемой</name>
+        <price>4900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10169</categoryId>
+        <picture>https://disk.saby.ru/disk/api/v1/e4176553-22e8-49d4-830e-5eacc5c615ab</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/d7511d05-fad8-4d36-a39a-95579d04a300</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/36e35e69-e5ed-4ca4-b052-8a97a8ec3758</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/6f905609-1147-4e40-8773-8b1bdeef440d</picture>
+        <description>&lt;p version="2"&gt;Представляем вашему вниманию чудесный букет, в котором нежные ромашки встречаются с яркими кустовыми хризантемами! Эти милые белые цветы с желтыми сердцевинами словно приносят с собой солнечное настроение, а хризантемы добавляют ярких акцентов и делают композицию по-настоящему эффектной. Такой букет отлично подойдет как для романтического вечера, так и для дружеской встречи — он способен поднять настроение и вызвать улыбку у любого. Аромат свежих цветов создаст уютную атмосферу, которая будет радовать вас и ваших близких. Подарите этот букет, и вы увидите, как он станет настоящим центром внимания!&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/4045/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <consist name="кустовая хризантема" unit="шт">5</consist>
+        <consist name="ромашка" unit="шт">3</consist>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">200</param>
+        <param name="Ширина, Мм">200</param>
+      </offer>
+      <offer id="4047" available="true">
+        <name>моно букет из гортензий</name>
+        <price>3500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>15793</categoryId>
+        <picture>https://disk.saby.ru/disk/api/v1/cecc9be7-be0f-47a3-a308-3c4e3aaa4061</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/598e51d2-cf92-4a65-8c01-d6b564449118</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/57a2b133-7cb1-4042-9249-9d8b695b9c0b</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/4f296258-5984-473e-a4cb-34bf405cfdf3</picture>
+        <description>&lt;p version="2"&gt;Представьте себе нежный моно букет, в котором главную роль играют роскошные гортензии! Эти цветы словно созданы для того, чтобы добавить яркие акценты в любой интерьер или порадовать близкого человека. Их насыщенные оттенки варьируются от нежно-розового до глубокого синего, что позволяет выбрать букет под любое настроение. Гортензии не только красивы, но и символизируют любовь и благодарность, что делает их идеальным подарком для самых различных случаев. Такой букет будет долго радовать глаз и напоминать о приятных моментах, ведь гортензии обладают удивительной способностью сохранять свежесть. Подарите себе или своим близким этот кусочек природы, и пусть каждый день будет наполнен красотой!&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/4047/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <consist name="гортензия" unit="шт">3</consist>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">200</param>
+        <param name="Ширина, Мм">200</param>
+      </offer>
+      <offer id="4049" available="true">
+        <name>моно букет из 11 альстромерий</name>
+        <price>5040</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>15793</categoryId>
+        <picture>https://disk.saby.ru/disk/api/v1/a4b1893c-be77-4505-a8f2-81445cdf49c3</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/441c03b5-554d-43b8-a0b4-229a32da6684</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/ba44d89b-f20e-46e9-a493-89dedfcfce85</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/643c4382-0d01-43d8-8196-fc9394cbf69d</picture>
+        <picture>https://disk.saby.ru/disk/api/v1/74dc9177-79cd-47cf-b33a-cc1cafb7aeb1</picture>
+        <description>&lt;p version="2"&gt;Представьте себе яркий и жизнерадостный моно букет из 11 альстромерий — идеальный способ украсить любой день! Эти цветы, как маленькие солнечные лучики, радуют глаз своей насыщенной палитрой: от нежных пастельных до ярких, насыщенных оттенков. Каждый цветок словно говорит: &amp;quot;Жизнь прекрасна!&amp;quot;, и создает атмосферу тепла и уюта. Альстромерии не только красивы, но и долговечны — они будут радовать вас своим великолепием долго после того, как окажутся в вазе. Такой букет отлично подойдет как для подарка, так и для создания настроения в вашем доме. Подарите себе или близким немного радости с этим удивительным цветочным шедевром!&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/4049/</url>
+        <consist name="Упаковка" unit="шт">1</consist>
+        <consist name="альстромерия" unit="шт">11</consist>
+        <consist name="сухоцвет" unit="шт">3</consist>
+        <param name="Высота, Мм">400</param>
+        <param name="Длина, Мм">200</param>
+        <param name="Ширина, Мм">200</param>
+      </offer>
+      <offer id="2217" available="true">
+        <name>печенье шоколадное</name>
+        <price>330</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>23</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/56570800-0169-4c29-b6a2-9b7b369c0283</picture>
+        <description>
+        </description>
+        <url>https://rest.saby.ru/page/nomenclature/2217/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3327" available="true">
+        <name>печенье клюква белый шоколад</name>
+        <price>330</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>31</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/33850dd8-930e-48da-8d7b-89d14e4c144a</picture>
+        <description>
+        </description>
+        <url>https://rest.saby.ru/page/nomenclature/3327/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="313" available="true">
+        <name>тарт миндальный как в икеа</name>
+        <price>625</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17267</categoryId>
+        <qty>13</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/d553d8a1-4696-4cf0-a6cb-02eb2941039a</picture>
+        <description>&lt;p version="2"&gt;Коржи из миндальной муки с сочной прослойкой из сливочного крема с амаретто. Сверху глазурь из молочного шоколада с рубленной ореховой карамелью. Тот самый миндальный тарт Daim по шведскому рецепту&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/313/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="314" available="true">
+        <name>торт медовик</name>
+        <price>555</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17267</categoryId>
+        <qty>17</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/91f009c6-7594-44db-93d9-47bd5154fd87</picture>
+        <description>&lt;p version="2"&gt;Сахар, сливочное масло, мед, разрыхлитель, яйцо куриное, мука пшеничная, крахмал. Очень мягкий нежный торт, как из детства!&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/314/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2668" available="true">
+        <name>чизкейк классический</name>
+        <price>595</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17267</categoryId>
+        <qty>18</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/c189001c-8da9-4e79-b52b-dd3692f10427</picture>
+        <description>&lt;p version="2"&gt;&lt;span style="text-align: justify;"&gt;вкуснейший чизкейк, который будет идеальным дополнением к чашке кофе :)&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2668/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3950" available="true">
+        <name>торт брусничный с белым шоколадом</name>
+        <price>555</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17267</categoryId>
+        <qty>14</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/92ba7a24-3bb8-4b38-8c20-24ffa7a84136</picture>
+        <description>&lt;p version="2"&gt;этот торт — не просто десерт, а настоящее произведение искусства, способное украсить любое торжество.&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3950/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="4015" available="true">
+        <name>вишневый пирог</name>
+        <price>465</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17267</categoryId>
+        <qty>6</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/65c6a2bd-6380-4893-927b-a52b95996ff9</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;это кусочек счастья, заключённый в хрустящей корочке, где спелые вишни словно танцуют, наполняя каждый укус сладким и слегка кисловатым наслаждением.&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/4015/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="509" available="true">
+        <name>вафля птичье молоко</name>
+        <price>315</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17267</categoryId>
+        <qty>7</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/c2c0354e-6318-415b-a69b-ea2b7ebefe99</picture>
+        <description>&lt;p version="2"&gt;напоминает по вкусу знаменитый десерт. она обладает тонким сладким вкусом и мягкой текстурой, что делает её идеальным лакомством к чаю или кофе.&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/509/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1632" available="true">
+        <name>вупи банановый с соленой карамелью</name>
+        <price>630</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>11</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/a96af787-92c4-42f1-a730-f69a16c72300</picture>
+        <description>&lt;p version="2"&gt;Баноффи в формате пирожного сэндвича с прослойкой из карамельного крем-чиза и начинкой из бананов с солёной карамелью. Сверху премиум глазурь из молочного шоколада. Очень вкусный и нежный десерт! сахар, масло сладкосливочное несолёное м. Д. ж. 82,5%, яичный порошок, мука пшеничная в/с, маргарин, творожный сыр, сливки м. Д. ж. 33%, сахарная пудра, лимонный сок, банан свежий, вода, молоко цельное м. Д. ж. 3,2%, глюкозный сироп, белый шоколад, молочный шоколад, масло растительное подсолнечное, соль, пищевой краситель&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1632/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1633" available="true">
+        <name>вупи малиновый в белом шоколаде</name>
+        <price>630</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>10</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/b6a360f9-483d-41ff-936e-b2c221941b39</picture>
+        <description>&lt;p version="2"&gt;Пирожное-сэндвич из шоколадного брауни с прослойкой из крем-чиза и начинкой из малинового пюре. Сверху шоколад и сублимированная клубничка&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1633/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1634" available="true">
+        <name>вупи с варенкой и миндалем</name>
+        <price>630</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>11</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/aecc74af-4389-45d6-8f91-91463654d6ea</picture>
+        <description>&lt;p version="2"&gt;Пирожное-сэндвич из шоколадного брауни с прослойкой из крем-чиза и начинкой из варёной сгущёнки. Сверху шоколадная глазурь и рубленый хрустящий миндаль&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1634/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1213" available="true">
+        <name>вупи лимонный с меренгой</name>
+        <price>630</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>9</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/2bd76199-9bd9-4c11-b0eb-e268ce020551</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;Печенье-сэндвич с прослойкой из крем-чиза и начинкой из сочных лимонов с приятной кислинкой. Сверху премиум глазурь из белого шоколада и крошка из меренги.&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1213/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="1086" available="true">
+        <name>вупи матча</name>
+        <price>630</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17268</categoryId>
+        <qty>9</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/e995d02b-0043-477a-9e36-69d2690cf8cc</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;Печенье-сэндвич из шоколадного брауни в мини-формате. С прослойкой из крем-чиза и начинкой из сливочного крема с матчей. Сверху премиум глазурь из белого шоколада + шоколадная крошка.&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/1086/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="463" available="true">
+        <name>ириска с гималайской солью</name>
+        <price>145</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17322</categoryId>
+        <qty>17</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/14d70c86-0192-4ce3-94ef-2bd6be6f312a</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;сахар, сливочное масло, сливки, лимон, питьевая вода, соль розовая гималайская, сироп сорбитола&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/463/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="2570" available="true">
+        <name>конфеты коко медовые double</name>
+        <price>135</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17322</categoryId>
+        <qty>6</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/369d8041-7af7-4dc0-90d9-6a85e10acf87</picture>
+        <description>&lt;p version="2"&gt;отличное дополнение к чаепитию :)&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/2570/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3883" available="true">
+        <name>ириска грецкий орех/розмарин</name>
+        <price>145</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17322</categoryId>
+        <qty>24</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/93794cbe-ab4a-4668-b2ed-e9e79067abd7</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;Сахар, сливочное масло 82,5%, сливки 33%, лимон, питьевая вода, грецкий орех, розмарин, сироп сорбитола.&lt;br/&gt;398ккал (1671кДж) на 100 грамм продукта,  б.- 2.2., ж -22.5г., у-47г&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3883/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
+      <offer id="3885" available="true">
+        <name>ириска кофейная</name>
+        <price>145</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>17322</categoryId>
+        <qty>28</qty>
+        <picture>https://disk.saby.ru/disk/api/v1/426ed76f-3625-4e6a-8c6b-16a5799f9cdf</picture>
+        <description>&lt;p version="2"&gt;&lt;span&gt;Сахар, сливочное масло 82,5%, сливки 33%, лимон, питьевая вода, свежеобжаренный молотый кофе, сироп сорбитола.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;377ккал (1549кДж) на 100 грамм продукта, б-1.3г., ж-17г., у-53г&lt;/span&gt;&lt;/p&gt;</description>
+        <url>https://rest.saby.ru/page/nomenclature/3885/</url>
+        <param name="Высота, Мм">50</param>
+        <param name="Длина, Мм">50</param>
+        <param name="Ширина, Мм">50</param>
+      </offer>
     </offers>
+    <name>не плачь, пей кофе</name>
+    <company>ИП Зиновьев</company>
+    <url>https://sabyget.ru/shop/neplach_coffee_kk</url>
+    <platform>СБИС</platform>
+    <version>3</version>
   </shop>
 </yml_catalog>
-
-
-
-
-
-
-
-
-
-
-
-
-
