@@ -20,7 +20,6 @@
                 <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
             </offer>
-            </offer>
-        </offers>
+         </offers>
     </shop>
 </yml_catalog>
