@@ -20,24 +20,12 @@
                 <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
-<qty>1</qty>
-            </offer>
- <offer id="1005" available="true">
-                <categoryId>2</categoryId> <!-- form['range_type_id'] -->
-                <price>33</price><!-- form['cost'] -->
-                <name>Роза красная мимниальный в новой категории</name> <!-- form['name'] -->
-                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
-                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-<qty>1</qty>
+<consist name="роза" unit="гр">1</consist>
             </offer>
          </offers>
     </shop>
 </yml_catalog>
+
 
 
 
