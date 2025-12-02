@@ -20,11 +20,11 @@
                 <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
-<consist name="роза" unit="гр">1</consist>
             </offer>
          </offers>
     </shop>
 </yml_catalog>
+
 
 
 
