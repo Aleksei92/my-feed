@@ -19,6 +19,7 @@
                 <param name="Высота, мм">100</param> 
                 <param name="Ширина, мм">100</param> 
 				<consist name="роза" unit="шт">1</consist>
+<qty>100</qty>
             </offer>
          </offers>
     </shop>
