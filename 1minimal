@@ -18,7 +18,7 @@
 <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
                 <param name="Высота, мм">100</param> 
                 <param name="Ширина, мм">100</param> 
-				<consist name="роза" unit="шт">1</consist>
+				<consist name="роза" unit="шт">1</consist> 
             </offer>
          </offers>
     </shop>
