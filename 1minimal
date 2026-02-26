@@ -5,10 +5,10 @@
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="1">"Цветы"</category>
+            <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="222d4" available="true">
+            <offer id="2224" available="true">
                 <categoryId>1</categoryId> 
                 <price>220</price>
                 <name>Роза красная мимниальный фид</name> 
