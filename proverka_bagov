@@ -1,29 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-01-20T12:00:00+03:00">
-    <shop>
-        <name>Флоувоу минимальный магазин</name>
-        <company>ООО Флоувоу</company>
-        <url>https://flowwow.loc</url>
-        <categories>
-            <category id="1">Цветы</category>
-<category id="2">Цветыс</category>
-        </categories>
-        <offers>
-            <offer id="1004" available="true">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>20</price><!-- form['cost'] -->
-                <name>Роза красная мимниальный</name> <!-- form['name'] -->
-                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
-                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-            </offer>
-         </offers>
-    </shop>
+<yml_catalog date="Wed, 04 Mar 2026 03:16:00 +0500">
+  <shop>
+    <name>ZakazBuketov</name>
+    <company>ZakazBuketov</company>
+    <url>https://flowwow.kz/shop/zakazbuketovf-5643/?from=search</url>
+    <platform>Flowwow</platform>
+
+    <categories>
+      <category id="69a046c47db63351c64739d7">Цветы</category>
+      <category id="69a046d17db63351c64739ee">Монобукеты</category>
+    </categories>
+
+    <offers>
+
+      <offer id="330189967" available="true">
+
+        <price>53600</price>
+
+        <name>Букет "25 роз и эвкалипт"</name>
+        <model>Букет "25 роз и эвкалипт"</model>
+
+        <vendor>ZakazBuketov</vendor>
+        <country_of_origin>Казахстан</country_of_origin>
+
+        <description>Букет "25 роз и эвкалипт"</description>
+
+        <categoryId>69a046d17db63351c64739ee</categoryId>
+
+        <param name="Диаметр, см">60</param>
+        <param name="Высота, см">60</param>
+        <param name="Ширина, см">40</param>
+
+        <picture>https://admin.ministryofflowers.net/api/ss/2/public/file/6981c4a337ab4d75775a847e</picture>
+
+        <consist name="Роза 60 см (Голландия)" unit="шт">25</consist>
+        <consist name="Эвкалипт (Голландия)" unit="шт">1</consist>
+      </offer>
+
+      <offer id="330189968" available="true">
+
+        <price>53600</price>
+
+        <name>Букет "25 роз Hermosa"</name>
+        <model>Букет "25 роз Hermosa"</model>
+
+        <vendor>ZakazBuketov</vendor>
+        <country_of_origin>Казахстан</country_of_origin>
+
+        <description>Букет "25 роз Hermosa"</description>
+
+        <categoryId>69a046d17db63351c64739ee</categoryId>
+
+        <param name="Диаметр, см">60</param>
+        <param name="Высота, см">60</param>
+        <param name="Ширина, см">40</param>
+
+        <picture>https://admin.ministryofflowers.net/api/ss/2/public/file/6981c44537ab4d75775a8438</picture>
+
+        <consist name="Роза 60 см (Голландия)" unit="шт">25</consist>
+        <consist name="Эвкалипт (Голландия)" unit="шт">1</consist>
+      </offer>
+
+    </offers>
+  </shop>
 </yml_catalog>
+
 
 
 
