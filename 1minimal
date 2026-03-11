@@ -8,22 +8,16 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="2216" available="true">
-      <name>круассан ветчина и сыр</name>
-      <currencyId>RUR</currencyId>
-      <price>220</price>
-      <oldprice>261</oldprice>
-      <weight>0.105</weight>
-      <categoryId>1</categoryId>
-      <qty>15</qty>
-      <picture>https://disk.saby.ru/disk/api/v1/b2948d4a-7a4d-4f40-be68-18912b7da181</picture>
-      <description>&lt;p&gt;выпекаем сами! хрустящая корочка скрывает мягкую начинку из нежной ветчины и расплавленного сыра. такой круассан — чудесный выбор к любому напитку
-состав: классический круассан, сыр, ветчина&lt;/p&gt;</description>
-      <url>https://rest.saby.ru/page/nomenclature/2216/</url>
-      <param name="Высота, Мм">50</param>
-      <param name="Длина, Мм">50</param>
-      <param name="Ширина, Мм">50</param>
-    </offer>
+            <offer id="1" available="true">
+				<categoryId>1</categoryId>
+				<price>1500</price>
+				<name>Цветы 1</name>
+				<description>Классический букет из 5 роз минимал</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+			</offer>
          </offers>
     </shop>
 </yml_catalog>
