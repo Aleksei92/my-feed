@@ -8,18 +8,22 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="222442" available="true">
-                <categoryId>1</categoryId> 
-                <price>220</price>
-                <name>Роза красная через импорт1</name> 
-                <description>Красивая красная роза прекрасная великолепная и хорошая</description> 
-<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <param name="Высота, мм">100</param> 
-                <param name="Ширина, мм">100</param> 
-				<consist name="роза" unit="шт">1</consist> 
-<qty>100</qty>
-            </offer>
+            <offer id="2216" available="true">
+      <name>круассан ветчина и сыр</name>
+      <currencyId>RUR</currencyId>
+      <price>220</price>
+      <oldprice>261</oldprice>
+      <weight>0.105</weight>
+      <categoryId>1</categoryId>
+      <qty>15</qty>
+      <picture>https://disk.saby.ru/disk/api/v1/b2948d4a-7a4d-4f40-be68-18912b7da181</picture>
+      <description>&lt;p&gt;выпекаем сами! хрустящая корочка скрывает мягкую начинку из нежной ветчины и расплавленного сыра. такой круассан — чудесный выбор к любому напитку
+состав: классический круассан, сыр, ветчина&lt;/p&gt;</description>
+      <url>https://rest.saby.ru/page/nomenclature/2216/</url>
+      <param name="Высота, Мм">50</param>
+      <param name="Длина, Мм">50</param>
+      <param name="Ширина, Мм">50</param>
+    </offer>
          </offers>
     </shop>
 </yml_catalog>
