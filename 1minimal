@@ -8,16 +8,15 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="1" available="true">
+            <offer id="123456789" available="true">
 				<categoryId>1</categoryId>
 				<price>1500</price>
-				<name>Цветы 1минимальные поля</name>
+				<name>Цветы 1минимальные поля1</name>
 				<description>Классический букет из 5 роз минимальные поля</description>
 				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
-<qty>100</qty>
 			</offer>
          </offers>
     </shop>
