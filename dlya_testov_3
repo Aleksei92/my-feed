@@ -3,24 +3,21 @@
     <shop>
         <name>Флоувоу минимальный магазин</name>
         <company>ООО Флоувоу</company>
-        <url>https://наборподарков.рф</url>
+        <url>https://flowwow.loc</url>
         <categories>
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="1004" available="true">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>1000</price> <!-- form['cost'] -->
-                <name>Роза красная</name> <!-- form['name'] -->
-                <description>Красивая красная роза</description> <!-- form['description'] -->
-<picture>https://lh3.googleusercontent.com/d/1b6sFjBiz4Jv4bhPQU6aVcpak_yHI6Y5W</picture>
-<picture>https://lh3.googleusercontent.com/d/18n_SJLhaal-2865v-I6wCn-lbg6GPblg</picture>
-<picture>https://lh3.googleusercontent.com/d/1pPY54Tvna1_bWW0o3Bwniu8P1xVJhqAR</picture>
-<picture>https://lh3.googleusercontent.com/d/1zoDHNIUUYVNifL2t1PObzCYyY0HfMHdz</picture>
-                <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-            </offer>
-        </offers>
+            <offer id="1234567859" available="true">
+				<categoryId>1</categoryId>
+				<price>1500</price>
+				<name>Цветы 1минимальные поля12 тесты время изготовления и наличие</name>
+				<description>Классический букет из 5 роз минимальные поля</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+			</offer>
+         </offers>
     </shop>
 </yml_catalog>
