@@ -26,7 +26,6 @@
 <param name="ширина, мм">100</param>
 <param name="длина, мм">150</param>
 <param name="высота, мм">20</param>
-<param name="Вес, кг">0,1</param>
 <picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6938137572.jpg</picture>
 <picture>https://cdn1.ozone.ru/s3/multimedia-1-7/6938137483.jpg</picture>
 <picture>https://cdn1.ozone.ru/s3/multimedia-1-d/6938137525.jpg</picture>
@@ -39,9 +38,6 @@
 <vendor>Роскошные КАМНИ</vendor>
 <vendorCode>Янтарный Бр/Классика 10</vendorCode>
 <weight>0,1</weight>
-<width>100</width>
-<length>150</length>
-<height>20</height>
 </offer>
 </offers>
 </shop>
