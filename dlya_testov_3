@@ -1,32 +1,2073 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-15T08:18:44+02:00">
-    <shop>
-        <name>Мастер-фид для всех категорий</name>
-        <company>ООО Тест</company>
-        <url>https://flowwow.loc</url>
-
-        <categories>
-            <category id="9">Съедобные букеты 22</category>
-            <category id="10">Съедобные букеты 112 из клубники</category>
-        </categories>
-
-        <offers>
-            <offer id="9" available="true">
-                <categoryId>9</categoryId>
-                <name>Съедобные букеты 22</name>
-                <price>2500</price>
-                <description>Букет из свежих фруктов</description>
-                <picture>https://cdn.pixabay.com/photo/2016/11/29/18/25/running-shoes-1871261_1280.jpg</picture>
-
-                <consist name="клубника" unit="шт">10</consist>
-                <consist name="яблоко" unit="шт">2</consist>
-
-                <param name="Высота, мм">250</param>
-                <param name="Ширина, мм">200</param>
-
-                <qty>100</qty>
-            </offer>
-        </offers>
-
-    </shop>
+<yml_catalog date="2026-03-31T21:26">
+<shop>
+<adult>false</adult>
+<categories>
+<category id="208" parentId="43">Браслеты</category>
+<category id="43">Украшения</category>
+<category id="207" parentId="43">Колье и Бусы</category>
+<category id="278" parentId="43">Серьги</category>
+</categories>
+<company>ИП Калашникова М. А.</company>
+<currencies>
+<currency id="RUB"/>
+</currencies>
+<name>Роскошные КАМНИ</name>
+<platform>WordPress - YML for Yandex Market</platform>
+<url>https://rkamni.ru/</url>
+<version>6.9.4</version>
+<offers>
+<offer id="1444355776" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет янтарный - это изысканное и уникальное украшение, созданное из натурального янтаря. Янтарь - это камень, который имеет уникальный светло-желтый оттенок и иногда содержит в себе небольшие включения. Браслет из натурального реструктурированного янтаря дарит своей обладательнице особую энергию и помогает укрепить душевное и физическое здоровье. <br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Вес –  12 г (Камни от 60 карат).           <br/><br/>Средний диаметр бусин – 10 мм.<br/><br/>Этот браслет является идеальным выбором для женщин, которые ценят натуральность и красоту.<br/><br/>Браслет янтарный станет элегантным дополнением к любому наряду. Он прекрасно сочетается с платьями, блузками и даже повседневными образами. Браслет женский на руку подчеркнет индивидуальность и утонченность стиля своей владелицы. Это украшение не только привлекает внимание окружающих, но и придает уверенность и изысканность образу.<br/><br/> Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Янтарный Бр/Классика 10</model>
+<name>Браслет янтарный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6938137572.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-7/6938137483.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/6938137525.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/6938137490.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-r/6938137539.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-k/6938137568.jpg</picture>
+<price>2090</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1444355776</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Янтарный Бр/Классика 10</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1343007738" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам этот восхитительный классический браслет, сделанный из натуральных камней малахита. Этот уникальный аксессуар будет привлекать внимание окружающих своей изысканностью и стильным дизайном.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 16 г.<br/><br/>Диаметр бусин – 8-10 мм.<br/><br/>Камень малахита имеет яркую зеленую окраску, которая символизирует природу и жизненную силу. Он считается камнем гармонии и благополучия, который помогает обладателю найти равновесие и укрепить свою энергию. Малахит также ассоциируется с развитием интуиции и способностей к общению.<br/><br/>Браслет не только олицетворяет силу и энергию, но и подчеркивает ваш индивидуальный стиль, придавая ему загадочности и утонченности.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Мхт/15-17</model>
+<name>Браслет из малахитов / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6708785419.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6708785413.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6708785435.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6708785423.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-o/6708785424.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6736340778.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6736340780.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-o/6736340724.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1343007738</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Мхт/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1387290862" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натурального прессованного малахита с вставкой из деклассированных изумрудов. Украшение очень стильное и рискует стать вашим любимым!<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер бусин малахита - 8 мм.<br/><br/>Размер вставки из натурального изумруда - 10 мм.<br/><br/>Выполнен на резинке.<br/><br/>Размер изделия 18-20 см.<br/><br/>Считается, что малахит, являясь оберегом, обеспечивает защиту от негативного внешнего воздействия. Энергетически сильное украшение. Замечательный подарок для близкого человека. Мы индивидуально подходим к созданию каждого украшения, все браслеты ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/>Дополнительно к браслету можно приобрести колье из малахитов с изумрудной вставкой.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Мхт/Изм/15-17</model>
+<name>Браслет малахит изумруд деклассированный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6758385926.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6758385927.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6758385929.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6758385925.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1387290862</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Мхт/Изм/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1353329281" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натуральных камней горного хрусталя, выполненный ВРУЧНУЮ станет вашим любимым украшением.<br/><br/>Профессиональная огранка камней.<br/><br/>ЭКСКЛЮЗИВ! Только в магазине Роскошные КАМНИ.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ. РУЧНОЕ ПЛЕТЕНИЕ.<br/><br/>Длина изделия увеличивается на 5 см за счет регулирующей длину цепочки).<br/><br/>Камни в браслете от 25,2 карат ( ct. )<br/><br/>Профессиональная огранка камней добавляет благородства внешнему виду женского браслетика.<br/><br/>Минерал горный хрусталь помогает очистить мысли и физическое тело, убрать тревожность и ночные кошмары. В качестве талисмана для женщин камушек привлекает в жизнь своего владельца удачу и благополучие, взаимную любовь и постоянство в отношениях. Мы индивидуально подходим к созданию каждого украшения, все изделия ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/>Дополнительно к браслету можно приобрести колье из натуральных камней горного хрусталя. )артикул 940456864).<br/><br/> Всего лишь необходимо кликнуть на бренд и Вам откроется новый мир украшений, включающий в себя: бижутерию, чокеры, браслеты, бусы, ожерелья, колье, броши, подвески, кулоны, амулеты и яркие серьги.<br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Алмаз БрГХр/16+5</model>
+<name>Браслет из Горного Хрусталя / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/7856740121.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/7856740185.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7856740198.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6639789925.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6639789922.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6639789919.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6639789926.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-0/6639789924.jpg</picture>
+<price>1090</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1353329281</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Алмаз БрГХр/16+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="940456864" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ», Бусы или колье - чокер из натурального горного хрусталя.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес –  от 13 г . (Камни от 65 карат). <br/><br/>Средний диаметр бусин: Горный хрусталь - 4-4,5 мм.<br/><br/>Замок - карабин, выполнен из гипоаллергенного ювелирного сплава.<br/><br/>Минерал горный хрусталь помогает очистить мысли и физическое тело, убрать тревожность и ночные кошмары. В качестве талисмана для женщин камушек привлекает в жизнь своего владельца удачу и благополучие, взаимную любовь и постоянство в отношениях. Колье из натуральных камней станет отличным подарком для тех, кто умеет ценить изящные украшения. Отлично подойдет, как к повседневному образу, так и к любому поводу. Колье подойдет для любого возраста. Яркое бижутерное колье обладает яркой притягательность. и способен создать романтичное и игривое настроение. Все наши бусы выполнены вручную по авторскому дизайну.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Алмаз БГхр/ 40+5</model>
+<name>Бусы из горного хрусталя / Колье из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7856732680.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7856732765.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-m/7856732794.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6528390502.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6528390425.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6528390436.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6528390442.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6528390429.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6528390441.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6528390424.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6528390438.jpg</picture>
+<price>2300</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=940456864</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Алмаз БГхр/ 40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="940444732" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ», Бусы или колье - чокер из натурального горного хрусталя.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес –  от 13 г . (Камни от 65 карат). <br/><br/>Средний диаметр бусин: Горный хрусталь - 4-4,5 мм.<br/><br/>Замок - карабин, выполнен из гипоаллергенного ювелирного сплава.<br/><br/>Минерал горный хрусталь помогает очистить мысли и физическое тело, убрать тревожность и ночные кошмары. В качестве талисмана для женщин камушек привлекает в жизнь своего владельца удачу и благополучие, взаимную любовь и постоянство в отношениях. Колье из натуральных камней станет отличным подарком для тех, кто умеет ценить изящные украшения. Отлично подойдет, как к повседневному образу, так и к любому поводу. Колье подойдет для любого возраста. Яркое бижутерное колье обладает яркой притягательность. и способен создать романтичное и игривое настроение. Все наши бусы выполнены вручную по авторскому дизайну.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Алмаз БГХр / 45+5</model>
+<name>Бусы из горного хрусталя / Колье из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7856732680.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7856732765.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-m/7856732794.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6528390502.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6528390425.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6528390436.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6528390442.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6528390429.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6528390441.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6528390424.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6528390438.jpg</picture>
+<price>2600</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=940444732</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Алмаз БГХр / 45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1354327852" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам этот восхитительный классический браслет, сделанный из натуральных камней малахита и лавы. Этот уникальный аксессуар будет привлекать внимание окружающих своей изысканностью и стильным дизайном.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/> (браслет на резинке).<br/><br/>Вес – 16 г.<br/><br/>Диаметр бусин – 8-10 мм.<br/><br/>Камень малахита имеет яркую зеленую окраску, которая символизирует природу и жизненную силу. Он считается камнем гармонии и благополучия, который помогает обладателю найти равновесие и укрепить свою энергию. Малахит также ассоциируется с развитием интуиции и способностей к общению.<br/><br/>Камень лавы привносит в этот браслет структуру и силу. Черный цвет лавы символизирует силу, защиту и уравновешенность. Лава также считается камнем, который помогает преодолевать трудности и переживать сильные эмоции.<br/><br/>Сочетание малахита и лавы в этом браслете создает потрясающую гармонию жизненных сил и стабильности. Браслет не только олицетворяет силу и энергию, но и подчеркивает ваш индивидуальный стиль, придавая ему загадочности и утонченности.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр МхтЛава/18-20</model>
+<name>Браслет из малахита и лавы / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6708785503.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6708785504.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6708785501.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6708785502.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6708785500.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6736339837.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-7/6736339951.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6736339945.jpg</picture>
+<price>1020</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1354327852</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр МхтЛава/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1410975699" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натуральных камней горного хрусталя, выполненный ВРУЧНУЮ станет вашим любимым украшением.<br/><br/>Профессиональная огранка камней.<br/><br/>ЭКСКЛЮЗИВ! Только в магазине Роскошные КАМНИ.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ. РУЧНОЕ ПЛЕТЕНИЕ.<br/><br/>Длина изделия увеличивается на 5 см за счет регулирующей длину цепочки).<br/><br/>Камни в браслете от 25,2 карат ( ct. )<br/><br/>Профессиональная огранка камней добавляет благородства внешнему виду женского браслетика.<br/><br/>Минерал горный хрусталь помогает очистить мысли и физическое тело, убрать тревожность и ночные кошмары. В качестве талисмана для женщин камушек привлекает в жизнь своего владельца удачу и благополучие, взаимную любовь и постоянство в отношениях. Мы индивидуально подходим к созданию каждого украшения, все изделия ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/>Дополнительно к браслету можно приобрести колье из натуральных камней горного хрусталя. )артикул 940456864).<br/><br/> Всего лишь необходимо кликнуть на бренд и Вам откроется новый мир украшений, включающий в себя: бижутерию, чокеры, браслеты, бусы, ожерелья, колье, броши, подвески, кулоны, амулеты и яркие серьги.<br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Алмаз БрГХр/15+5</model>
+<name>Браслет из Горного Хрусталя / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/7856740121.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/7856740185.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7856740198.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6639789925.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6639789922.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6639789919.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6639789926.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-0/6639789924.jpg</picture>
+<price>1090</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1410975699</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Алмаз БрГХр/15+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1258788493" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет из натуральных деклассированных изумрудов - волшебная роскошь для вашего запястья.<br/><br/>Изысканное сочетание изумрудов создает удивительное излучение, привлекающее восхищенные взгляды. Изумруды - это не просто камни, они обладают особым магическим эффектом, который превращает этот браслет в настоящую амулет для богатства и успеха. Известно, что изумруды являются символом процветания и обладают способностью притягивать финансовое благополучие. Они оберегают своего владельца от неблагоприятной энергии и привлекают удачу и успех в делах. Более того, эти камни способны поддерживать энергетическое равновесие организма, снимать напряжение и улучшать общее самочувствие.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!               <br/><br/>Вес - от 20 гр. Камни - от 103 карат.<br/><br/>Диаметр бусин – 10 мм (грань).<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>НА БОГАТСТВО/Изумруд/15-17</model>
+<name>Браслет изумруд деклассированный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6813885433.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-b/6813885431.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6813885429.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6813885432.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-m/6813885442.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6813885439.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6813885438.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6813885437.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6743610879.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>1200</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1258788493</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>НА БОГАТСТВО/Изумруд/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1257676288" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет из натуральных деклассированных изумрудов - волшебная роскошь для вашего запястья.<br/><br/>Изысканное сочетание изумрудов создает удивительное излучение, привлекающее восхищенные взгляды. Изумруды - это не просто камни, они обладают особым магическим эффектом, который превращает этот браслет в настоящую амулет для богатства и успеха. Известно, что изумруды являются символом процветания и обладают способностью притягивать финансовое благополучие. Они оберегают своего владельца от неблагоприятной энергии и привлекают удачу и успех в делах. Более того, эти камни способны поддерживать энергетическое равновесие организма, снимать напряжение и улучшать общее самочувствие.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!               <br/><br/>Вес - от 20 гр. Камни - от 103 карат.<br/><br/>Диаметр бусин – 10 мм (грань).<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>НА БОГАТСТВО/Изумруд/18-20</model>
+<name>Браслет изумруд деклассированный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6813885433.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-b/6813885431.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6813885429.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6813885432.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-m/6813885442.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6813885439.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6813885438.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6813885437.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6743610879.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>1200</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1257676288</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>НА БОГАТСТВО/Изумруд/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1340456928" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Привнесите немного волшебства в свою жизнь с этим удивительным браслетом "Настроение", выполненным из натуральных облагороженных малахитов и деклассированных изумрудов. <br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет выполнен на резинке.<br/><br/>Вес –  24 г (120 карат).                              <br/><br/>Средний диаметр бусин – 10 мм.<br/><br/>Малахит издревле считается камнем силы и богатства, его магия способна привлечь процветание и удачу. Изумруд, в свою очередь, обладает защитными свойствами и способен привлечь любовь и гармонию. <br/><br/>Объединившись в этом браслете, эти камни создают мощное сочетание для привлечения успеха и уравновешивания энергии. Носите этот браслет каждый день, чтобы насладиться всей его магией и привлечь в свою жизнь новые возможности и радостные события.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Настроение бр/ИзМхт/20-22</model>
+<name>Браслет из малахитов с изумрудами дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6860963418.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6860963985.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6860963405.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6860963413.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6860963406.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6860963408.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6860963414.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-0/6851751480.jpg</picture>
+<price>790</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1340456928</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Настроение бр/ИзМхт/20-22</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1388447396" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам великолепный Базовый браслет из натуральных амазонитов – это идеальный аксессуар, который подойдет под любой стиль и подчеркнет вашу индивидуальность.<br/><br/>Размер браслета составляет 15-17 см на резинке, обеспечивая комфортную посадку на запястье. Камни амазониты в этом браслете имеют размеры от 8 до 10 мм, добавляя ему выразительности и элегантности. Вес украшения - от 17 грамм, придавая ему легкость и удобство при ношении.<br/><br/>Камни - от 86 карат.<br/><br/>Амазониты - это камни спокойствия и благополучия. Они обладают успокаивающими свойствами, способствуют укреплению духовного здоровья и гармонии в отношениях. Помимо своих магических свойств, амазониты также считаются камнями привлечения общественного успеха и богатства. За счет своей неповторимой энергии, амазониты могут помочь вам достичь внутреннего равновесия и стабильности во всех сферах жизни. Дарите себе или своим близким это изящное украшение, которое станет символом спокойствия, защиты и процветания.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>БАЗОВЫЙ бр АМЗТ/15-17</model>
+<name>Браслет из амазонитов / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6814852378.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6814852384.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6814852374.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6814852376.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6814852382.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6814852377.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-5/6814852385.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6814852379.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6743610879.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1388447396</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>БАЗОВЫЙ бр АМЗТ/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1259454361" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам великолепный Базовый браслет из натуральных амазонитов – это идеальный аксессуар, который подойдет под любой стиль и подчеркнет вашу индивидуальность. <br/><br/>Размер браслета составляет 17-20 см на резинке, обеспечивая комфортную посадку на запястье. Камни амазониты в этом браслете имеют размеры от 8 до 10 мм, добавляя ему выразительности и элегантности. Вес украшения - от 17 грамм, придавая ему легкость и удобство при ношении. <br/><br/>Камни - от 86 карат. <br/><br/>Амазониты - это камни спокойствия и благополучия. Они обладают успокаивающими свойствами, способствуют укреплению духовного здоровья и гармонии в отношениях. Помимо своих магических свойств, амазониты также считаются камнями привлечения общественного успеха и богатства. За счет своей неповторимой энергии, амазониты могут помочь вам достичь внутреннего равновесия и стабильности во всех сферах жизни. Дарите себе или своим близким это изящное украшение, которое станет символом спокойствия, защиты и процветания. <br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>БАЗОВЫЙ бр АМЗТ/18-20</model>
+<name>Браслет из амазонитов / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6814852378.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6814852384.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6814852374.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6814852376.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6814852382.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6814852377.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-5/6814852385.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6814852379.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6743610879.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>890</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1259454361</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>БАЗОВЫЙ бр АМЗТ/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1595151750" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем Вашему вниманию – необычайно притягательное колье бусы «Любовь и Богатство» из натуральных деклассированных изумрудов и жемчуга майорика. <br/><br/>Это АВТОРСКОЕ ИЗДЕЛИЕ созданный в г. Санкт-Петербурге с любовью и вдохновением. <br/><br/>Размер натуральных изумрудов составляет 4 мм. <br/><br/>Жемчуг majorica в форме «рис» равен 8x6 мм. <br/><br/>Эксклюзивная модель, вес которой составляет 20 гр. <br/><br/>Общий вес камней - 101 карат. <br/><br/>Изумруды известны своими магическими свойствами, они привлекают любовь и богатство в жизнь своего обладателя. Жемчуг majorica символизирует чистоту и непорочность. Сочетание этих камней дает невероятную энергию и выразительность украшению.«Любовь и Богатство» - это не просто украшение, это символ благополучия и изысканности. Роскошные КАМНИ, Дарите украшения своим любимым!<br/><br/>Дополнительно можно приобрести браслет из коллекции "Любовь и Богатство" , артикул <br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Любовь и Богатство БИзмЖем/жз/45+5</model>
+<name>Бусы из жемчуга майорка с изумрудами дкл / Колье женское на шею</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/8568588925.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/8568282268.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/8568589118.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/8568588978.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/8568589709.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/7045265535.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-m/7045265506.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/7045265505.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/7045265522.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-j/7045265503.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/7045265498.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-k/7045265504.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-n/7045265507.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/7045265515.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7040641302.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/7040641297.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7045265500.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/7045265499.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/8568588965.jpg</picture>
+<price>3500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1595151750</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Любовь и Богатство БИзмЖем/жз/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1262596194" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Обратите внимание на этот прекрасный классический браслет, изготовленный из натуральных камней бирюзы. Этот уникальный и изысканный аксессуар обладает своей собственной энергией и красотой.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия 18-20 см (браслет выполнен на резинке).<br/><br/>Вес – 25 г. (129 карат).<br/><br/>Диаметр бусин – 10 мм.<br/><br/>Камень бирюзы славится своим ярким и глубоким голубым оттенком, который создает ощущение спокойствия и гармонии. Принято считать, что бирюза приносит удачу и защищает своего обладателя от негативных энергий. Она также считается символом нежности и любви.<br/><br/>Браслет станет не только великолепным дополнением к вашему стилю, но и сможет перенести вас в мир гармонии и покоя.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>КЛАССИКА Бир/на резинке/15-17</model>
+<name>Браслет из бирюзы / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6818846969.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6818846974.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6818846967.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6818846972.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6816642058.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6818846973.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6818846968.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6818846954.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6818846970.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6816644489.jpg</picture>
+<price>1150</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1262596194</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>КЛАССИКА Бир/на резинке/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1410984117" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ», Бусы или колье - чокер из натурального горного хрусталя.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес –  от 13 г . (Камни от 65 карат). <br/><br/>Средний диаметр бусин: Горный хрусталь - 4-4,5 мм.<br/><br/>Замок - карабин, выполнен из гипоаллергенного ювелирного сплава.<br/><br/>Минерал горный хрусталь помогает очистить мысли и физическое тело, убрать тревожность и ночные кошмары. В качестве талисмана для женщин камушек привлекает в жизнь своего владельца удачу и благополучие, взаимную любовь и постоянство в отношениях. Колье из натуральных камней станет отличным подарком для тех, кто умеет ценить изящные украшения. Отлично подойдет, как к повседневному образу, так и к любому поводу. Колье подойдет для любого возраста. Яркое бижутерное колье обладает яркой притягательность. и способен создать романтичное и игривое настроение. Все наши бусы выполнены вручную по авторскому дизайну.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Алмаз БГхр/ 35+5</model>
+<name>Бусы из горного хрусталя / Колье из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7856732680.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7856732765.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-m/7856732794.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6528390502.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6528390425.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6528390436.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6528390442.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6528390429.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6528390441.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6528390424.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6528390438.jpg</picture>
+<price>2000</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1410984117</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Алмаз БГхр/ 35+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1319197301" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Обратите внимание на этот прекрасный классический браслет, изготовленный из натуральных камней бирюзы. Этот уникальный и изысканный аксессуар обладает своей собственной энергией и красотой.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 16 г.<br/><br/>Диаметр бусин – 8-10 мм.<br/><br/>Камень бирюзы славится своим ярким и глубоким голубым оттенком, который создает ощущение спокойствия и гармонии. Принято считать, что бирюза приносит удачу и защищает своего обладателя от негативных энергий. Она также считается символом нежности и любви.<br/><br/>Браслет станет не только великолепным дополнением к вашему стилю, но и сможет перенести вас в мир гармонии и покоя.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Бир/15-17</model>
+<name>Браслет из бирюзы / Браслет из натуральных камней / бижутерия женская</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6708785622.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6708785614.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-p/6708785641.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-3/6708785619.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6708785618.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6736341392.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6736341396.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6736341403.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6736341454.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1319197301</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Бир/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1418528948" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам этот восхитительный классический браслет, сделанный из натуральных камней малахита. Этот уникальный аксессуар будет привлекать внимание окружающих своей изысканностью и стильным дизайном.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 16 г.<br/><br/>Диаметр бусин – 8-10 мм.<br/><br/>Камень малахита имеет яркую зеленую окраску, которая символизирует природу и жизненную силу. Он считается камнем гармонии и благополучия, который помогает обладателю найти равновесие и укрепить свою энергию. Малахит также ассоциируется с развитием интуиции и способностей к общению.<br/><br/>Браслет не только олицетворяет силу и энергию, но и подчеркивает ваш индивидуальный стиль, придавая ему загадочности и утонченности.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Мхт/20-22</model>
+<name>Браслет из малахитов / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6708785419.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6708785413.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6708785435.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6708785423.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-o/6708785424.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6736340778.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6736340780.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-o/6736340724.jpg</picture>
+<price>1090</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1418528948</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Мхт/20-22</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1322541949" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Обратите внимание на этот прекрасный классический браслет, изготовленный из натуральных камней бирюзы. Этот уникальный и изысканный аксессуар обладает своей собственной энергией и красотой.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 16 г.<br/><br/>Диаметр бусин – 8-10 мм.<br/><br/>Камень бирюзы славится своим ярким и глубоким голубым оттенком, который создает ощущение спокойствия и гармонии. Принято считать, что бирюза приносит удачу и защищает своего обладателя от негативных энергий. Она также считается символом нежности и любви.<br/><br/>Браслет станет не только великолепным дополнением к вашему стилю, но и сможет перенести вас в мир гармонии и покоя.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Бир/18-20</model>
+<name>Браслет из бирюзы / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6708785622.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6708785614.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-p/6708785641.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-3/6708785619.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6708785618.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6736341392.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6736341396.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6736341403.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6736341454.jpg</picture>
+<price>1020</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1322541949</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Бир/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1659197930" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Уникальный Браслет "Жемчужная нежность"<br/><br/>Привнесите в свою жизнь гармонию и элегантность с нашим уникальным браслетом, созданным из прекрасных амазонита и культивированного речного жемчуга.<br/><br/>Этот изысканный браслет — это искусство в исполнении ювелира. В его создании использованы только лучшие материалы и профессиональные ограночные техники, чтобы выразить великолепие камней.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!       <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Диаметр бусин: <br/><br/>Амазонит - 4 мм, <br/><br/>Жемчуг речной культивированный 6-8 мм.<ul><li>Амазонит: Известен своей способностью привносить владельцу гармонию и баланс. Считается, что этот камень помогает снять стресс, улучшить коммуникацию и укрепить интуицию.</li><li>Жемчуг речной культивированный: Символ чистоты и мудрости. Жемчуг способствует эмоциональной устойчивости и улучшению духовной гармонии.</li><li>Серебристый гематит: Вставки из гематита придают браслету дополнительное сияние и придают силу и уверенность. Гематит также считается камнем, способствующим гармонизации энергии.<br/><br/>Каждый камень амазонита огранен опытными мастерами для максимального визуального эффекта и блеска. Браслет имеет уникальный дизайн, который подчеркивает естественную красоту камней и придает вам утонченный стиль. Благодаря удобной застежке на цепочке, браслет легко подстраивается под размер вашего запястья.</li></ul>Этот браслет — это не только модное украшение, но и мощный амулет, придающий вам внутренний покой и энергию. Добавьте "Жемчужную нежность" в свой гардероб и наслаждайтесь его благоприятными свойствами каждый день.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>БрАмзЖ Жемчужная Нежность/17+5</model>
+<name>Браслет из амазонитов с речным жемчугом / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/7773469545.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/7773469705.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7773469684.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/7440909731.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6809349221.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6809349219.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6809349223.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6809349224.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6809349218.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6796101322.jpg</picture>
+<price>2200</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1659197930</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>БрАмзЖ Жемчужная Нежность/17+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1420810867" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье из розового кварца и деклассированных рубинов- это изящное и элегантное ожерелье, которое станет ярким украшением любого образа. Изготовленное из натуральных камней, оно обладает особой привлекательностью и уникальностью. Красивое сочетание красного рубина и нежного розового кварца придает этому колье нежность и шарм.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.   <br/><br/>     <br/><br/>Средний диаметр бусин:<br/><br/>Рубин ДКЛ – 10 мм. <br/><br/>Розовый кварц - 10 мм.<br/><br/>Ожерелье имеет регулируемую длину, что позволяет подобрать наиболее комфортный размер для каждой женщины. Высококачественные материалы и уникальный дизайн делают эту модель особенно привлекательной. Каждый камень внимательно отобран и установлен вручную, что гарантирует его надежность и долговечность.<br/><br/>Колье "На любовь" - это не только стильное украшение, но и символ роскоши и утонченности. Оно подчеркнет индивидуальность и характер своей обладательницы, добавив ей особую изюминку. В нем сочетаются красота природных камней и мастерство ювелиров, создавая неповторимое произведение искусства.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>На Любовь РквРуб/45+5</model>
+<name>Бусы с розовым кварцем и рубинами дкл</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7857580224.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7857579898.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7857579936.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-b/6925973555.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/6925973539.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6925973568.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/6925973559.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-y/6925973542.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6925973580.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/6925973546.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-8/6925973552.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/6920995898.jpg</picture>
+<price>2200</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1420810867</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>На Любовь РквРуб/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="835454864" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье - чокер из натуральных природных камней аметистов. <br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Натуральный Аметист. <br/><br/>Длина ожерелья - 40/45/50 см соответственно. <br/><br/>Диаметр бусины - 3-4 мм. <br/><br/>Замок - карабин, выполнен из гипоаллергенного бижутерного сплава. <br/><br/>Огранка - Рондель. <br/><br/>Аметист считается одним из самых энергетически сильных камней и обладает большими магическими способностями. При этом камень может сам выбрать себе владельца и стать ему надежным защитником и помощником. Колье из натуральных камней станет отличным подарком для тех, кто умеет ценить изящные украшения. Отлично подойдет, как к повседневному образу, так и к любому поводу. Колье подойдет для любого возраста. Яркое бижутерное колье обладает яркой притягательность. и способен создать романтичное и игривое настроение. <br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Аметист Рондель/2/40+5</model>
+<name>Колье аметист / Бусы из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/7774421917.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/7774421953.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/7774421980.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6528275766.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-q/6528275762.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6528275744.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6528275753.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6528275764.jpg</picture>
+<price>1890</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=835454864</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Аметист Рондель/2/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1387292354" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натурального прессованного малахита с вставкой из деклассированных изумрудов. Украшение очень стильное и рискует стать вашим любимым!<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер бусин малахита - 8 мм.<br/><br/>Размер вставки из натурального изумруда - 10 мм.<br/><br/>Выполнен на резинке.<br/><br/>Размер изделия 18-20 см.<br/><br/>Считается, что малахит, являясь оберегом, обеспечивает защиту от негативного внешнего воздействия. Энергетически сильное украшение. Замечательный подарок для близкого человека. Мы индивидуально подходим к созданию каждого украшения, все браслеты ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Мхт/Изм/18-20</model>
+<name>Браслет малахит изумруд деклассированный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6758385926.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6758385927.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6758385929.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6758385925.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1387292354</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Мхт/Изм/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1403745072" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Погрузитесь в мистический мир с нашим браслетом, в котором сочетаются утонченные амазониты и благородный сапфир. Этот аксессуар станет ярким воплощением вашей утонченности, подчеркивая вашу индивидуальность и оберегая от негативных влияний.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет на резинке.<br/><br/>Вес –  16 г       .   <br/><br/>Средний диаметр бусин – 8-10 мм<br/><br/>Амазониты славятся своей способностью приносить гармонию и покой, становясь настоящим талисманом вашей души. В сочетании с сапфиром, камнем мудрости и небесной ясности, браслет приобретает особенное волшебство. Сапфир способен укрепить ваш внутренний свет, обеспечивая ясность мышления и способствуя духовному росту.<br/><br/>Носите этот браслет и дайте своему облику не только стильный штрих, но и возможность ощутить легкость бытия под сияющим светом небесной звезды.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр АмзтСпф/15-17</model>
+<name>Браслет из амазонитов с сапфиром / Браслет женский</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6847578378.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6847578390.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6847578368.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6847578370.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6847578377.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6847578373.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6840888561.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1403745072</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр АмзтСпф/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1263079950" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье из натуральных деклассированных изумрудов - это классический и элегантный элемент женской бижутерии, который подходит для любого случая.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – 24 г (123 карат). <br/><br/>Диаметр бусин – Изумруд - 6 мм, Гематит - 3 мм.<br/><br/>Изумруд — символ мудрости, надежды, проницательности. У этого камня много имен, данных людьми, — «открыватель истины», «зеленый лед», «камень правды», «камень счастливой любви», «сердце весны», «искатель любви», «камень сияния». На протяжении веков минералу приписывали много особенных свойств и возможностей, например, наши предки верили, что в нем можно увидеть прошлые жизни человека.<br/><br/>Изумруд — камень, минерал берилловой группы. Основной цвет — зеленый, хотя бывают камни разных оттенков — от желтовато-зеленого до зеленого с синевой. Идеальным экземпляром считается прозрачный минерал с глубоким, равномерно распределенным травянисто-зеленым цветом. <br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Клеопатра Колье Изумруд/40+5</model>
+<name>Бусы изумруд деклассированный</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-m/6816946234.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-p/6816946237.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6816946667.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6816946235.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-l/6816946233.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-o/6816946236.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6816946239.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6816946232.jpg</picture>
+<price>3500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1263079950</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Клеопатра Колье Изумруд/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1313827851" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Этот изысканный аксессуар объединяет в себе красоту рубинов и розового кварца, создавая не только стильный элемент украшения, но и мощный оберег с особыми свойствами.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 23 г (105 карат).          <br/><br/>Средний диаметр бусин: Рубин ДКЛ (грань) - 10 мм., Розовый кварц (грань) - 10 мм.<br/><br/>Рубины в браслете пробуждают чувства страсти и любви, придавая вашему облику неотразимый шарм. Эти камни являются источником энергии, способствуя улучшению физического и эмоционального состояния.<br/><br/>Розовый Кварц - Камень Любви и Гармонии, привносит в браслет энергию любви и сострадания, укрепляя ваши отношения с окружающими. Этот камень способствует внутренней гармонии, помогая справляться с стрессом и напряжением.<br/><br/>Браслет "На любовь" представляет собой сочетание изысканных рубинов и нежного розового кварца, создавая эффектный визуальный образ. Мы используем только высококачественные материалы, чтобы обеспечить долговечность и сохранение красоты браслета со временем. Браслет подходит как для особых событий, так и для повседневного использования, добавляя вашему образу изысканности и утонченности.<br/><br/>Не упустите возможность обогатить свою коллекцию украшений этим уникальным браслетом, который не только приковывает взгляды, но и наполняет вашу жизнь энергией и гармонией.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>На Любовь Бр РквРуб/на резинке/15-17</model>
+<name>Браслет с розовым кварцем и рубинами дкл / Браслет из камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7857503184.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7857503218.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7857503370.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6847153850.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6847153849.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6847153854.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6847153875.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6847153863.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6847153840.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-7/6847153855.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6844280171.jpg</picture>
+<price>790</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1313827851</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>На Любовь Бр РквРуб/на резинке/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1769248803" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет "КЛАССИКА" из натуральных камней розового кварца нежных пастельных оттенков с золотистыми гематитами, выполненный ВРУЧНУЮ станет вашим любимым украшением.<br/><br/>Размер камней - 10 мм, гематитов - 6 мм. Камни от 125 ct.. Вес украшения - от 28 гр.<br/><br/>Нежная круглая форма камней добавляет благородства внешнему виду женского браслетика. Эзотерики единогласно признают, что розовый кварц — минерал, обладающий сильной магией. Минерал помогает стать более женственными, нежными и чуткими. Некоторым девушкам кристалл поможет быстрее найти свою вторую половинку и даже выйти замуж. Тем более его розовый оттенок так сильно подходит к женскому гардеробу.<br/><br/>Мы индивидуально подходим к созданию каждого украшения, все изделия ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от  мастерской «Роскошные КАМНИ»!</description>
+<model>КЛАССИКА РквБр/р/жз/15-17</model>
+<name>Браслет из розового кварца</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-3/7209646815.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7209646805.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/7209646818.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-b/7209646823.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-9/7209646821.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-7/7209646819.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/7209646809.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/7209646814.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/7209646816.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-r/7209646803.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7209646824.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7040641302.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/7040641297.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7040641300.jpg</picture>
+<price>1190</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1769248803</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>КЛАССИКА РквБр/р/жз/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1489105632" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Погрузитесь в волшебный мир натуральных камней с потрясающим колье, выполненным из аквамаринов . Яркие и благородные  камни притягивают внимание и придают изделию роскошный вид. Украшение является настоящим произведением искусства, которое подчеркнет индивидуальность и уникальность его обладательницы, прекрасно подойдет для вечернего мероприятия или праздничного события.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – от 13 г.           <br/><br/>Средний диаметр бусин – 4 мм.<br/><br/>Похожий на окаменевшую морскую воду, аквамарин издавна символизировал душу водной стихии. Сегодня аквамарин считается символом искренней любви и дружбы, чистоты и волшебства. В древности камень символизировал счастье и долголетие. Считалось, что аквамарин помогает продлить молодость и снискать благосклонность повелителей морской стихии. Основное магическое свойство аквамарина любого оттенка — оберегать владельца от принятия неверных решений и опасных «крайностей» в поведении.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Аквамарин Армерия Рондель Колье/40+5</model>
+<name>Колье из аквамаринов / Бусы из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/7856701987.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/7856701880.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7856701913.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/6962768668.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-r/6962768631.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/6962768574.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-8/6962768576.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/6962768608.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6962768640.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6962768604.jpg</picture>
+<price>2000</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1489105632</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Аквамарин Армерия Рондель Колье/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1074222075" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ», неповторимое колье из натурального амазонита.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/> <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – 64 г.<br/><br/>Диаметр бусин – 10 мм. <br/><br/>Амазонит - камень женской мудрости, отважности и вдохновения, Обратите внимание, колье сочетает в себе уникальность и потенциал для обратного взаимодействия. Это идеальное украшение, которое возвысит ваш стиль и сделает ваш образ ярким и неповторимым. Подходит как для повседневной носки, как и ожерелье к платью или бусы на лето. Сделайте его своим незаменимым сокровищем в коллекции женской бижутерии или подарите своей любимой. <br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>КЛАССИКА Амазонит/Бамз/45+5</model>
+<name>Колье амазонит / Ожерелье из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6701064921.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6701064878.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6701064940.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6701064868.jpg</picture>
+<price>3500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1074222075</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>КЛАССИКА Амазонит/Бамз/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1012300331" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье из розового кварца и аметиста - это нежное и красивое украшение, которое помогает создать романтическую и мечтательную атмосферу. <br/><br/>Розовый кварц - символ любви и верности, а аметист обладает способностью создавать гармонию в душе и избавлять от негативных мыслей. Это женское колье - отличный выбор для тех, кто хочет привнести в свою жизнь душевный комфорт и уют.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/> <br/><br/>Размер изделия –  45 см (+5 см регулирующая длину цепочка)<br/><br/>Вес – 57 г<br/><br/>Диаметр бусин – 10-12 мм<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Колье КРАСКИ РквАм/45+5</model>
+<name>Колье аметист розовый кварц / Бусы из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6671103666.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6671103679.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6671104093.jpg</picture>
+<price>2500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1012300331</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Колье КРАСКИ РквАм/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1387292630" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Окунитесь в мир таинственной красоты с нашим уникальным браслетом, созданным из благородных амазонитов, обрамленных изысканным деклассированным изумрудом. Этот удивительный аксессуар не только привлекает взгляд своим дизайном, но и обладает магической энергией, способной наполнить вашу жизнь радостью и гармонией.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!Эксклюзив, только в магазине Роскошные КАМНИ!                      Браслет выполнен на резинке.Средний диаметр бусин – 8-10 ммАмазониты - это камни, называемые камнями радости, благополучия и гармонии. Они считаются защитниками от негативных воздействий, помогая своему обладателю находить внутренний покой. Сочетание амазонитов с изумрудом добавляет к этому комплексу энергии любви и процветания. Изумруд, как камень сердца, способен открыть двери к бескрайней любви и благополучию.Носите этот браслет и дайте своей жизни излучать положительные вибрации, погружаясь в вихрь исцеляющей силы природы. Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр АмзтИзм/15-17</model>
+<name>Браслет из амазонитов с изумрудом дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6847573189.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6847573132.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6847573194.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6840974319.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6847573195.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6847573193.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1387292630</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр АмзтИзм/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1000263242" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет "Жемчужная нежность" из натуральных камней турмалин параиба с культивированным речным жемчугом, это уникальное женское украшение, которое добавит изящества и сияния вашему запястью.<br/><br/>Турмалин параиба - это редкий камень с широким спектром свойств, которые способствуют усилению иммунитета и оздоровлению тела. Жемчуг речной культивированный, в свою очередь, известный своими способностями успокаивать нервную систему и укреплять энергетическое поле.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Диаметр бусин: турмалин параиба - 4-4.5 мм , жемчуг речной культивированный 4-6 мм.<br/><br/>Браслет женский и стильный, это украшение на руку, которое подойдет как для повседневного ношения, так и для вечернего наряда. Это также отличный выбор в качестве подарка для близкого человека. Женская бижутерия должна выглядеть не только красиво, но и приносить пользу, и этот браслет отвечает обоим критериям.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>БрТПрЖ Жемчужная нежность/18+5</model>
+<name>Браслет турмалин параиба с речным культивированным жемчугом / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/7773345402.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/7773345112.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/7773345580.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7441032665.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-p/6667207045.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6667207051.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6736314754.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-o/6736314768.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6736314745.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-q/6736298822.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6663045330.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6663038741.jpg</picture>
+<price>2300</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1000263242</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>БрТПрЖ Жемчужная нежность/18+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1595152038" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем Вашему вниманию – необычайно притягательное колье бусы «Любовь и Богатство» из натуральных деклассированных изумрудов и жемчуга майорика. <br/><br/>Это АВТОРСКОЕ ИЗДЕЛИЕ созданный в г. Санкт-Петербурге с любовью и вдохновением. <br/><br/>Размер натуральных изумрудов составляет 4 мм. <br/><br/>Жемчуг majorica в форме «рис» равен 8x6 мм. <br/><br/>Эксклюзивная модель, вес которой составляет 20 гр. <br/><br/>Общий вес камней - 101 карат. <br/><br/>Изумруды известны своими магическими свойствами, они привлекают любовь и богатство в жизнь своего обладателя. Жемчуг majorica символизирует чистоту и непорочность. Сочетание этих камней дает невероятную энергию и выразительность украшению.«Любовь и Богатство» - это не просто украшение, это символ благополучия и изысканности. Роскошные КАМНИ, Дарите украшения своим любимым!<br/><br/>Дополнительно можно приобрести браслет из коллекции "Любовь и Богатство" , артикул <br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Любовь и Богатство БИзмЖем/жз/40+5</model>
+<name>Бусы из жемчуга майорка с изумрудами дкл / Колье женское на шею</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/8568588925.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/8568282268.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/8568589118.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/8568588978.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/7045265499.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/7045265535.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-m/7045265506.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/7045265505.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/7045265522.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-j/7045265503.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/7045265498.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-k/7045265504.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-n/7045265507.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/7045265515.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7040641302.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/7040641297.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7045265500.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/8568589709.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/8568588965.jpg</picture>
+<price>3300</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1595152038</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Любовь и Богатство БИзмЖем/жз/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1420811045" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье из розового кварца и деклассированных рубинов- это изящное и элегантное ожерелье, которое станет ярким украшением любого образа. Изготовленное из натуральных камней, оно обладает особой привлекательностью и уникальностью. Красивое сочетание красного рубина и нежного розового кварца придает этому колье нежность и шарм.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.   <br/><br/>     <br/><br/>Средний диаметр бусин:<br/><br/>Рубин ДКЛ – 10 мм. <br/><br/>Розовый кварц - 10 мм.<br/><br/>Ожерелье имеет регулируемую длину, что позволяет подобрать наиболее комфортный размер для каждой женщины. Высококачественные материалы и уникальный дизайн делают эту модель особенно привлекательной. Каждый камень внимательно отобран и установлен вручную, что гарантирует его надежность и долговечность.<br/><br/>Колье "На любовь" - это не только стильное украшение, но и символ роскоши и утонченности. Оно подчеркнет индивидуальность и характер своей обладательницы, добавив ей особую изюминку. В нем сочетаются красота природных камней и мастерство ювелиров, создавая неповторимое произведение искусства.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>На Любовь РквРуб/50+5</model>
+<name>Бусы с розовым кварцем и рубинами дкл</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7857580224.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7857579898.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7857579936.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-b/6925973555.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/6925973539.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6925973568.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/6925973559.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-y/6925973542.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6925973580.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/6925973546.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-8/6925973552.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/6920995898.jpg</picture>
+<price>2400</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1420811045</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>На Любовь РквРуб/50+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1322508884" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Обратите внимание на этот прекрасный классический браслет, изготовленный из натуральных камней бирюзы и аквамарина. Этот уникальный и изысканный аксессуар обладает своей собственной энергией и красотой.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 16 г.<br/><br/>Диаметр бусин – 8-10 мм.<br/><br/>Камень бирюзы славится своим ярким и глубоким голубым оттенком, который создает ощущение спокойствия и гармонии. Принято считать, что бирюза приносит удачу и защищает своего обладателя от негативных энергий. Она также считается символом нежности и любви.<br/><br/>Аквамарин, с его нежным бледно-голубым оттенком, придает браслету атмосферу свежести и чистоты. Этот камень ассоциируется с ясностью мысли и душевным спокойствием. Он считается символом гармонии, вдохновения и истины.<br/><br/>Объединение бирюзы и аквамарина в этом браслете создает уникальное сочетание их энергий. Браслет станет не только великолепным дополнением к вашему стилю, но и сможет перенести вас в мир гармонии и покоя.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр БирАкв/18-20</model>
+<name>Браслет из бирюзы и аквамарина / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6708785417.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6708785401.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-m/6708785422.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6708785409.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6708785432.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6736342754.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6736342758.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6736342748.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6736342715.jpg</picture>
+<price>1020</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1322508884</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр БирАкв/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1449667232" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье с изумрудами дкл, речным жемчугом и горным хрусталем – это изысканное украшение, которое подчеркнет вашу женственность и элегантность. Натуральные облагороженные камни, из которых выполнено ожерелье, придают ему особую изысканность и привлекательность.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес - 9 гр. Камни - 46 карат.          <br/><br/>Средний диаметр бусин: жемчуг культивированный - 5х3 мм, изумруд дкл - 3 мм, горный хрусталь геометрия - 3 мм.<br/><br/>Изумруды, с их ярким зеленым оттенком, символизируют вечную молодость и жизненную силу. Жемчуг, с его нежным блеском, добавит изящности и шарма вашему образу. Горный хрусталь, сверкающий в свете, создаст особую атмосферу загадочности и романтики.<br/><br/>Ожерелье из натуральных камней идеально подойдет для особых случаев, таких как свадьбы, вечеринки или романтического свидания, это стильный аксессуар, который подчеркнет вашу индивидуальность и уникальность.<br/><br/> Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Весенний ДЖАЗ Колье/ИзмЖем/45+5</model>
+<name>Бусы из горного хрусталя с речным жемчугом и изумрудами дкл</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/6935838748.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-q/6935838758.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/6935838744.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/6935838747.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-b/6935838743.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/6935838745.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/6935838746.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>3500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1449667232</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Весенний ДЖАЗ Колье/ИзмЖем/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1440541773" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье из культивированного жемчуга, граната и турмалинов шерл - это роскошное украшение, которое добавит неповторимости и элегантности вашему образу. Изготовленное из высококачественных материалов, оно обладает превосходной прочностью и долговечностью.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – 15 г ( Камни от 75 карат).    <br/><br/>        <br/><br/>Средний диаметр бусин: <br/><br/>жемчуг ( форма рис) - 10х6 мм, <br/><br/>гранат (рис) - 4х2 мм, шерл грань - 4 мм, <br/><br/>горный хрусталь (геометрия) - 3х3 мм, <br/><br/>черный агат - 5 мм.<br/><br/>Камни привлекают внимание своей неподражаемой красотой. Жемчуг символизирует чистоту и нежность, гранат - страсть и энергию, а турмалин шерл - защиту и удачу. Все эти камни великолепно сочетаются в колье , создавая уникальный и изысканный дизайн.<br/><br/>Колье имеет регулируемую длину цепочки, что позволяет подобрать оптимальную посадку на шее. Застежка выполнена из прочного металла, обеспечивающего надежную фиксацию украшения.<br/><br/>Колье "Весенний Джаз" прекрасно сочетаются с различными стилями одежды, от повседневного до вечернего, подчеркивая вашу индивидуальность и утонченность, это идеальный выбор для тех, кто ценит роскошь и красоту.</description>
+<model>Весенний ДЖАЗ Колье/ГрГХрЖем/45+5</model>
+<name>Бусы из гранатов и шерла с жемчугом</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/6935838589.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6935838588.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/6935838594.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-7/6935838595.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/6935838587.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/6935838593.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>3500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1440541773</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Весенний ДЖАЗ Колье/ГрГХрЖем/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1595122017" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем Вашему вниманию – необычайно притягательный браслет "Любовь и Богатство" из натуральных деклассированных изумрудов и жемчуга majorica.<br/><br/>Это авторское изделие, изготовленное в г. Санкт-Петербурге из натурального камня.<br/><br/>Размер изумрудов дкл – 4 мм, <br/><br/>жемчуга majorica в форме "рис" – 8х6 мм.<br/><br/>Эксклюзивная модель! <br/><br/>Вес украшения – 8 гр. Камни – 41 карат.<br/><br/>Изумруды – камни любви и верности, символизируют богатство и процветание. Они способствуют духовному развитию, привлекают удачу и успех. Жемчуг majorica - символ чистоты и нежности, приносит любовь и гармонию в отношения. Этот прекрасный браслет сочетает в себе магическую энергию изумрудов и жемчуга, создавая потрясающее сочетание энергий, привлекающее любовь и богатство. Будьте уверены, с таким украшением вы будете притягивать внимание и восхищение окружающих.<br/><br/>Дополнительно можно приобрести колье из коллекции "Любовь и Богатство", а также выбрать необходимый размер, артикул 1595069505.<br/><br/>Роскошные КАМНИ, Дарите Украшения Своим Любимым! Удивите своих близких или себя неповторимым подарком, который будет радовать долгие годы и наполнять вашу жизнь любовью и богатством.</description>
+<model>Любовь и Богатство БрИзмЖем/жз/16+5</model>
+<name>Браслет жемчужный с изумрудами дкл / Браслет женский на руку</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/8568772628.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/8568282268.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/8568772467.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/8568772365.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/8568772398.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/7045265844.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-r/7045265835.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/7045265838.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7045265837.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/7045265836.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/7045265839.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7040641302.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/7045265499.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7045265500.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/8568772452.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/8568772600.jpg</picture>
+<price>1390</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1595122017</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Любовь и Богатство БрИзмЖем/жз/16+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1506065399" type="vendor.model" available="true">
+<categoryId>278</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам коллекцию уникальных украшений "Роскошные серьги" от Роскошные КАМНИ с натуральными камнями, такими как авантюрин, коралл, аметист, кварц, нефрит, тигровый глаз, малахит, бирюза и другие. Добавьте изысканности и элегантности в ваш образ. Каждая пара сережек изготовлена из гипоаллергенного бижутерного сплава с натуральным камнем в оправе, привлекающим взгляд своим неповторимым блеском. Форма бусин – круглая, что придает им привлекательный вид. Каждая пара сережек уникальна, так как используется только один камень в каждом изделии. Подчеркните свою индивидуальность с этими прекрасными украшениями!<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Высота 28 мм. Длина штифта - 10 мм.<br/><br/>Вес – 4 г. Средний диаметр бусины - 10 мм.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Серьги Роскошные Бир/золото</model>
+<name>Серьги с бирюзой / серьги из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/8353322894.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/8353322908.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/8353322748.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/6973423487.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/6973423585.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/6973423462.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-q/6973423586.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/6973423480.jpg</picture>
+<price>3000</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1506065399</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Серьги Роскошные Бир/золото</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1469402482" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натуральных камней натуральный Аметист. Идеально подойдет к любому вашему образу! Прекрасный подарок любимому человеку на любой праздник, особенно в преддверии 8 марта!<br/><br/>Аметист считается одним из самых энергетически сильных камней и обладает большими магическими способностями. При этом камень может сам выбрать себе владельца и стать ему надежным защитником и помощником. Браслет из натуральных камней станет отличным подарком для тех, кто умеет ценить изящные украшения. Отлично подойдет, как к повседневному образу, так и к любому поводу.<ul><li>Натуральный Аметист</li><li>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки. </li><li>Диаметр бусины - 3-4 мм</li><li>Замок - карабин, выполнен из гипоаллергенного бижутерного сплава</li><li>Вид огранки - Рондель</li></ul> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Браслет Аметист Рондель/Армерия/15+5</model>
+<name>Браслет аметист / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6555540094.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6555540092.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6555372985.jpg</picture>
+<price>1290</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1469402482</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Браслет Аметист Рондель/Армерия/15+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1420716945" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем Вашему вниманию – необычайно притягательный браслет «КЛАССИКА» из натуральных кораллов и гематитов. <br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ в г. Санкт-Петербурге. <br/><br/>Размер камней – 10 мм. <br/><br/>Вес украшения – от 31 гр. Камни – 156 карат. <br/><br/>Браслет на резинке. <br/><br/>Кораллы издавна считались символом богатства и великолепия. Их красота и уникальность всегда привлекали внимание людей. Кораллы помогают привлечь успех, улучшить карьеру и преуспеть в бизнесе. Они также обладают способностью укреплять здоровье и повышать энергию. Гематиты, с другой стороны, являются символом силы, стойкости и смелости. Они помогают найти внутреннюю силу для борьбы с трудностями и преодоления преград. Комбинация кораллов и гематитов делает этот браслет не только прекрасным украшением, но и мощным магическим амулетом. Они дополняют друг друга и усиливают свои положительные свойства. Браслет «КЛАССИКА» из натуральных кораллов и гематитов поможет Вам достичь успеха во всех сферах жизни, преодолеть трудности и привлечь благополучие. !<br/><br/><br/><br/> <br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от  мастерской «Роскошные КАМНИ»!</description>
+<model>КЛАССИКА Коралл Бр сер/резинка/18-20</model>
+<name>Браслет из коралла / браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-m/6919249414.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-k/6919249412.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-n/6919249415.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6919249416.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/6919249420.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-q/6919249418.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/6919249417.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/6919249421.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-r/6919249419.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/6919249413.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6825393470.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6825393480.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6825393469.jpg</picture>
+<price>1600</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1420716945</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>КЛАССИКА Коралл Бр сер/резинка/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1292129238" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем браслет "Модный Фреш" из розового кварца и нефритов. Этот изысканный аксессуар не только воплощает в себе элегантность, но и обладает удивительными свойствами камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 24 г (121 карат).         <br/><br/>Средний диаметр бусин – 10 мм<br/><br/>Розовый кварц, камень бесконечной любви, вибрирует нежной энергией сердца. Он способен укрепить ваши отношения, привлечь любовь и создать атмосферу гармонии. Этот камень известен своей способностью снижать стресс, укреплять самоуважение и стимулировать чувство радости.<br/><br/>Нефрит, символ богатства и благополучия, приносит в вашу жизнь энергию процветания. Этот камень также известен своей способностью обеспечивать защиту и привлекать удачу. Нефрит помогает достигать баланса между физическим и эмоциональным благополучием, принося гармонию в вашу жизнь.<br/><br/>Носите браслет "Модный Фреш" с гордостью, ощущая в себе магию розового кварца и нефрита, которые оберегают вас и наполняют жизнь позитивной энергией. Позвольте этому уникальному аксессуару стать неотъемлемой частью вашего ежедневного стиля и духовного равновесия.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Модный фреш Бр/НфРкв/на резинке/15-17</model>
+<name>Браслет из нефрита и розового кварца / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6843138005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6843137931.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6843137938.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6843137933.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6843137935.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6843137934.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6843137972.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-q/6843137930.jpg</picture>
+<price>790</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1292129238</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Модный фреш Бр/НфРкв/на резинке/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1313827530" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Этот изысканный аксессуар объединяет в себе красоту деклассированных рубинов и розового кварца, создавая не только стильный элемент украшения, но и мощный оберег с особыми свойствами.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 23 г (105 карат).          <br/><br/>Средний диаметр бусин: Рубин ДКЛ (грань) - 10 мм., Розовый кварц (грань) - 10 мм.<br/><br/>Рубины в браслете пробуждают чувства страсти и любви, придавая вашему облику неотразимый шарм. Эти камни являются источником энергии, способствуя улучшению физического и эмоционального состояния.<br/><br/>Розовый Кварц - Камень Любви и Гармонии, привносит в браслет энергию любви и сострадания, укрепляя ваши отношения с окружающими. Этот камень способствует внутренней гармонии, помогая справляться с стрессом и напряжением.<br/><br/>Браслет "На любовь" представляет собой сочетание изысканных рубинов и нежного розового кварца, создавая эффектный визуальный образ. Мы используем только высококачественные материалы, чтобы обеспечить долговечность и сохранение красоты браслета со временем. Браслет подходит как для особых событий, так и для повседневного использования, добавляя вашему образу изысканности и утонченности.<br/><br/>Не упустите возможность обогатить свою коллекцию украшений этим уникальным браслетом, который не только приковывает взгляды, но и наполняет вашу жизнь энергией и гармонией.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>На Любовь Бр РквРуб/на резинке/18-20</model>
+<name>Браслет с розовым кварцем и рубинами дкл / Браслет из камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7857503184.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7857503218.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7857503370.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6847153850.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6847153849.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6847153854.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6847153875.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6847153863.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6847153840.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-7/6847153855.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6844280171.jpg</picture>
+<price>790</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1313827530</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>На Любовь Бр РквРуб/на резинке/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1642976460" type="vendor.model" available="true">
+<categoryId>278</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам коллекцию уникальных украшений "Роскошные серьги" от Роскошные КАМНИ с натуральными камнями, такими как авантюрин, коралл, аметист, кварц, нефрит, тигровый глаз, малахит, бирюза и другие. Добавьте изысканности и элегантности в ваш образ. Каждая пара сережек изготовлена из гипоаллергенного бижутерного сплава с натуральным камнем в оправе, привлекающим взгляд своим неповторимым блеском. Форма бусин – круглая, что придает им привлекательный вид. Каждая пара сережек уникальна, так как используется только один камень в каждом изделии. Подчеркните свою индивидуальность с этими прекрасными украшениями!<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Высота 28 мм. Длина штифта - 10 мм.<br/><br/>Вес – 4 г. Средний диаметр бусины - 10 мм.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Серьги Роскошные Нфт/бел</model>
+<name>Серьги с нефритами / серьги из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-h/8310629465.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/8310629464.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/8310629444.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/7088498927.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/7088499042.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/7088499186.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-7/7088499079.jpg</picture>
+<price>3000</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1642976460</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Серьги Роскошные Нфт/бел</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1030215371" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Колье-чокер из натуральных камней граната и золотистого марказита – это уникальное украшение, которое не только украсит образ, но и принесет множество преимуществ благодаря своим магическим свойствам. <br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия – 35/40/45 см соответственно (+5 см регулирующая длину цепочка).<br/><br/>Вес – 4 г.<br/><br/>Диаметр бусин – 2 мм.<br/><br/>Гранат – это камень, который в народе называют камнем страсти и огня. Он символизирует мощь, энергию, счастье и здоровье. Гранат обладает магическими свойствами, которые помогают избавиться от негатива, приблизить желаемое и укрепить духовную энергию. Как же все это происходит? Гранат облегчает исполнение желаний и привлечение богатства, помогает обрести силу и личную мощь. К тому же, он полезен для здоровья, препятствует закупорке кровеносных сосудов и замедляет процессы старения. Также, гранат рекомендуется носить для улучшения отношений, создания семьи и защиты от соперничества. Его также часто используют для обретения мудрости и понимания.<br/><br/>Марказит – это камень, который связывает небесную и земную энергии, придавая своему обладателю силу и энергию. Кроме того, марказит используется для созидательной работы, а также для укрепления интуиции и понимания. Этот камень служит источником энергии для творчества и вдохновения, обладает способностью поднимать настроение и помогает избавиться от депрессии. Колье-чокер из граната и золотистого марказита – это уникальное украшение, которое сочетает в себе не только красоту, но и ценные магические свойства. Оно станет отличным подарком для тех, кто хочет обрести силу, энергию и дополнительную защиту для своей жизни.<br/><br/><br/><br/> Всего лишь необходимо кликнуть на продавца и Вам откроется новый мир украшений. Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Счастливый Гранат Чокер/40+5</model>
+<name>Бусы из граната / Чокер женский из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6844977618.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6844977660.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-q/6844977638.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6844977606.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6678371975.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-b/6678371963.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-7/6844977691.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6844977609.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6844977599.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-g/6678371968.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6678371965.jpg</picture>
+<price>1500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1030215371</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Счастливый Гранат Чокер/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1262757314" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ».<br/><br/>Добавьте блеска и очарования в свой повседневный стиль с этим изящным браслетом из агатов и раухтопазов. Каждый камень тщательно отобран и натурально полирован, чтобы подчеркнуть естественную красоту и текстуру минералов. Вставки из золотистого гематита придают изделию дополнительный блеск.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия 15-17 см (Браслет на резинке). <br/><br/>Вес – 27 г. (136 карат).<br/><br/>Диаметр бусин – 10 мм.<br/><br/>Агаты и раухтопазы великолепно смотрятся вместе, создавая уникальную гармонию цветов и оттенков. Сочетание нежных пастельных и живых ярких оттенков придает этому браслету особую привлекательность. Будьте в центре внимания и подчеркните свою неповторимость с этим прекрасным и элегантным браслетом, который позволит вам выразить свою индивидуальность.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Чайная Роза Бр АгРтп/на резинке/15-17</model>
+<name>Браслет из агатов с раухтопазами / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6818582079.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6818582058.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-q/6818582042.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6818582075.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6818582062.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-l/6816760941.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6818582051.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-7/6816760927.jpg</picture>
+<price>1150</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1262757314</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Чайная Роза Бр АгРтп/на резинке/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1410978058" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натуральных камней горного хрусталя, выполненный ВРУЧНУЮ станет вашим любимым украшением.<br/><br/>Профессиональная огранка камней.<br/><br/>ЭКСКЛЮЗИВ! Только в магазине Роскошные КАМНИ.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ. РУЧНОЕ ПЛЕТЕНИЕ.<br/><br/>Длина изделия увеличивается на 5 см за счет регулирующей длину цепочки).<br/><br/>Камни в браслете от 25,2 карат ( ct. )<br/><br/>Профессиональная огранка камней добавляет благородства внешнему виду женского браслетика.<br/><br/>Минерал горный хрусталь помогает очистить мысли и физическое тело, убрать тревожность и ночные кошмары. В качестве талисмана для женщин камушек привлекает в жизнь своего владельца удачу и благополучие, взаимную любовь и постоянство в отношениях. Мы индивидуально подходим к созданию каждого украшения, все изделия ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/>Дополнительно к браслету можно приобрести колье из натуральных камней горного хрусталя. )артикул 940456864).<br/><br/> Всего лишь необходимо кликнуть на бренд и Вам откроется новый мир украшений, включающий в себя: бижутерию, чокеры, браслеты, бусы, ожерелья, колье, броши, подвески, кулоны, амулеты и яркие серьги.<br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Алмаз БрГХр/20+5</model>
+<name>Браслет из Горного Хрусталя / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/7856740121.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/7856740185.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7856740198.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6639789925.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6639789922.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6639789919.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6639789926.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-0/6639789924.jpg</picture>
+<price>1390</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1410978058</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Алмаз БрГХр/20+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1307796319" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Окунитесь в мир таинственной красоты с нашим уникальным браслетом, созданным из благородных амазонитов, обрамленных изысканным изумрудом. Этот удивительный аксессуар не только привлекает взгляд своим дизайном, но и обладает магической энергией, способной наполнить вашу жизнь радостью и гармонией.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!Эксклюзив, только в магазине Роскошные КАМНИ!                      Браслет выполнен на резинке.Средний диаметр бусин – 8-10 ммАмазониты - это камни, называемые камнями радости, благополучия и гармонии. Они считаются защитниками от негативных воздействий, помогая своему обладателю находить внутренний покой. Сочетание амазонитов с изумрудом добавляет к этому комплексу энергии любви и процветания. Изумруд, как камень сердца, способен открыть двери к бескрайней любви и благополучию.Носите этот браслет и дайте своей жизни излучать положительные вибрации, погружаясь в вихрь исцеляющей силы природы. Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр АмзтИзм/18-20</model>
+<name>Браслет из амазонитов с изумрудом дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6847573189.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-s/6847573132.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6847573194.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6840974319.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6847573195.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6847573193.jpg</picture>
+<price>1050</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1307796319</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр АмзтИзм/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1419237718" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Погрузитесь в мистический мир с нашим браслетом, в котором сочетаются утонченные амазониты и благородный сапфир. Этот аксессуар станет ярким воплощением вашей утонченности, подчеркивая вашу индивидуальность и оберегая от негативных влияний.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет на резинке.<br/><br/>Вес –  16 г       .   <br/><br/>Средний диаметр бусин – 8-10 мм<br/><br/>Амазониты славятся своей способностью приносить гармонию и покой, становясь настоящим талисманом вашей души. В сочетании с сапфиром, камнем мудрости и небесной ясности, браслет приобретает особенное волшебство. Сапфир способен укрепить ваш внутренний свет, обеспечивая ясность мышления и способствуя духовному росту.<br/><br/>Носите этот браслет и дайте своему облику не только стильный штрих, но и возможность ощутить легкость бытия под сияющим светом небесной звезды.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр АмзтСпф/20-22</model>
+<name>Браслет из амазонитов с сапфиром / Браслет женский</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6847578378.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6847578390.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6847578368.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6847578370.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6847578377.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6847578373.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6840888561.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1419237718</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр АмзтСпф/20-22</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1234399265" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натуральных камней натуральный Аметист. Идеально подойдет к любому вашему образу! Прекрасный подарок любимому человеку на любой праздник, особенно в преддверии 8 марта!<br/><br/>Аметист считается одним из самых энергетически сильных камней и обладает большими магическими способностями. При этом камень может сам выбрать себе владельца и стать ему надежным защитником и помощником. Браслет из натуральных камней станет отличным подарком для тех, кто умеет ценить изящные украшения. Отлично подойдет, как к повседневному образу, так и к любому поводу.<ul><li>Натуральный Аметист</li><li>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки. </li><li>Диаметр бусины - 3-4 мм</li><li>Замок - карабин, выполнен из гипоаллергенного бижутерного сплава</li><li>Вид огранки - Рондель</li></ul> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Браслет Аметист Рондель/Армерия/16+5</model>
+<name>Браслет аметист / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6555540094.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6555540092.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6555372985.jpg</picture>
+<price>1300</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1234399265</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Браслет Аметист Рондель/Армерия/16+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1263093274" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет из натуральных деклассированных изумрудов - это классический и элегантный элемент женской бижутерии, который подходит для любого случая. Вставки из золотистого гематита придают изделия дополнительный блеск.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – 10 г<br/><br/>Диаметр бусин – 6 мм<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Клеопатра Изумруд бр/18+5</model>
+<name>Браслет с изумрудами дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6816960188.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6816960292.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6816960173.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6816960284.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6816960195.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6816960214.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6816946239.jpg</picture>
+<price>1800</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1263093274</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Клеопатра Изумруд бр/18+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1659196708" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Уникальный Браслет "Жемчужная нежность"<br/><br/>Привнесите в свою жизнь гармонию и элегантность с нашим уникальным браслетом, созданным из прекрасных амазонита и культивированного речного жемчуга.<br/><br/>Этот изысканный браслет — это искусство в исполнении ювелира. В его создании использованы только лучшие материалы и профессиональные ограночные техники, чтобы выразить великолепие камней.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!       <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Диаметр бусин: <br/><br/>Амазонит - 4 мм, <br/><br/>Жемчуг речной культивированный 6-8 мм.<ul><li>Амазонит: Известен своей способностью привносить владельцу гармонию и баланс. Считается, что этот камень помогает снять стресс, улучшить коммуникацию и укрепить интуицию.</li><li>Жемчуг речной культивированный: Символ чистоты и мудрости. Жемчуг способствует эмоциональной устойчивости и улучшению духовной гармонии.</li><li>Серебристый гематит: Вставки из гематита придают браслету дополнительное сияние и придают силу и уверенность. Гематит также считается камнем, способствующим гармонизации энергии.<br/><br/>Каждый камень амазонита огранен опытными мастерами для максимального визуального эффекта и блеска. Браслет имеет уникальный дизайн, который подчеркивает естественную красоту камней и придает вам утонченный стиль. Благодаря удобной застежке на цепочке, браслет легко подстраивается под размер вашего запястья.</li></ul>Этот браслет — это не только модное украшение, но и мощный амулет, придающий вам внутренний покой и энергию. Добавьте "Жемчужную нежность" в свой гардероб и наслаждайтесь его благоприятными свойствами каждый день.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>БрАмзЖ Жемчужная Нежность/15+5</model>
+<name>Браслет из амазонитов с речным жемчугом / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/7773469545.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/7773469705.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7773469684.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/7440909731.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6809349221.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6809349219.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6809349223.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6809349224.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6809349218.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6796101322.jpg</picture>
+<price>2000</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1659196708</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>БрАмзЖ Жемчужная Нежность/15+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="974551813" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ» - необычное модное колье "Весенний день", выполнено из натуральных деклассированных изумрудов с вставками из гематита - станет вашим самым любимым украшением.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!       <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Размер камней - 4 мм.<br/><br/>Вес украшения - 14,20 гр.<br/><br/>Изумруд - камень силы и внутренней энергетики человека. Он способен помочь понять себя, привести мысли в порядок. В сочетании с медовым гематитом, создается чудная игра цветов.<br/><br/>Яркое ожерелье колье подойдет для женщин любого возраста, а так же станет отличным подарком по любому поводу. Колье способно полностью взять на себя создание образа.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Весенний день/изумрудДКЛ/40+5</model>
+<name>Бусы с изумрудами дкл / Колье из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6635303536.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6635303552.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6635303551.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6635303533.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6635303650.jpg</picture>
+<price>1900</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=974551813</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Весенний день/изумрудДКЛ/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1403745305" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Погрузитесь в мистический мир с нашим браслетом, в котором сочетаются утонченные амазониты и благородный сапфир. Этот аксессуар станет ярким воплощением вашей утонченности, подчеркивая вашу индивидуальность и оберегая от негативных влияний.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Браслет на резинке.<br/><br/>Вес –  16 г       .   <br/><br/>Средний диаметр бусин – 8-10 мм<br/><br/>Амазониты славятся своей способностью приносить гармонию и покой, становясь настоящим талисманом вашей души. В сочетании с сапфиром, камнем мудрости и небесной ясности, браслет приобретает особенное волшебство. Сапфир способен укрепить ваш внутренний свет, обеспечивая ясность мышления и способствуя духовному росту.<br/><br/>Носите этот браслет и дайте своему облику не только стильный штрих, но и возможность ощутить легкость бытия под сияющим светом небесной звезды.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр АмзтСпф/18-20</model>
+<name>Браслет из амазонитов с сапфиром / Браслет женский</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6847578378.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-u/6847578390.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6847578368.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6847578370.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6847578377.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6847578373.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6840888561.jpg</picture>
+<price>1020</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1403745305</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр АмзтСпф/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1424998336" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Погрузитесь в экзотику с нашим потрясающим браслетом "Рябина" из кораллов и рубинов. Этот изысканный аксессуар сочетает в себе органическую красоту кораллов с сиянием натуральных деклассированных рубинов.<ul><li>Натуральные кораллы в оттенках розового, лососевого и красного создают неповторимую палитру.</li><li>Рубины добавляют яркие акценты, завораживая своим огненно-красным цветом.</li><li>Прочная и гибкая застежка обеспечивает надежную фиксацию и комфорт при ношении.</li><li>Идеально подходит для любого случая, от повседневного до торжественного.</li><li>Станет прекрасным подарком для ценителей экзотических украшений.</li></ul>Профессиональная огранка камней.<br/><br/>ЭКСКЛЮЗИВ! Только в магазине Роскошные КАМНИ.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ. РУЧНОЕ ПЛЕТЕНИЕ.<br/><br/>Вес изделия 22 гр. (112 карат).<br/><br/><br/><br/> <br/><br/> Всего лишь необходимо кликнуть на бренд и Вам откроется новый мир украшений, включающий в себя: бижутерию, чокеры, браслеты, бусы, ожерелья, колье, броши, подвески, кулоны, амулеты и яркие серьги.<br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Рябина Бр/Крл Рубин/р/20-22</model>
+<name>Браслет коралл рубин деклассированный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-y/6919529002.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-j/6919529023.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/6919528998.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-b/6919529015.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-9/6919529013.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-3/6919529007.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/6919529008.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/6919528999.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/6919529010.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/6919529017.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6825393470.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6825393480.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6825393469.jpg</picture>
+<price>1300</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1424998336</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Рябина Бр/Крл Рубин/р/20-22</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1577262679" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем вам браслет "ЦАРИЦА СТРАСТИ" из натуральных камней раухтопазов и черных турмалинов Шерл. Это уникальное и неповторимое авторское изделие, которое плетется вручную с любовью и мастерством в Санкт-Петербурге, придавая ему особую энергетику и красоту. <br/><br/>Размер раухтопазов - 8 мм, турмалинов шерл - 4 мм. <br/><br/>Вес украшения - от 13 гр, а общий вес камней - от 70 карат. <br/><br/>Раухтопазы символизируют страсть и силу, они помогают укрепить внутреннюю энергию и привлечь любовь. Черные турмалины Шерл известны своим защитным свойством и помогают балансировать энергии тела и души. Вместе эти камни создают неповторимое сочетание, притягивая страстные и вдохновляющие эмоции. Носите браслет "ЦАРИЦА СТРАСТИ" с гордостью и самоуверенностью, ощущая его таинственность и привлекательность. <br/><br/>Роскошные КАМНИ, Дарите Украшения Своим Любимым!</description>
+<model>Царица страсти бр/Р/18-20</model>
+<name>Браслет из раухтопазов и шерла / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-7/7824064471.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/7824064381.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/7824062484.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/7030655610.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7030655506.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/7030655527.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/7030655497.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/7030655508.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/7030655589.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/7030655593.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/7030655598.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/7030655605.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6825393470.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6825393480.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6825393469.jpg</picture>
+<price>1200</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1577262679</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Царица страсти бр/Р/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1282180506" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет с бирюзой и деклассированным сапфиром – это уникальное украшение, которое подойдет для любого случая: от повседневной носки до вечерних мероприятий. Создание этого браслета заняло много времени и тщательной работы, чтобы получить идеальный экземпляр. Вставки из золотистого гематита отлично дополняют изделие и придают ему особый блеск.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Диаметр бусин: Сапфир ДКЛ - 10 мм, Бирюза - 8 мм.. <br/><br/>Этот браслет станет прекрасным подарком для девушки, объявлением своих чувств и уважения, он также подарит улыбку вашим близким и обязательно понравится любительницам драгоценных камней. Роскошь и элегантность в одном красивом украшении – это браслет с сапфирами и бирюзой.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Богиня БирСпф Бр/на резинке/20-22</model>
+<name>Браслет из бирюзы с сапфирами дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/7746644260.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7746644248.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-3/7746644271.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6838646489.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-n/6838646459.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6838646492.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6838646486.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6838646465.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6827280662.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6838646490.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6838634575.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6838634632.jpg</picture>
+<price>1190</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1282180506</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Богиня БирСпф Бр/на резинке/20-22</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1576338086" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>НОВИНКА! Представляем Вашему вниманию – необычайно притягательный браслет «МИКС КАМНЕЙ» из натуральных камней амазонитов, аквамаринов, розового кварца и золотых гематитов.<br/><br/> АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ в г. Санкт-Петербурге. <br/><br/>Элегантное украшение! Размер натуральных камней – 10 мм, золотых гематитов – 4 мм. <br/><br/>Вес украшения – 26 гр. Камни – 131 карат. <br/><br/>Камни в этом украшении обладают магическими свойствами: амазонит – камень радости и процветания, аквамарин – символ мира и любви, розовый кварц – камень бесконечной любви и сердца, золотой гематит – камень стабильности и защиты. Их сочетание создает особую энергетику и притягивает положительные вибрации. <br/><br/>Роскошные КАМНИ, Дарите Украшения Своим Любимым! Подарите им уникальное украшение, которое не только подчеркнет их красоту, но и принесет в их жизнь радость, любовь и защиту благодаря магическим свойствам натуральных камней. Браслет «МИКС КАМНЕЙ» - отличный выбор для тех, кто ценит красоту, элегантность и энергетику украшений.</description>
+<model>Бр МИКС КАМНЕЙ/РквАмз/Р/18-20</model>
+<name>Браслет розовый кварц амазонит аквамарин / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-s/7029822592.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/7029822599.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/7029822595.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-5/7029822605.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/7029822601.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-q/7029822590.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/7029822600.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/7029822596.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/7029822606.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/7029822594.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6743611005.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6743611006.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6743611007.jpg</picture>
+<price>890</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1576338086</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Бр МИКС КАМНЕЙ/РквАмз/Р/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1263093469" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет из натуральных деклассированных изумрудов - это классический и элегантный элемент женской бижутерии, который подходит для любого случая. Вставки из золотистого гематита придают изделия дополнительный блеск.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – 10 г (49 карат). <br/><br/>Диаметр бусин – 6 мм. <br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Клеопатра Изумруд бр/16+5</model>
+<name>Браслет с изумрудами дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6816960188.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6816960292.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6816960173.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-w/6816960284.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6816960195.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6816960214.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6816946239.jpg</picture>
+<price>1700</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1263093469</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Клеопатра Изумруд бр/16+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="2017287727" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет с деклассированными сапфирами и бирюзой – это уникальное украшение, которое подойдет для любого случая: от повседневной носки до вечерних мероприятий. Создание этого браслета заняло много времени и тщательной работы, чтобы получить идеальный экземпляр. Вставки из серебристого гематита отлично дополняют изделие и придают ему особый блеск.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/> Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Диаметр бусин – бирюза - 8-10 мм, сапфир дкл - 4 мм.<br/><br/>Этот браслет станет прекрасным подарком для девушки, объявлением своих чувств и уважения, он также подарит улыбку вашим близким и обязательно понравится любительницам драгоценных камней. Роскошь и элегантность в одном красивом украшении – это браслет с сапфирами и бирюзой.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Леди Шарм БрСпфБир/на резинке/15-17</model>
+<name>Браслет бирюза с сапфирами дкл / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6840790013.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6840789982.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6840790024.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6840789993.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-8/6840790064.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-y/6840790018.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6840789983.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6840790001.jpg</picture>
+<price>790</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=2017287727</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Леди Шарм БрСпфБир/на резинке/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1289810447" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Превратите каждый день в особенное событие с нашим браслетом "Розовое счастье", изготовленным из розового кварца и горного хрусталя.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!                      <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес –  8 г (43 карат).           <br/><br/>Средний диаметр бусин – Розовый кварц - 6 мм, Горный хрусталь 4 на 4 мм.<br/><br/>Розовый кварц - камень любви и сострадания, подарит вам внутренний покой и умиротворение. Розовый кварц помогает раскрывать вашу любовь к себе и окружающим, создавая благоприятную энергию и помогая приобрести настоящее женское счастье. <br/><br/>Браслет также включает в себя горный хрусталь, который укрепляет энергетическое взаимодействие розового кварца. Он способствует ясности мысли и приводит в баланс энергию вашего тела.<br/><br/>Элегантный и легкий, браслет "Розовое счастье" станет прекрасным дополнением к вашему образу. Сочетайте его с другими украшениями или носите в одиночестве, подчеркивая свою уникальность.<br/><br/>Позвольте этим украшениям стать не только частью вашего стиля, но и источником позитивной энергии и гармонии в вашей жизни.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Розовое счастье Бр/РКвГХр/16+5</model>
+<name>Браслет розовый кварц горный хрусталь / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/7602419968.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/7602419962.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-n/7602419975.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6830932902.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6830932916.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6830932910.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-i/6830932914.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-z/6830932895.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6830932900.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6830932898.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6830866190.jpg</picture>
+<price>1190</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1289810447</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Розовое счастье Бр/РКвГХр/16+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="955549964" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>ГОРЯЧАЯ НОВИНКА от ювелиров «Роскошные КАМНИ» - необычное модное колье "Весенний день", выполнено из натуральных деклассированных изумрудов с вставками из гематита - станет вашим самым любимым украшением.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!       <br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Размер камней - 4 мм.<br/><br/>Вес украшения - 14,20 гр.<br/><br/>Изумруд - камень силы и внутренней энергетики человека. Он способен помочь понять себя, привести мысли в порядок. В сочетании с медовым гематитом, создается чудная игра цветов.<br/><br/>Яркое ожерелье колье подойдет для женщин любого возраста, а так же станет отличным подарком по любому поводу. Колье способно полностью взять на себя создание образа.<br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Весенний день/изумрудДКЛ/50+5</model>
+<name>Бусы с изумрудами дкл / Колье из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6635303536.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-k/6635303552.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6635303551.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6635303533.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6635303650.jpg</picture>
+<price>2500</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=955549964</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Весенний день/изумрудДКЛ/50+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1108582702" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Уникальное колье из золотистого гематита с деклассированными изумрудами - воплощение роскоши и элегантности! Лови взгляды и приковывай внимание в этом эксклюзивном украшении.<br/><br/>Профессиональная огранка камней.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки.<br/><br/>Вес – 6 г (33 карат). <br/><br/>Диаметр бусин : Изумруд дкл - 8-10 мм, гематит - 1.5 мм.<br/><br/>Гематит - камень силы и защиты, широко известный своей способностью преобразовывать негативную энергию в позитивную. Он благодаря своим свойствам способствует укреплению энергетического поля и защищает от отрицательного воздействия окружающей среды.<br/><br/>Изумруд - символ процветания и гармонии, притягивающий благополучие и успех. Этот драгоценный камень активизирует сердечную чакру, способствуя раскрытию любви и жизненной силы. Изумруд обладает омолаживающими свойствами и возможностью создавать гармонию внутри человека.<br/><br/>Дизайнерское колье с изумрудами и золотистым гематитом от - это идеальное сочетание энергии и элегантности. Благодаря замысловатому узору, созданному из изысканных камней, это украшение станет ярким акцентом в любом наряде.<br/><br/>Покупая это колье, вы становитесь обладателем уникального изделия, которое поможет вам настроиться на успех и гармонию. Будьте центром притяжения с кольем из золотистого гематита и изумрудами. <br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Золотой ХИТ/Изумруд/45+5</model>
+<name>Колье гематит изумруд деклассированный / Ожерелье женское</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-b/6716685863.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6716685865.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-a/6716685862.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6716685861.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6716685864.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-r/6739025679.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6738996845.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-3/6739025799.jpg</picture>
+<price>1900</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1108582702</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Золотой ХИТ/Изумруд/45+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1428347083" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет "Морская прогулка" из натуральных камней бирюза и жемчуг - это женский браслет, который станет украшением любого образа. Браслет придает руке изящный вид. Кроме того, браслет будет прекрасным женским подарком. Бирюза наделяет своего обладателя мудростью и терпением, а жемчуг считается символом богатства и долголетия.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 24 г.<br/><br/>Диаметр бусин: бирюза 10.5 мм , жемчуг - 8-9 мм<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Морская прогулка Бр/Резинка/15-17</model>
+<name>Браслет из бирюзы с жемчугом</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6716708930.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-5/6716708933.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-3/6716708931.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6716708929.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6717954165.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6716708932.jpg</picture>
+<price>790</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1428347083</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Морская прогулка Бр/Резинка/15-17</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1453486312" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Яркий браслет из натурального прессованного малахита с вставкой из деклассированных изумрудов. Украшение очень стильное и рискует стать вашим любимым!<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер бусин малахита - 8 мм.<br/><br/>Размер вставки из натурального изумруда - 10 мм.<br/><br/>Выполнен на резинке.<br/><br/>Считается, что малахит, являясь оберегом, обеспечивает защиту от негативного внешнего воздействия. Энергетически сильное украшение. Замечательный подарок для близкого человека. Мы индивидуально подходим к созданию каждого украшения, все браслеты ПЛЕТУТСЯ ВРУЧНУЮ и проходят тщательную проверку перед отправкой к покупателю.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Базовый Бр Мхт/Изм/20-22</model>
+<name>Браслет малахит изумруд деклассированный / Браслет из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-e/6758385926.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-f/6758385927.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-h/6758385929.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-d/6758385925.jpg</picture>
+<price>990</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1453486312</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Базовый Бр Мхт/Изм/20-22</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1282142148" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Роскошное элегантное колье из деклассированных сапфиров и бирюзы влюбит в себя с первого взгляда. Идеальное сочетание камней не оставит равнодушной ни одну модницу. Прекрасный выбор под любой образ.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ.<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Размер изделия увеличивается на 5 см за счет регулирующей длину цепочки. <br/><br/>Диаметр бусин: Сапфир ДКЛ – 10 мм, Бирюза - 8 мм.<br/><br/>Магические свойства сапфира помогают людям открывать в себе все самое лучшее. К магическим свойствам бирюзы относят способность ограждать от «плохих» вибраций и выводить из состояния тревоги и стресса. Тем, кто носит этот камень обещана ясность ума, уравновешенность, способность логично мыслить. Кроме этого, бирюза способна изменить характер своего владельца в лучшую сторону, делая его милосерднее и добрее. Семейным людям поможет восстановить согласие в семье, прекратить ссоры. Данное колье обязательно должно быть в Вашей коллекции!<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Богиня БирСпф Колье/40+5</model>
+<name>Колье бирюза сапфир деклассированный / Ожерелье женское</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-3/6838634595.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-p/6838634581.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6838634632.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-9/6838634637.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-6/6838634634.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-v/6838634587.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-b/6838634639.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6838634557.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-j/6838634575.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-t/6827272265.jpg</picture>
+<price>1800</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1282142148</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Богиня БирСпф Колье/40+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1424286517" type="vendor.model" available="true">
+<categoryId>207</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Представляем Вашему вниманию - необычайно притягательное колье "Золотая Коллекция" из натуральных камней раухтопазов и золотых гематитов.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ в г. Санкт-Петербурге.<br/><br/>Размер раухтопазов - 4 мм, 3 крупных раухтопазов в центе по 7 мм, золотых гематитов - 3 мм.<br/><br/>Вес украшения - 16 гр. Камни - 82 карат.<br/><br/>Раухтопазы - это камни, признанные мастерами энергетики и магии. Они считаются камнями любви и страсти, способными привлекать и усиливать эмоциональные взаимоотношения. Раухтопазы способны улучшить коммуникацию и снять конфликты, помогают выражать свои чувства и эмоции. Они также являются камнями процветания, позволяя привлекать богатство и изобилие. Золотые гематиты - это камни силы, стойкости и уверенности. Они помогают укрепить волю и добиться поставленных целей.<br/><br/>Гематиты способствуют улучшению концентрации внимания и усиливают интуицию. Они также являются символом защиты от негативных энергий и злоумышленников. Сочетание раухтопазов и золотых гематитов в этом колье создает сильную и уравновешенную энергетику. Камни взаимодополняют друг друга, усиливая свои положительные свойства. Это уникальное сочетание помогает привлечь любовь, страсть, богатство и защиту, создавая счастливую и успешную жизнь.<br/><br/>Носите это колье, и оно станет не только роскошным украшением, но и мощным амулетом. Золотая Коллекция из натуральных камней раухтопазов и золотых гематитов дарит своему владельцу уверенность, любовь и процветание.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Золотая Коллекция Б/Ртп/50+5</model>
+<name>Колье из раухтопазов / Бусы из натуральных камней</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-z/6924227075.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-q/6924227102.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/6924227069.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/6924227082.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-4/6924227080.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/6924227090.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-y/6924227074.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/6924227101.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/6924227086.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/6924227073.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-v/6924227071.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6924227076.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6825393470.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-c/6825393480.jpg</picture>
+<price>2800</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1424286517</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Золотая Коллекция Б/Ртп/50+5</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+<offer id="1428344356" type="vendor.model" available="true">
+<categoryId>208</categoryId>
+<country_of_origin>Россия</country_of_origin>
+<delivery>true</delivery>
+<description>Браслет "Морская прогулка" из натуральных камней бирюзы и культивированного жемчуга - это женский браслет, который станет украшением любого образа. Браслет придает руке изящный вид. Кроме того, браслет будет прекрасным женским подарком. Бирюза наделяет своего обладателя мудростью и терпением, а жемчуг считается символом богатства и долголетия.<br/><br/>АВТОРСКОЕ ИЗДЕЛИЕ, ПЛЕТЕТСЯ ВРУЧНУЮ!<br/><br/>Эксклюзив, только в магазине Роскошные КАМНИ!<br/><br/>Браслет выполнен на резинке.<br/><br/>Вес – 24 г.<br/><br/>Диаметр бусин: <br/><br/>бирюза 10.5 мм , <br/><br/>жемчуг культивированный - 8-9 мм.<br/><br/><br/><br/> <br/><br/>Дарите себе и своим любимым море драгоценных эмоций и ярких образов с украшениями от Роскошные КАМНИ!</description>
+<model>Морская прогулка Бр/Резинка/18-20</model>
+<name>Браслет из бирюзы с жемчугом</name>
+<param name="ширина, мм">100</param>
+<param name="длина, мм">150</param>
+<param name="высота, мм">20</param>
+<param name="Вес, кг">0,1</param>
+<picture>https://cdn1.ozone.ru/s3/multimedia-2/6716708930.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-5/6716708933.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-3/6716708931.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-1/6716708929.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-x/6717954165.jpg</picture>
+<picture>https://cdn1.ozone.ru/s3/multimedia-4/6716708932.jpg</picture>
+<price>890</price>
+<typePrefix>Украшения</typePrefix>
+<url>https://rkamni.ru/shop/?osku=1428344356</url>
+<vendor>Роскошные КАМНИ</vendor>
+<vendorCode>Морская прогулка Бр/Резинка/18-20</vendorCode>
+<weight>0,1</weight>
+<width>100</width>
+<length>150</length>
+<height>20</height>
+</offer>
+</offers>
+</shop>
 </yml_catalog>
