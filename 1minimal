@@ -18,6 +18,16 @@
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
 			</offer>
+<offer id="1234567891" available="true">
+				<categoryId>1</categoryId>
+				<price>150</price>
+				<name>Цветы 1минимальные поля12 ещё добавилиы</name>
+				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+			</offer>
          </offers>
     </shop>
 </yml_catalog>
