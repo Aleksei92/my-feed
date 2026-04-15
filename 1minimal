@@ -10,7 +10,7 @@
         <offers>
             <offer id="123456789" available="true">
 				<categoryId>1</categoryId>
-				<price>150</price>
+				<price>1501</price>
 				<name>Цветы 1минимальные поля12</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
