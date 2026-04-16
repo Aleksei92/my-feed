@@ -11,7 +11,7 @@
             <offer id="123456789111" available="true">
 				<categoryId>1</categoryId>
 				<price>111</price>
-				<name>Обновляем и смотрим модерацию и</name>
+				<name>Обновляем и смотрим модерацию и имя мена</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2</description>
 				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
 				<consist name="роза" unit="шт">52</consist>
@@ -19,7 +19,7 @@
 				<param name="Ширина, мм">2502</param>
 <qty>50</qty>
 			</offer>
- <offer id="nowiofer" available="true">
+ <offer id="nowiofer" available="false">
 				<categoryId>1</categoryId>
 				<price>150</price>
 				<name>Обновляем и смотрим модерацию и второй товар добавили</name>
