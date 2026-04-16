@@ -10,7 +10,7 @@
         <offers>
             <offer id="123456789111" available="true">
 				<categoryId>1</categoryId>
-				<price>1501</price>
+				<price>150</price>
 				<name>Обновляем и смотрим модерацию</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
