@@ -30,6 +30,34 @@
 				<param name="Ширина, мм">2502</param>
 <qty>50</qty>
 			</offer>
-         </offers>
+<offer id="2009290317" available="true">
+<name>Букет из 25 роз "Pink O'Hara" в вазе</name>
+<price>18890</price>
+<currencyId>RUR</currencyId>
+<description>​Этот великолепный букет из редкой пионовидной розы сорта David Austin "Pink O'Hara" в вазе, станет прекрасным подарком Вашему близкому человеку!</description>
+<param name="Высота, мм">400</param>
+<param name="Ширина, мм">300</param>
+<categoryId>666</categoryId>
+<categoryId>563</categoryId>
+<consist name="Роза Колумбия Pink Ohara" unit="шт">25</consist>
+<consist name="Транспортировочная Коробка Белая" unit="шт">1</consist>
+<consist name="Вкладыш в коробку" unit="шт">1</consist>
+<consist name="Лента упаковочная оливковая" unit="шт">5</consist>
+<consist name="Ваза цилиндр" unit="шт">1</consist>
+<consist name="Раффия " unit="шт">1</consist>
+<consist name="Открытка Бренд" unit="шт">1</consist>
+<consist name="Конверт Бренд Белый " unit="шт">1</consist>
+<consist name="Кризал (пакетики)" unit="шт">3</consist>
+<consist name="Наклейка Белая Цветочек " unit="шт">1</consist>
+<consist name="Инструкция к Вазе " unit="шт">1</consist>
+<consist name="Наклейка Белая Лого" unit="шт">1</consist>
+<consist name="Лента Бренд Белая " unit="шт">1</consist>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/20/25/20257509.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/12/95/12958166.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/78/16/78167449.jpg.1041.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/87/95/87957186.jpg.1041.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/79/18/79187948.jpg.1041.jpg</picture>
+</offer>
+</offers>
     </shop>
 </yml_catalog>
