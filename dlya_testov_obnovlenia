@@ -4,7 +4,6 @@
 <company>Flora Delivery</company>
 <url>https://floradelivery.ru</url>
 <categories>
-<category id="563">Цветы</category>
 <category id="574" parentId="563">Авторские букеты</category>
 <category id="578">Воздушные шары</category>
 <category id="584">Сладости</category>
