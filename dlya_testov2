@@ -13,7 +13,7 @@
 				<categoryId>1</categoryId>
 				<price>10000</price>
 				<name>Обновляем и смотрим модерацию и имя мена</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2</description>
+				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2 новое описание</description>
 				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
 				<consist name="роза" unit="шт">52</consist>
 				<param name="Высота, мм">4002</param>
