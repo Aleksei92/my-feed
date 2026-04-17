@@ -4,11 +4,12 @@
 <company>Flora Delivery</company>
 <url>https://floradelivery.ru</url>
 <categories>
-<category id="574">Авторские букеты</category>
+<category id="563">Цветы</category>
+<category id="574" parentId="563">Авторские букеты</category>
 <category id="578">Воздушные шары</category>
 <category id="584">Сладости</category>
 <category id="585">Мягкие игрушки</category>
-<category id="666">Монобукеты</category>
+<category id="666" parentId="563">Монобукеты</category>
 </categories>
 <offers>
 <offer id="000317072017" available="true">
