@@ -1,0 +1,97 @@
+<yml_catalog date="2026-04-17T10:22:25+03:00">
+<shop>
+<name>Flora Delivery</name>
+<company>Flora Delivery</company>
+<url>https://floradelivery.ru</url>
+<categories>
+<category id="563">Цветы</category>
+<category id="574" parentId="563">Авторские букеты</category>
+<category id="578">Воздушные шары</category>
+<category id="584">Сладости</category>
+<category id="585">Мягкие игрушки</category>
+<category id="666" parentId="563">Монобукеты</category>
+</categories>
+<offers>
+<offer id="000317072017" available="true">
+<name>Букет из 101 розы "Pink O'Hara"</name>
+<price>58990</price>
+<currencyId>RUR</currencyId>
+<description>​Этот прекрасный букет из элитной садовой розы с романтическим раскрытием Pink O'Hara станет замечательным подарком Вашему любимому человеку!</description>
+<param name="Высота, мм">500</param>
+<param name="Ширина, мм">800</param>
+<categoryId>666</categoryId>
+<categoryId>563</categoryId>
+<consist name="Роза Колумбия Pink Ohara" unit="шт">101</consist>
+<consist name="Лента Бренд Белая " unit="шт">3</consist>
+<consist name="Раффия " unit="шт">7</consist>
+<consist name="Пленка флористическая " unit="шт">3</consist>
+<consist name="Конверт Бренд Белый " unit="шт">1</consist>
+<consist name="Открытка Бренд" unit="шт">1</consist>
+<consist name="Кризал (пакетики)" unit="шт">3</consist>
+<consist name="Инструкция к Букету " unit="шт">1</consist>
+<consist name="Наклейка Белая Цветочек " unit="шт">1</consist>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/56/15/56151161.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/04/68/04681504.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/51/05/51057847.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/77/10/77105040.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/78/16/78167449.jpg.1517.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/87/95/87957186.jpg.1517.jpg</picture>
+</offer>
+<offer id="1232041022" available="true">
+<name>Букет "October №4"</name>
+<price>11490</price>
+<currencyId>RUR</currencyId>
+<description>В комплекте идет специальное средство для продления жизни букета, открытка из 100% хлопковой бумаги, ароматизированная селективным парфюмом, на которой Вы можете написать послание, инструкция от Кристины Аллонсо - иллюстратора Дома Dior.</description>
+<param name="Высота, мм">400</param>
+<param name="Ширина, мм">210</param>
+<categoryId>574</categoryId>
+<categoryId>563</categoryId>
+<consist name="Альстромерия Розовая " unit="шт">3</consist>
+<consist name="Альстромерия Белая " unit="шт">4</consist>
+<consist name="Роза Кустовая Желтая " unit="шт">1</consist>
+<consist name="Ромашка кустовая" unit="шт">5</consist>
+<consist name="Лизиантус Розовый" unit="шт">4</consist>
+<consist name="Гвоздика белая кустовая" unit="шт">2</consist>
+<consist name="Транспортировочная Коробка Белая" unit="шт">1</consist>
+<consist name="Лента упаковочная оливковая" unit="шт">5</consist>
+<consist name="Вкладыш в коробку" unit="шт">1</consist>
+<consist name="Лента Бренд Белая " unit="шт">1</consist>
+<consist name="Раффия " unit="шт">2</consist>
+<consist name="Конверт Бренд Белый " unit="шт">1</consist>
+<consist name="Открытка Бренд" unit="шт">1</consist>
+<consist name="Наклейка Белая Цветочек " unit="шт">1</consist>
+<consist name="Инструкция к Букету " unit="шт">1</consist>
+<consist name="Калька матовая прозрачная" unit="шт">1</consist>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/35/67/35670730.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/71/70/71704545.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/34/32/34324384.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/61/07/61075923.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/01/63/01636439.jpg</picture>
+</offer>
+<offer id="1241290317" available="true">
+<name>Букет из 51 розы "Pink O'Hara"</name>
+<price>32790</price>
+<currencyId>RUR</currencyId>
+<description>​Этот прекрасный букет из элитной садовой розы с романтическим раскрытием Pink O'Hara станет замечательным подарком Вашему любимому человеку!</description>
+<param name="Высота, мм">500</param>
+<param name="Ширина, мм">400</param>
+<categoryId>563</categoryId>
+<consist name="Роза Колумбия Pink Ohara" unit="шт">51</consist>
+<consist name="Конверт Бренд Белый " unit="шт">1</consist>
+<consist name="Открытка Бренд" unit="шт">1</consist>
+<consist name="Кризал (пакетики)" unit="шт">3</consist>
+<consist name="Лента Бренд Белая " unit="шт">2</consist>
+<consist name="Раффия " unit="шт">2</consist>
+<consist name="Инструкция к Букету " unit="шт">1</consist>
+<consist name="Наклейка Белая Цветочек " unit="шт">1</consist>
+<consist name="Пленка флористическая " unit="шт">4</consist>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/48/82/48821387.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/44/87/44876407.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/78/76/78765045.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/49/18/49181295.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/78/16/78167449.jpg.1007.jpg</picture>
+<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/87/95/87957186.jpg.1007.jpg</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
