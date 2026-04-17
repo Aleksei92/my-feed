@@ -22,8 +22,8 @@
 <qty>50</qty>
 			</offer>
  <offer id="nowiofer" available="true">
-				<categoryId>1</categoryId>
-<categoryId>3</categoryId>
+<categoryId>1</categoryId>
+<categoryId>2</categoryId>
 				<price>150</price>
 				<name>Обновляем и смотрим модерацию и второй товар добавили</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2</description>
