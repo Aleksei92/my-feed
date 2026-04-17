@@ -6,6 +6,7 @@
         <url>https://flowwow.loc</url>
         <categories>
             <category id="1">Цветы</category>
+<category id="2" parentId="1">Монобукеты</category>
         </categories>
         <offers>
             <offer id="123456789111" available="true">
@@ -38,7 +39,7 @@
 <param name="Высота, мм">400</param>
 <param name="Ширина, мм">300</param>
 <categoryId>1</categoryId>
-<categoryId>563</categoryId>
+<categoryId>2</categoryId>
 <consist name="Роза Колумбия Pink Ohara" unit="шт">25</consist>
 <consist name="Транспортировочная Коробка Белая" unit="шт">1</consist>
 <consist name="Вкладыш в коробку" unit="шт">1</consist>
