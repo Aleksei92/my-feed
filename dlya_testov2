@@ -20,7 +20,7 @@
 				<param name="Ширина, мм">2502</param>
 <qty>50</qty>
 			</offer>
- <offer id="nowiofer" available="false">
+ <offer id="nowiofer" available="true">
 				<categoryId>1</categoryId>
 				<price>150</price>
 				<name>Обновляем и смотрим модерацию и второй товар добавили</name>
