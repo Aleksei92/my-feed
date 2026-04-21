@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-20T12:00:00+03:00">
+    <shop>
+        <name>Флоувоу минимальный магазин</name>
+        <company>ООО Флоувоу</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="123456789" available="true">
+				<categoryId>1</categoryId>
+				<price>1501</price>
+				<name>Цветы 1минимальные поля12</name>
+				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+			</offer>
+         </offers>
+    </shop>
+</yml_catalog>
