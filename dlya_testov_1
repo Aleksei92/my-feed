@@ -17,7 +17,7 @@
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
-<production_time>10</production_time>
+<qty>80</qty>
 			</offer>
          </offers>
     </shop>
