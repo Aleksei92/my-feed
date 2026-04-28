@@ -8,16 +8,26 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="123456789" available="true">
+<offer id="1234562789" available="true">
 				<categoryId>1</categoryId>
 				<price>1501</price>
-				<name>Цветы 1минимальные поля12 для теста</name>
+				<name>Цветы 1минимальные поля12 2для теста</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
-<production_time>0</production_time>
+</offer>
+<offer id="1243456789" available="true">
+				<categoryId>1</categoryId>
+				<price>1501</price>
+				<name>Цветы 1м24инимальные поля12 для теста</name>
+				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+<production_time>10</production_time>
 			</offer>
          </offers>
     </shop>
