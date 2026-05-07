@@ -1,90 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-04-17T12:10:00+03:00">
-    <shop>
-        <name>Флоувоу минимальный магазин</name>
-        <company>ООО Флоувоу</company>
-        <url>https://flowwow.loc</url>
-        <categories>
-            <category id="1">Цветы</category>
-<category id="2" parentId="1">Монобукеты</category>
-<category id="3">Цветы проверка двух подкатегорий</category>
-        </categories>
-        <offers>
-            <offer id="123456789111" available="true">
+<yml_catalog date="2025-08-05T12:00:00+03:00">
+	<shop>
+		<name>Магазин с частичными данными</name>
+		<company>ООО Ромашка</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="1">Цветы</category>
+		</categories>
+		<offers>
+			<offer id="8001">
 				<categoryId>1</categoryId>
-				<price>10000</price>
-				<name>Обновляем и смотрим модерацию и имя мена</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2 новое описание</description>
-				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
-				<consist name="роза" unit="шт">52</consist>
-				<param name="Высота, мм">4002</param>
-				<param name="Ширина, мм">2502</param>
-<qty>50</qty>
+				<price>1500</price>
+				<name>2вчс</name>
+				<description>Букет из пяти красных роз.</description>
+				<picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
 			</offer>
- <offer id="nowiofer" available="true">
-<categoryId>1</categoryId>
-<categoryId>2</categoryId>
-				<price>150</price>
-				<name>Обновляем и смотрим модерацию и второй товар добавили</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2</description>
-				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
-				<consist name="роза" unit="шт">52</consist>
-				<param name="Высота, мм">4002</param>
-				<param name="Ширина, мм">2502</param>
-<qty>50</qty>
+			<offer id="8002">
+				<categoryId>1</categoryId>
+				<price></price>
+				<name>Букет из белых тюльпанов без цены</name>
+				<description>Пять тюльпанов в крафтовой упаковке.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
 			</offer>
-<offer id="2009290317" available="true">
-<name>Букет из 25 роз "Pink O'Hara" в вазе</name>
-<price>18890</price>
-<currencyId>RUR</currencyId>
-<description>​Этот великолепный букет из редкой пионовидной розы сорта David Austin "Pink O'Hara" в вазе, станет прекрасным подарком Вашему близкому человеку!</description>
-<param name="Высота, мм">400</param>
-<param name="Ширина, мм">300</param>
-<categoryId>1</categoryId>
-<categoryId>2</categoryId>
-<consist name="Роза Колумбия Pink Ohara" unit="шт">25</consist>
-<consist name="Транспортировочная Коробка Белая" unit="шт">1</consist>
-<consist name="Вкладыш в коробку" unit="шт">1</consist>
-<consist name="Лента упаковочная оливковая" unit="шт">5</consist>
-<consist name="Ваза цилиндр" unit="шт">1</consist>
-<consist name="Раффия " unit="шт">1</consist>
-<consist name="Открытка Бренд" unit="шт">1</consist>
-<consist name="Конверт Бренд Белый " unit="шт">1</consist>
-<consist name="Кризал (пакетики)" unit="шт">3</consist>
-<consist name="Наклейка Белая Цветочек " unit="шт">1</consist>
-<consist name="Инструкция к Вазе " unit="шт">1</consist>
-<consist name="Наклейка Белая Лого" unit="шт">1</consist>
-<consist name="Лента Бренд Белая " unit="шт">1</consist>
-<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/20/25/20257509.jpg</picture>
-<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/12/95/12958166.jpg</picture>
-<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/78/16/78167449.jpg.1041.jpg</picture>
-<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/87/95/87957186.jpg.1041.jpg</picture>
-<picture>https://floradelivery.ru/images/uploads/thumbs/productImage/1088x1088/79/18/79187948.jpg.1041.jpg</picture>
-</offer>
-<offer id="nowiofer1" available="true">
-<categoryId>1</categoryId>
-<categoryId>2</categoryId>
-				<price>150</price>
-				<name>Обновляем и смотрим модерацию и второй товар добавили новове название и ктегории</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2</description>
-				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
-				<consist name="роза" unit="шт">52</consist>
-				<param name="Высота, мм">4002</param>
-				<param name="Ширина, мм">2502</param>
-<qty>50</qty>
+			<offer id="8003">
+				<categoryId>1</categoryId>
+				<price>1200</price>
+				<name>Букет из сирени без картинки</name>
+				<description>Ароматный букет сирени.</description>
+				<picture></picture>
+				<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
 			</offer>
-<offer id="nowiofer12" available="true">
-<categoryId>1</categoryId>
-<categoryId>3</categoryId>
-				<price>150</price>
-				<name>Обновляем и смотрим модерацию и второй товар добавили новове название и ктегории(тут не родительские категории</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления2</description>
-				<picture>https://kusty74.ru/image/catalog/tovar/bukety/bukety/kapelki_rosy1.jpg</picture>
-				<consist name="роза" unit="шт">52</consist>
-				<param name="Высота, мм">4002</param>
-				<param name="Ширина, мм">2502</param>
-<qty>50</qty>
+			<offer id="8005">
+				<categoryId>1</categoryId>
+<price>500</price>
+<name>Супер товар без ошибок</name>
+<description>Красивая красная роза</description>
+<picture>https://flowwow.loc/rose.jpg</picture>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+<consist name="роза" unit="шт">1</consist>
 			</offer>
-</offers>
-    </shop>
+			<offer id="8004">
+				<categoryId>1</categoryId>
+				<price>1800</price>
+				<name>Букет из пионов (с пустым составом)</name>
+				<description>Пышный букет розовых пионов для тестирования.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+			</offer>
+<offer id="8006">
+				<categoryId>1</categoryId>
+<price>500</price>
+<name>цветок без размеров</name>
+<description>Красивая красная роза</description>
+<picture>https://flowwow.loc/rose.jpg</picture>
+<consist name="роза" unit="шт">1</consist>
+			</offer>
+		</offers>
+	</shop>
 </yml_catalog>
