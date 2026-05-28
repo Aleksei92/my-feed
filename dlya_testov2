@@ -1,67 +1,591 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-05T12:00:00+03:00">
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-05-28T15:03:33+05:00">
 	<shop>
-		<name>Магазин с частичными данными</name>
-		<company>ООО Ромашка</company>
-		<url>https://flowwow.loc</url>
+		<name>Арт Букет</name>
+		<company>ИП Арт Букет</company>
+		<url>https://flowwow.kz/shop/art-flowersf-2031/</url>
 		<categories>
-			<category id="1">Цветы</category>
+			<category id="1">Цветы 1</category>
 		</categories>
 		<offers>
-			<offer id="8001">
+			<offer id="AF001" available="true">
 				<categoryId>1</categoryId>
-				<price>1500</price>
-				<name></name>
-				<description>Букет из пяти красных роз.</description>
-				<picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
-				<consist name="роза" unit="шт">1</consist>
-<param name="Высота, мм">80</param>
-<param name="Ширина, мм">50</param>
+				<price>32727</price>
+				<name>Тихий Румянец</name>
+				<description>Лёгкая и аккуратная композиция с гортензией и орхидеями в мягких оттенках.
+Подходит для спокойного подарка без перегруза — выглядит стильно и свежо.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1M5ZnQ5oEx2Ifgx9ILCwJMAoLaZ5v--wb</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1Pi2SSuqvWnugVBIePoFYZOz8qpj97WDT</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1rTDMQWv-F84thybUoV3eTWBKwDe9P_f1</picture>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="орхидея" unit="шт">2</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза" unit="шт">5</consist>
+				<consist name="гвоздика" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
 			</offer>
-			<offer id="8002">
+			<offer id="AF002" available="true">
 				<categoryId>1</categoryId>
-				<price></price>
-				<name>Букет из белых тюльпанов без цены</name>
-				<description>Пять тюльпанов в крафтовой упаковке.</description>
-				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
-				<consist name="роза" unit="шт">1</consist>
-<param name="Высота, мм">80</param>
-<param name="Ширина, мм">50</param>
+				<price>40000</price>
+				<name>Живой Образ</name>
+				<description>Более пышный вариант с акцентом на орхидеи и розы.
+Выглядит заметно крупнее и насыщеннее, подходит для подарка с эффектом.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1xNJa4t-m-MVLW1frKnkvNtSJxyhYpbVB</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1IdV3nkhkT6W7yMLveZLHpQlFnYF2xB8h</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1wTZ1L9EVbYIju0hxuEESwYhkqcMwY6qB</picture>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="альстромерия" unit="шт">3</consist>
+				<consist name="орхидея" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза" unit="шт">5</consist>
+				<consist name="гвоздика" unit="шт">3</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
 			</offer>
-			<offer id="8003">
+			<offer id="AF003" available="true">
 				<categoryId>1</categoryId>
-				<price>1200</price>
-				<name>Букет из сирени без картинки</name>
-				<description>Ароматный букет сирени.</description>
-				<picture></picture>
-				<consist name="роза" unit="шт">1</consist>
-<param name="Высота, мм">80</param>
-<param name="Ширина, мм">50</param>
+				<price>50909</price>
+				<name>Яркая Волна</name>
+				<description>Плотный и насыщенный букет с большим количеством роз и миксом цветов.
+Создаёт ощущение щедрости и визуального объёма.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1wLO1J9hyrxpWGEwKZf9Lfa6w858m9C6O</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1i7g1v8OhXqCcLEsCn6AnqI74d5QR6R4n</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1uqc-daipIMTKf9N9_SrbUY6o9CDHOc7a</picture>
+				<consist name="гортензия" unit="шт">2</consist>
+				<consist name="альстромерия" unit="шт">3</consist>
+				<consist name="орхидея" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза" unit="шт">7</consist>
+				<consist name="гвоздика" unit="шт">4</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
 			</offer>
-			<offer id="8005">
+			<offer id="AF004" available="true">
 				<categoryId>1</categoryId>
-<price></price>
-<name>Супер товар без ошибок но теперь нет цены и размеров</name>
-<description>Красивая красная роза</description>
-<picture>https://flowwow.loc/rose.jpg</picture>
-<consist name="роза" unit="шт">1</consist>
+				<price>54545</price>
+				<name>Ароматный Люкс</name>
+				<description>Богатый букет с лилиями, гортензиями и кустовыми розами.
+Выраженный аромат и разнообразие цветов делают его вариантом для значимого подарка.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1HOZgKQJ6BamPAmOjDq6m5drXtUWuqUnP</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1STeyXeGd468yRyEhkzuynF7akKc8s6yA</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1TIU7z-PQ5OE7qhTVdn01Kv9HQ_CJrXoj</picture>
+				<consist name="лилия" unit="шт">2</consist>
+				<consist name="гипсофила" unit="шт">2</consist>
+				<consist name="гортензия" unit="шт">2</consist>
+				<consist name="гвоздика" unit="шт">7</consist>
+				<consist name="роза Джульетта" unit="шт">3</consist>
+				<consist name="альстромерия" unit="шт">3</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
 			</offer>
-			<offer id="8004">
+			<offer id="AF005" available="true">
 				<categoryId>1</categoryId>
-				<price>1800</price>
-				<name>Букет из пионов (с пустым составом)</name>
-				<description>Пышный букет розовых пионов для тестирования.</description>
-				<picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
-<param name="Высота, мм">80</param>
-<param name="Ширина, мм">50</param>
+				<price>47273</price>
+				<name>Цветочный Коктейль</name>
+				<description>Гармоничный букет в мягких розовых оттенках с орхидеями, розами и гортензией.
+Смотрится объёмно, но не перегруженно — аккуратный и стильный вариант для подарка без лишнего пафоса.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1bHhiQs1wazroLkBqRfyWJMzHl1Pz_pWm</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1U_Urq9Q8fOFXpt-3hn_eTMnTANhXOGFy</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1GQachdGMGhv0A8CbpTDZ_dGqwIp3qk7q</picture>
+				<consist name="орхидея" unit="шт">3</consist>
+				<consist name="гербера" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза" unit="шт">5</consist>
+				<consist name="гортензия" unit="шт">2</consist>
+				<consist name="лизиантус" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
 			</offer>
-<offer id="8006">
+			<offer id="AF006" available="true">
 				<categoryId>1</categoryId>
-<price>500</price>
-<name>цветок без размеров</name>
-<description>Красивая красная роза</description>
-<picture>https://flowwow.loc/rose.jpg</picture>
-<consist name="роза" unit="шт">1</consist>
+				<price>45455</price>
+				<name>Розовый Символ</name>
+				<description>Классический букет из 21 розы — универсальный способ выразить внимание и отношение без лишних слов.
+Сдержанный, аккуратный и понятный формат, который всегда воспринимается правильно.
+Идеален для подарка девушке, на свидание или важную встречу.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1jGmYPBm-AwwepR4cT_pbK8cZCC7AlQq3</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1khkG5gL1tEYBtlaU6sVJKPWUPoV6PsfW</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1JK4369le4WvhnbgTp_8mbmnBULrn4Xup</picture>
+				<consist name="роза" unit="шт">21</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF007" available="true">
+				<categoryId>1</categoryId>
+				<price>54545</price>
+				<name>Сильное Признание</name>
+				<description>Яркий букет из 25 красных роз — про эмоции, которые не нужно объяснять.
+Выглядит насыщенно и выразительно, сразу создаёт эффект “вау”.
+Подходит, когда важно подчеркнуть серьёзность намерений и произвести впечатление.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1XsEzXS9PG8VaEMZforTZsjz58jq6WeN0</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1tdXn8MNGswWPryFXRYT3085lJcd8BYRW</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1z8wXzaSDawmGVzikoCCfkfJMSh_IEtN6</picture>
+				<consist name="роза" unit="шт">25</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF008" available="true">
+				<categoryId>1</categoryId>
+				<price>50000</price>
+				<name>Цветочная Гармония</name>
+				<description>Премиальная композиция с орхидеями, розами и альстромериями в нежной гамме.
+Сочетает мягкость и объём, выглядит дорого и аккуратно одновременно.
+Отличный вариант, если нужен красивый и “дорогой на вид” подарок.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1G2SteX1xalhOr6UWZ9JSD7S3rEJR6zZA</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1lef6riGHCcS3Rwdzy-C9UmPaaRJJbuUy</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=14hUwHbXye4pBWDziASRtLikaTjEfFmvB</picture>
+				<consist name="роза" unit="шт">8</consist>
+				<consist name="орхидея" unit="шт">5</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="ранункулюс" unit="шт">1</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF009" available="true">
+				<categoryId>1</categoryId>
+				<price>45455</price>
+				<name>Лёгкий Холод</name>
+				<description>Свежий букет в голубых и светлых оттенках с гортензией и хризантемами.
+Выглядит необычно и выделяется среди стандартных розовых композиций.
+Подходит для тех, кто хочет подарить что-то более оригинальное и лёгкое.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=11DSMx1wVurDc1eeMaDnhHF0QNKtYAi2D</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1tOKSkjItW0671kdXYBMXEGSz1LHo4UGl</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1bF0NefD4A_fkv_0Rd09x4gfADRabvvF5</picture>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="лизиантус" unit="шт">5</consist>
+				<consist name="хризантема" unit="шт">4</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF010" available="true">
+				<categoryId>1</categoryId>
+				<price>47273</price>
+				<name>Тёплый Микс</name>
+				<description>Сбалансированный букет с розами, гортензией и хризантемами в тёплой гамме.
+Выглядит живо и объёмно за счёт разнообразия цветов, но сохраняет аккуратность.
+Подходит для подарка, когда нужен универсальный и приятный вариант без риска “не угадать”.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1jpYzfFzIWQYKIyZSBAEfaGg29658fw_7</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1JBNmsszKESF5pvve-3URNTpqMRtWW63Y</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1eL2htkqf1I3316do9_ZIypoAkZzKsjxg</picture>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="хризантема" unit="шт">2</consist>
+				<consist name="вакс" unit="шт">2</consist>
+				<consist name="роза Джульетта" unit="шт">2</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="роза" unit="шт">5</consist>
+				<consist name="леукоспермум" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF011" available="true">
+				<categoryId>1</categoryId>
+				<price>36364</price>
+				<name>Мягкий Объём</name>
+				<description>Пышный букет с акцентом на гортензию и гвоздики — выглядит плотным и наполненным.
+Нежные оттенки делают его спокойным и приятным для восприятия.
+Хороший выбор, если нужен объёмный букет по умеренной цене.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1A_32S81n3Hlzhpcd4uNB-bTLCzP_zAJT</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=16t2jOXKAEcMZyHEUnKeEn-Y44b_jWj_2</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1QzZE8VbcVN7cUMr4xy0JfLVR_X-AFX2F</picture>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="гвоздика" unit="шт">7</consist>
+				<consist name="вакс" unit="шт">1</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF012" available="true">
+				<categoryId>1</categoryId>
+				<price>54545</price>
+				<name>Свежий Контраст</name>
+				<description>Контрастный букет с ранункулюсами, розами и альстромериями.
+Сочетание разных форм и оттенков создаёт эффект “дорогой композиции”.
+Подходит для подарка, когда важно выделиться и не дарить банальные варианты.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1qc5ZNmfCgNsADkBY7cIFqhK3G_WBgew-</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1jPgz723dwxPGfBW1BS5Ws5d8LAZnt7JC</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1vaonD9ld9i6PBWJDRsR-FNHvFKL9eG8y</picture>
+				<consist name="гвоздика" unit="шт">5</consist>
+				<consist name="бруния" unit="шт">1</consist>
+				<consist name="ранункулюс" unit="шт">3</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="вакс" unit="шт">2</consist>
+				<consist name="роза" unit="шт">3</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF013" available="true">
+				<categoryId>1</categoryId>
+				<price>49091</price>
+				<name>Живой Состав</name>
+				<description>Насыщенный букет с большим количеством цветов и текстур — от роз до гербер и хризантем.
+Выглядит ярко, разнообразно и привлекает внимание с первого взгляда.
+Идеален, если нужен заметный и эффектный подарок.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=146soANVJpp9MGEw_wbvK_5cW-Veb3C8c</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1CNBOMWxj_Pv8ry3EhaqADGAcX-B-lN2v</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1ZO9bjT5NT3lebwK2rULA1wtxyMDluOvH</picture>
+				<consist name="спрей-роза" unit="шт">1</consist>
+				<consist name="гвоздика" unit="шт">4</consist>
+				<consist name="гербера" unit="шт">1</consist>
+				<consist name="альстромерия" unit="шт">3</consist>
+				<consist name="роза" unit="шт">7</consist>
+				<consist name="хризантема" unit="шт">3</consist>
+				<consist name="вакс" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF014" available="true">
+				<categoryId>1</categoryId>
+				<price>26364</price>
+				<name>Пудровая Нежность</name>
+				<description>Лёгкий и аккуратный букет в нежной палитре, который подходит для любого повода — от свидания до благодарности.
+Сочетание пышной гортензии, изящных роз и ароматного эвкалипта создаёт ощущение свежести и утончённости.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1268vwbqMOsIfG3HNJG3ZpJOX49ig3EfC</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1lyI1kT_2xOW2VCh3plWkXF7QTckhU5hL</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=18bSSnOM9_WE8kbKVKns5O-IdARy24YEC</picture>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="роза" unit="шт">5</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза Джульетта" unit="шт">3</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF015" available="true">
+				<categoryId>1</categoryId>
+				<price>47273</price>
+				<name>Премиум Импульс</name>
+				<description>Выразительный букет с редкими цветами, который сразу привлекает внимание.
+Антуриум добавляет экзотики, ранункулюсы — объём и мягкость, а розы и хризантемы балансируют композицию.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1YRwn2Gc90xGy-mACR8vIYGiwdKebtQ3Y</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1PIkchCeVnA6HkLiDExhzb-RFqKE1T5g3</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1yXrVbJKc4Y4jNFAYjKXXp6hBntp9NLNv</picture>
+				<consist name="антуриум" unit="шт">2</consist>
+				<consist name="ранункулюс" unit="шт">3</consist>
+				<consist name="хризантема" unit="шт">2</consist>
+				<consist name="роза" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF016" available="true">
+				<categoryId>1</categoryId>
+				<price>29091</price>
+				<name>Пышный Баланс</name>
+				<description>Пышный букет с акцентом на хризантемы — выглядит объёмно и дорого при аккуратной цене.
+Дополнен гортензией и розами для мягкости и гармонии.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1zRTNMBH2yEEel1wjItNMNzYz0V17soP2</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1rx7sr-ZA-WOLCI1N0OF--aV9-7SPevPL</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=15Q23zYbtvjt2UId6_oz0kT854SK-5kTb</picture>
+				<consist name="хризантема" unit="шт">4</consist>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="вакс" unit="шт">1</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза" unit="шт">3</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF017" available="true">
+				<categoryId>1</categoryId>
+				<price>138182</price>
+				<name>Белая Симфония</name>
+				<description>Объёмная композиция в светлой палитре с лилиями, розами и гортензиями.
+Сочетание крупных бутонов и воздушных текстур создаёт эффект “дорогого, живого облака”.
+Это не просто букет — это заметный жест, который сразу задаёт уровень подарка.
+Подходит для особых случаев, где важны впечатление и масштаб.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1wcXfNTZHr2h1nDSZAWQiLA8kyclljmE0</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1tPUIDqkTLJRvdtPduGHL9TIIShyOo8co</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1tMGrHpxmGbbcbNe1RvsQPXFzy_eC_erR</picture>
+				<consist name="лилия" unit="шт">5</consist>
+				<consist name="хризантема" unit="шт">9</consist>
+				<consist name="гортензия" unit="шт">6</consist>
+				<consist name="роза" unit="шт">15</consist>
+				<consist name="лизиантус" unit="шт">10</consist>
+				<consist name="альстромерия" unit="шт">7</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF018" available="true">
+				<categoryId>1</categoryId>
+				<price>40000</price>
+				<name>Цветочный Характер</name>
+				<description>Выразительный букет с антуриумом, каллами и альстромерией.
+За счёт необычных форм выглядит интереснее стандартных композиций.
+Идеален, если хочется подарить что-то не банальное, но аккуратное и стильное.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1JUK9QNQ_hf8cysdSrUHQiQ8PrLu20Ajj</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1qA91n_8t3N2ENYOcQsiiGp3mEHX8Az_8</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1Hr0GQ-QQg5tsWqb-TrXdkq16jP0urEfw</picture>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="дельфиниум" unit="шт">2</consist>
+				<consist name="антуриум" unit="шт">1</consist>
+				<consist name="вакс" unit="шт">1</consist>
+				<consist name="лизиантус" unit="шт">1</consist>
+				<consist name="калла" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF019" available="true">
+				<categoryId>1</categoryId>
+				<price>74545</price>
+				<name>Смелая Композиция</name>
+				<description>Яркий букет с антуриумами, орхидеями и гортензией — сочетание форм и оттенков создаёт эффект дорогого дизайнерского решения.
+Выглядит нестандартно и сразу привлекает внимание.
+Выбор для тех, кто хочет удивить и выйти за рамки классики.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1ziV7Q3rbQb4FC__h11LNAyCy3iqkb-NK</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=14roG1WykLhLo_oWv1kdEWtPJ5quxXWDv</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1GhUFBuRix8volohH6GmXMyv7er33jgW0</picture>
+				<consist name="гортензия" unit="шт">2</consist>
+				<consist name="орхидея" unit="шт">3</consist>
+				<consist name="антуриум" unit="шт">2</consist>
+				<consist name="вакс" unit="шт">1</consist>
+				<consist name="калла" unit="шт">3</consist>
+				<consist name="лизиантус" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">2</consist>
+				<consist name="дельфиниум" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF020" available="true">
+				<categoryId>1</categoryId>
+				<price>38182</price>
+				<name>Тёплая Классика</name>
+				<description>Сдержанный букет с розами, хризантемами и гортензией в мягкой цветовой гамме.
+Сбалансированный вариант, который подходит практически для любого повода.
+Выглядит аккуратно, приятно и без лишней перегруженности.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=11UXYek1wA3TTBdR26n6aWIm8_ySP3ci-</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1omSHkbJsLZtCfMAr4hyr20GEi8YqGVQN</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1kOAByOLfLazZu0HqFsV-LVV-ScV-YHIr</picture>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза" unit="шт">5</consist>
+				<consist name="хризантема" unit="шт">3</consist>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="вакс" unit="шт">1</consist>
+				<consist name="лилия" unit="шт">1</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="лизиантус" unit="шт">2</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF021" available="true">
+				<categoryId>1</categoryId>
+				<price>45455</price>
+				<name>Яркий Акцент</name>
+				<description>Контрастный букет с аллиумом и гортензией — необычные формы делают его визуально интересным и запоминающимся.
+Хороший выбор, если хочется подарить что-то свежое и отличающееся от классических вариантов.
+Создаёт лёгкий вау-эффект без излишней тяжести.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1ycMTG5Ag829Btvv7FNuaE827K9fi3hhl</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1RigDYcbOVFthJgRKTxMGkGGYEPFY-Fa5</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=16FtOLB7nXAx7obHNQPDCPgyReuqYoAqS</picture>
+				<consist name="аллиум" unit="шт">2</consist>
+				<consist name="гортензия" unit="шт">1</consist>
+				<consist name="хризантема" unit="шт">1</consist>
+				<consist name="леукоспермум" unit="шт">2</consist>
+				<consist name="дельфиниум" unit="шт">2</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF022" available="true">
+				<categoryId>1</categoryId>
+				<price>40000</price>
+				<name>Мягкий Взгляд</name>
+				<description>Лёгкий букет в спокойной цветовой гамме с розами, хризантемами и альстромерией.
+Смотрится аккуратно и приятно, без перегруза — универсальный вариант, который легко “зайдёт” любому.
+Подходит для подарка без повода или как деликатный знак внимания.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1g62AdYq0LyqMrV_EVN4yktP8vR4WWVKF</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1FCPBU87qPVEdj7bULjcnTlKBFxaNsCVY</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1SCIuxEqEWrSrIo_tWZ__PdMHbwn9gxk6</picture>
+				<consist name="хризантема" unit="шт">4</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="лизиантус" unit="шт">2</consist>
+				<consist name="гвоздика" unit="шт">3</consist>
+				<consist name="роза" unit="шт">6</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF023" available="true">
+				<categoryId>1</categoryId>
+				<price>50909</price>
+				<name>Живое Движение</name>
+				<description>Динамичный букет с орхидеями, розами и необычными акцентами.
+За счёт разных форм и уровней выглядит “живым” и объёмным, как будто постоянно меняется в руках.
+Хороший выбор, если хочется подарить что-то более выразительное, чем классика.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1z1YS32yU-jEU821NGCOGnVCJpXdf-vKI</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1ILT5twaeVcSxp6yL0cLOw0CLAPA_0tUu</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=12bAmClHJDFY1dXkF8G0qMYR1zpPqWgU8</picture>
+				<consist name="роза" unit="шт">7</consist>
+				<consist name="гиперикум" unit="шт">1</consist>
+				<consist name="орхидея" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<consist name="роза Джульетта" unit="шт">3</consist>
+				<consist name="лизиантус" unit="шт">3</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF024" available="true">
+				<categoryId>1</categoryId>
+				<price>40000</price>
+				<name>Пудровый Объём</name>
+				<description>Нежный букет с гортензиями и маттиолой в мягких оттенках.
+Выглядит воздушно и округло, создаёт ощущение уюта и лёгкости.
+Подходит для романтического подарка или тёплого жеста.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1KfFVxfOKlT9O6GQRJ0anko8T-7iYLo1u</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=16qwY4ERVAlVAjgPkTbcTtJHW4zkGwwJJ</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1RPU04IVBpo4UebCwANNhzWPniQNv9ySb</picture>
+				<consist name="роза Момоко" unit="шт">6</consist>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="лизиантус" unit="шт">3</consist>
+				<consist name="маттиола" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF025" available="true">
+				<categoryId>1</categoryId>
+				<price>72727</price>
+				<name>Объёмный Жест</name>
+				<description>Крупный букет с гортензиями, розами и маттиолой — насыщенный и визуально плотный.
+Сразу создаёт ощущение щедрости и масштаба.
+Идеален для ситуаций, где важно не просто подарить, а произвести впечатление.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1JRmop3BM8iMJeGzcaymtRij3ygpidm-v</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1B0oHPsbaZ6QPVYGqIl1-YOvvPsg34QZA</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1ph2peTaEkJqC7who3IDp4XnlgH7SpofP</picture>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="роза" unit="шт">9</consist>
+				<consist name="альстромерия" unit="шт">3</consist>
+				<consist name="маттиола" unit="шт">7</consist>
+				<consist name="лизиантус" unit="шт">5</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF026" available="true">
+				<categoryId>1</categoryId>
+				<price>127273</price>
+				<name>Садовый Люкс</name>
+				<description>Масштабный букет с розами, гортензиями, пионами и дельфиниумом — сложная композиция с разной текстурой и глубиной.
+Выглядит как полноценный “цветочный сад” в руках.
+Подходит для значимого события, где важен эффект, объём и ощущение дорогого подарка.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1dFO2hOjpMRG4NQ_NHCjtpuawfUqlNYWw</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1EU_lhqTedt9g9zQ1K7sqW47YxmQzOAD_</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1wdIa9PmX17eqHwE-PYHO6mBsJDfrK34_</picture>
+				<consist name="роза" unit="шт">13</consist>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="дельфиниум" unit="шт">3</consist>
+				<consist name="пион" unit="шт">2</consist>
+				<consist name="гиперикум" unit="шт">3</consist>
+				<consist name="вибурнум" unit="шт">3</consist>
+				<consist name="лилия" unit="шт">2</consist>
+				<consist name="альстромерия" unit="шт">2</consist>
+				<consist name="лизиантус" unit="шт">3</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF027" available="true">
+				<categoryId>1</categoryId>
+				<price>36364</price>
+				<name>Небесная Нежность</name>
+				<description>Нежный букет в голубых и кремовых оттенках выглядит свежо, воздушно и необычно. Подойдёт для поздравления, свидания, дня рождения или как красивый знак внимания без лишней вычурности.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1h427zEBL7_Zp0nA_kU9Ys4-X4Ehyg30P</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1BfHhRY7uucN22j2Ak5fNG1FSYu7dO5Nb</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1i9l-SRfvEM9U60MyS2xNWllW9WbJf3XE</picture>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="пион" unit="шт">5</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF028" available="true">
+				<categoryId>1</categoryId>
+				<price>36364</price>
+				<name>Розовый Рассвет</name>
+				<description>Мягкий и романтичный букет в нежных розовых оттенках. Выглядит аккуратно, женственно и дорого. Отличный выбор для мамы, девушки, подруги или коллеги, когда хочется подарить тёплые эмоции.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=10RDDBtY7r83OoTqUr5XIMC9m4DXdCKBp</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1piKgNQ92kQo16priA1A52xSYDr6gbHYW</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=15Ni_lw6QN3Ri3xN8hXnU-gWt1uxGLZAd</picture>
+				<consist name="гортензия" unit="шт">3</consist>
+				<consist name="пион" unit="шт">5</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF029" available="true">
+				<categoryId>1</categoryId>
+				<price>21818</price>
+				<name>7 спрей роз сорта Bella Linda</name>
+				<description>Эффектный букет в насыщенных розово-красных оттенках для тех случаев, когда подарок должен сразу привлечь внимание. Подойдёт для признания, свидания, праздника или яркого комплимента.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1Pi28R5Y7-mgGxVyMBhAFNZCFfkWv6_H-</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1kn7zyJq0zNXTlqIfkHA0OCjnX1WVn6xE</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=18GogKXRaDGP40xc80ZeCp9s3MItiXpzQ</picture>
+				<consist name="спрей-роза" unit="шт">7</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF030" available="true">
+				<categoryId>1</categoryId>
+				<price>32727</price>
+				<name>11 спрей роз сорта Bella Linda</name>
+				<description>Пышный букет с насыщенным цветом и выразительной подачей. Смотрится объёмно, празднично и статусно. Хороший вариант для дня рождения, годовщины, поздравления или красивого сюрприза.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1f4imhLbZ371z-ZFUBS8_mwqzG_1Z3H8I</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1jU0pN9xY7qsS-k897aMF0jDmU6fSj5jb</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1EIHTaS_JcQN3EH594fCq01Nd6vr9olnI</picture>
+				<consist name="спрей-роза" unit="шт">11</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF031" available="true">
+				<categoryId>1</categoryId>
+				<price>34545</price>
+				<name>11 спрей роз сорта Bella Linda и эвкалипт</name>
+				<description>Яркий букет в сочных красных и розовых оттенках. Упаковка усиливает праздничный образ и делает букет особенно заметным. Подходит для романтического подарка, дня рождения или приятного сюрприза.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1otLD4QHLZU6TbXVKCQ6QDBmbHNqRWe5z</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1qsDBZ4cJX6nWpNY63u--iuUSNHH_pt6r</picture>
+				<consist name="спрей-роза" unit="шт">11</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF032" available="true">
+				<categoryId>1</categoryId>
+				<price>70000</price>
+				<name>25 спрей роз сорта Bella Linda</name>
+				<description>Пышный и выразительный букет в насыщенных малиновых оттенках. Смотрится ярко, празднично и дорого — отличный выбор для дня рождения, романтического подарка или эффектного поздравления.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1jEWDn3U-d35R_OGs-o-El_Ha5RwLhWUG</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1N2HxfYro8nsMVo6GGCFVLVPfjZrlwRYb</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1uD-9lUwNjbr-O17V-auQlysG03PcKz-R</picture>
+				<consist name="спрей-роза" unit="шт">25</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF033" available="true">
+				<categoryId>1</categoryId>
+				<price>32727</price>
+				<name>9 спрей роз в корзине</name>
+				<description>Нежный букет в розовых оттенках с лёгкими зелёными акцентами. Выглядит свежо, аккуратно и романтично. Подойдёт для девушки, мамы, подруги или как красивый комплимент без повода.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1HSN-PgrkX1YfklNUmJJAKkx8DyBS3s4k</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1SMjAnRHDi3snUWQjlM-Bv9VzzN2-WSTO</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1Vovw1_Pcv9T2GGDW9LhpUt7_QtSAfYO1</picture>
+				<consist name="спрей-роза" unit="шт">9</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
+			</offer>
+			<offer id="AF034" available="true">
+				<categoryId>1</categoryId>
+				<price>52727</price>
+				<name>15 спрей роз в корзине</name>
+				<description>Элегантная цветочная композиция в корзине с розовыми оттенками и декоративной лентой. Удобный и красивый подарок, который не требует вазы и сразу выглядит завершённо. Подойдёт для дня рождения, благодарности, поздравления или приятного сюрприза.</description>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1lVuThdHFnXeNQPrPkkatx7zfRNG-ua-i</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=1YR2G1--GzuV_re00L_d43lm8KMaDAwA4</picture>
+				<picture>https://drive.google.com/uc?export=view&amp;id=15PRs1JP8HFOC86RWBUuTRlUDDsG8lQlj</picture>
+				<consist name="спрей-роза" unit="шт">15</consist>
+				<consist name="эвкалипт" unit="шт">1</consist>
+				<param name="Высота, мм">600</param>
+				<param name="Ширина, мм">450</param>
 			</offer>
 		</offers>
 	</shop>
