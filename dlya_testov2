@@ -15,10 +15,9 @@
 				<price>2500</price>
 				<description>Букет из свежих фруктов</description>
 				<picture>https://cdn.pixabay.com/photo/2016/11/29/18/25/running-shoes-1871261_1280.jpg</picture>
-				<consist name="клубника" unit="шт">10</consist>
-				<consist name="яблоко" unit="шт">2</consist>
-
+<param name="Высота, мм">250</param>
+				<param name="Ширина, мм">200</param>
 			</offer>
-</offers>
+		</offers>
 	</shop>
 </yml_catalog>
