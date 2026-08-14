@@ -40,8 +40,8 @@
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
 
-                <param name="compliance document">1</param>
-                <param name="compliance document link">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
             </offer>
 
             <!-- Технические названия тегов -->
