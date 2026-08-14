@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-01-20T12:00:00+03:00">
+<yml_catalog date="2026-08-14 15:00">
     <shop>
-        <name>Флоувоу минимальный магазин</name>
-        <company>ООО Флоувоу</company>
+        <name>Проверка тегов документов соответствия</name>
+        <company>ООО Тест</company>
         <url>https://flowwow.loc</url>
+
         <categories>
-            <category id="1">Цветы</category>
+            <category id="23">Декор</category>
         </categories>
+
         <offers>
-            <offer id="12345679" available="true">
-				<categoryId>1</categoryId>
-				<price>1501</price>
-				<name>Новый товар для тестов2</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/524/n4d92x6ab9mj3to2ne75t6c0fysuw7ao.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
-<param name="composition">Новый состав</param>
-				<param name="Высота, мм">400</param>
-				<param name="Ширина, мм">250</param>
-			</offer>
-         </offers>
+            <!-- Русские названия -->
+            <offer id="GAO1158-TAGS-RU" available="true">
+                <url>https://flowwow.loc/offer/tags-ru</url>
+                <categoryId>23</categoryId>
+                <name>Проверка русских тегов</name>
+                <price>1101</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Русские названия параметров</description>
+
+                <param name="документ соответствия">1</param>
+                <param name="ссылка на документ">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
+            </offer>
+
+            <!-- Английские названия -->
+            <offer id="GAO1158-TAGS-EN" available="true">
+                <url>https://flowwow.loc/offer/tags-en</url>
+                <categoryId>23</categoryId>
+                <name>Проверка английских тегов</name>
+                <price>1102</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Английские названия параметров</description>
+
+                <param name="compliance document">1</param>
+                <param name="compliance document link">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
+            </offer>
+
+            <!-- Технические названия -->
+            <offer id="GAO1158-TAGS-SNAKE-CASE" available="true">
+                <url>https://flowwow.loc/offer/tags-snake-case</url>
+                <categoryId>23</categoryId>
+                <name>Проверка технических тегов</name>
+                <price>1103</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Технические названия полей</description>
+
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+        </offers>
     </shop>
 </yml_catalog>
