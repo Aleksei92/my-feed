@@ -10,40 +10,52 @@
         </categories>
 
         <offers>
-            <!-- Русские названия -->
+            <!-- Русские названия тегов -->
             <offer id="GAO1158-TAGS-RU" available="true">
                 <url>https://flowwow.loc/offer/tags-ru</url>
                 <categoryId>23</categoryId>
                 <name>Проверка русских тегов</name>
                 <price>1101</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Русские названия параметров</description>
+                <description>Русские названия параметров документа соответствия</description>
+
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
 
                 <param name="документ соответствия">1</param>
                 <param name="ссылка на документ">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
             </offer>
 
-            <!-- Английские названия -->
+            <!-- Английские названия тегов -->
             <offer id="GAO1158-TAGS-EN" available="true">
                 <url>https://flowwow.loc/offer/tags-en</url>
                 <categoryId>23</categoryId>
                 <name>Проверка английских тегов</name>
                 <price>1102</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Английские названия параметров</description>
+                <description>Английские названия параметров документа соответствия</description>
+
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
 
                 <param name="compliance document">1</param>
                 <param name="compliance document link">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
             </offer>
 
-            <!-- Технические названия -->
+            <!-- Технические названия тегов -->
             <offer id="GAO1158-TAGS-SNAKE-CASE" available="true">
                 <url>https://flowwow.loc/offer/tags-snake-case</url>
                 <categoryId>23</categoryId>
                 <name>Проверка технических тегов</name>
                 <price>1103</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Технические названия полей</description>
+                <description>Технические названия полей документа соответствия</description>
+
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
 
                 <compliance_document_type>1</compliance_document_type>
                 <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
