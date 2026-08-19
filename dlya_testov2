@@ -8,15 +8,14 @@
             <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="polygen" available="true">
+            <offer id="polygen112" available="true">
 				<categoryId>1</categoryId>
 				<price>150221</price>
 				<name>Новый товар для тестов срокой офферид обновление</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
 				<consist name="роза" unit="шт">5</consist>
-				<param name="Высота, мм">4020</param>
-				<param name="Ширина, мм">2520</param>
+				<param name="размер>10/20/30</param>				
 			</offer>
          </offers>
     </shop>
