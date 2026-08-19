@@ -15,7 +15,7 @@
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
 				<consist name="роза" unit="шт">5</consist>
-				<param name="размер">10/20/30</param>				
+				<dimensions>10/20/30</dimensions>				
 			</offer>
          </offers>
     </shop>
