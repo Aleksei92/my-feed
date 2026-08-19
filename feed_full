@@ -223,7 +223,7 @@
                 <gender>женщина</gender>
                 <material>Шерсть</material>
                 <!-- Для одежды остаток обязателен; алиасы также count/amount/quantity. -->
-                <quantity>12</quantity>
+                <qty>100</qty>
             </offer>
 
             <!-- КАРТИНЫ: обязательны автор и оригинальность. -->
