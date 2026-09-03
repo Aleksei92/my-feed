@@ -10,7 +10,7 @@
         <offers>
             <offer id="1234569" available="true">
 				<categoryId>1</categoryId>
-				<price>1500</price>
+				<price>150</price>
 				<name>Новый товар для тестов2 тематические</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 <picture>https://content3.flowwow-images.com/data/flowers/524x524/62/1738824866_65837362.jpg</picture>
