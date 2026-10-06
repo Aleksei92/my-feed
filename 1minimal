@@ -21,18 +21,6 @@
 				<param name="Ширина, мм">250</param>
 <qty>20</qty>
 			</offer>
-<offer id="12345ewr69" available="true">
-				<categoryId>1</categoryId>
-				<price>151515</price>
-				<name>Новый товар 22dcо</name>
-				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
-<picture>https://flowwow.com/admin/img/order/empty-order/block-1/fw-app.svg</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
-				<consist name="роза" unit="шт">10</consist>
-				<param name="Высота, см">400</param>
-				<param name="Ширина, мм">250</param>
-<qty>50</qty>
-			</offer>
          </offers>
     </shop>
 </yml_catalog>
