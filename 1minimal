@@ -11,9 +11,21 @@
             <offer id="1234569" available="true">
 				<categoryId>1</categoryId>
 				<price>151515</price>
-				<name>Новый товар с новыйм названием, описанием фото</name>
+				<name>Новый товар с новыйм названим, опианием фоо</name>
 				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
 <picture>https://content3.flowwow-images.com/data/flowers/524x524/62/1738824866_65837362.jpg</picture>
+<picture>https://flowwow.com/admin/img/order/empty-order/block-1/fw-app.svg</picture>
+				<consist name="роза" unit="шт">50</consist>
+				<param name="Высота, см">400</param>
+				<param name="Ширина, мм">250</param>
+<qty>20</qty>
+			</offer>
+<offer id="1234569" available="true">
+				<categoryId>1</categoryId>
+				<price>151515</price>
+				<name>Новый товар 22dcо</name>
+				<description>Классический букет из 5 роз минимальные поля и поменяем цену для обновления</description>
 <picture>https://flowwow.com/admin/img/order/empty-order/block-1/fw-app.svg</picture>
 <picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/ccb/5ndj9q1l1103ix70t0dna3yamogabkw7.webp</picture>
 				<consist name="роза" unit="шт">10</consist>
